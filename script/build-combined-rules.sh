@@ -15,31 +15,17 @@ error() {
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
     [Ad]="sort-adblock.py
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt
-        https://raw.githubusercontent.com/ghvjjjj/adblockfilters/main/rules/adblockdnslite.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
+        https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
+        https://gist.githubusercontent.com/qq6510/45173fd5128994bfbe0add665dec8b19/raw/xiaomi.txt
     "
     [Proxy]="sort-clash.py
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-        https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
+        https://raw.githubusercontent.com/DustinWin/ruleset_geodata/refs/heads/mihomo-ruleset/ai.list
+        https://gist.githubusercontent.com/qq6510/c336dd2875fbf04fb50e1016783592d4/raw/Copilot.list
     "
-    [Direct]="sort-clash.py
-        https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
+    [zhi]="sort-clash.py
+        https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/meta/domain/fake-ip-filter.list
+        https://github.com/QuixoticHeart/rule-set/raw/ruleset/meta/domain/onedrive.list
+        https://gist.githubusercontent.com/qq6510/070fd7851bfcb60e8eef66d9eb48922d/raw/zh.txt
     "
 )
 
