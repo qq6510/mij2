@@ -25,7 +25,7 @@ declare -A RULES=(
     [zhi]="sort-clash.py
         https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/meta/domain/fake-ip-filter.list
         https://github.com/QuixoticHeart/rule-set/raw/ruleset/meta/domain/onedrive.list
-        https://gist.githubusercontent.com/qq6510/070fd7851bfcb60e8eef66d9eb48922d/raw/zh.txt
+        https://gist.githubusercontent.com/qq6510/070fd7851bfcb60e8eef66d9eb48922d/raw/zh.list
     "
 )
 
