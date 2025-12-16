@@ -44,6 +44,7 @@
 +.10086.za
 +.10099.com.cn
 +.126.net
++.1drv.com
 +.3gppnetwork.org
 +.DC._msDCS.*.*
 +.GC._msDCS.*.*
@@ -124,6 +125,7 @@
 +.id.mail.wo.cn
 +.id6.me
 +.injections.adguard.org
++.ipv6.microsoft.com*
 +.jegotrip.com.cn
 +.joox.com
 +.kuwo.cn

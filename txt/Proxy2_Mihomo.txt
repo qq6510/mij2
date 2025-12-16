@@ -7651,7 +7651,6 @@
 +.eastbabes.com
 +.eastern-ark.com
 +.easternlightning.org
-+.easternlightning.org.com
 +.eastore.com
 +.easttouch.com.hk
 +.eastturkestan.com
@@ -17953,7 +17952,6 @@
 +.okx-dns1.com
 +.okx-dns2.com
 +.okx.com
-+.ol.hu
 +.olabloga.pl
 +.old-cat.net
 +.older-women-movies.com
