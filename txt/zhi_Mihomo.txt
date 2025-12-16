@@ -89,7 +89,6 @@
 +.chinamobile.id
 +.chinamobile.in
 +.chinamobile.it
-+.chinamobile.jp
 +.chinamobile.kr
 +.chinamobile.mx
 +.chinamobile.my
