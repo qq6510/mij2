@@ -1,4 +1,5 @@
 +.ai.azure.com
++.ai.google.dev
 +.aida.googleapis.com
 +.aisandbox-pa.googleapis.com
 +.aistudio.google.com
@@ -117,7 +118,6 @@
 +.pplx.ai
 +.proactivebackend-pa.googleapis.com
 +.production-openaicom-storage.azureedge.net
-+.r.bing.com
 +.robinfrontend-pa.googleapis.com
 +.segment.io
 +.self.events.data.microsoft.com
@@ -130,6 +130,5 @@
 +.sydney.bing.com
 +.trae.ai
 +.turn.livekit.cloud
-+.v2rayssr.comai.google.dev
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.x.ai
