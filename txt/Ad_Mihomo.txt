@@ -1281,7 +1281,6 @@
 +.sc.sonystyle.com.cn
 +.sdk.markmedia.com.cn
 +.sdk.stat.foreign.nearme.com.cn
-+.sdktmp.hubcloud.com.cn
 +.securemetrics.apple.com.cn
 +.smetrics.beatsbydre.com.cn
 +.smetrics.benefitcosmetics.com.cn
@@ -2164,6 +2163,7 @@
 +.hswfj.cn
 +.hsych.com
 +.httpdns.pro
++.httpdns.push
 +.app-analytics-ru.huami.com
 +.huohuo.huamuwo.com
 +.hy.huangye88.net
@@ -3081,6 +3081,7 @@
 +.httpdns.ocloud.oppomobile.com
 +.httpdns.push.oppomobile.com
 +.imagzine.oppomobile.com
++.sdktmp.h.oppomobile.com
 +.sms.ads.oppomobile.com
 +.optimix.asia
 +.vpass-jp.opyei.cn
