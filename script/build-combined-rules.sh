@@ -33,7 +33,6 @@ declare -A RULES=(
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
         https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
     "
 )
 
