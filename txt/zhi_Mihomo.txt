@@ -37,6 +37,7 @@
 +.10086.vn
 +.10086.za
 +.126.net
++.1drv.com
 +.3gppnetwork.org
 +.DC._msDCS.*.*
 +.GC._msDCS.*.*
@@ -114,6 +115,7 @@
 +.injections.adguard.org
 +.internal
 +.invalid
++.ipv6.microsoft.com
 +.joox.com
 +.jp
 +.lan

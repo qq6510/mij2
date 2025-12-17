@@ -1,5 +1,4 @@
 +.ai.azure.com
-+.ai.google.dev
 +.aida.googleapis.com
 +.aisandbox-pa.googleapis.com
 +.aistudio.google.com
@@ -131,6 +130,6 @@
 +.sydney.bing.com
 +.trae.ai
 +.turn.livekit.cloud
-+.v2rayssr.com
++.v2rayssr.comai.google.dev
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.x.ai
