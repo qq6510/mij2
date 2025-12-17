@@ -55,7 +55,10 @@ process_rules() {
     # 并行下载规则到临时文件
     > "$tmp_file"
     log "开始下载规则文件到临时文件: $tmp_file"
-    printf "%s\n" "${urls[@]}" | xargs -P 16 -I {} sh -c 'curl --http2 --compressed --max-time 30 --retry 3 -sSL "{}" >> '"$tmp_file"' || echo "Failed: {}" >&2'
+    
+    # 【核心修复】：在 curl 命令执行后强制执行 echo ""。
+    # 这样即使下载的文件末尾没有换行符，也不会导致下一个文件的内容与其首尾相连。
+    printf "%s\n" "${urls[@]}" | xargs -P 16 -I {} sh -c 'curl --http2 --compressed --max-time 30 --retry 3 -sSL "{}" >> '"$tmp_file"'; echo "" >> '"$tmp_file"''
 
     if [ $? -ne 0 ]; then
         error "下载规则失败: $name"
@@ -79,7 +82,7 @@ process_rules() {
     fi
     log "Python 脚本执行完成: $script"
 
-    # 转换为 Mihomo 格式
+    # 转换为 Mihomo 格式：这里会删除空白行并统一添加 +. 前缀
     sed '/^[[:space:]]*$/d; /^#/d; s/^/+./' "$domain_file" > "$mihomo_txt_file"
     ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
     if [ $? -ne 0 ]; then
@@ -133,5 +136,5 @@ done
 wait
 
 # 清理缓存文件
-rm -rf ./*.txt "$mihomo_tool"
+rm -rf ./*.txt "$mihomo_tool" version.txt
 log "脚本执行完成，已清理临时文件"
