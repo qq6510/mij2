@@ -100,6 +100,8 @@
 +.oaiusercontent.com
 +.observeit.net
 +.odc.officeapps.live.com
++.opal.google
++.opal.google.com
 +.openai-api.arkoselabs.com
 +.openai.com
 +.openai.com.cdn.cloudflare.net

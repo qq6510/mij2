@@ -160,4 +160,3 @@
 +.xbox.*.microsoft.com
 +.xboxlive.com
 +.xiami.com
-+.xn--ngstr-lra8j.com

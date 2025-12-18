@@ -579,7 +579,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1686,7 +1685,6 @@
 +.applepaysupplies.tv
 +.applepencil.net
 +.applepodcasts.com
-+.applereach.com
 +.applereach.net
 +.applescreensavers.com
 +.applescript.info
@@ -6457,6 +6455,7 @@
 +.er
 +.erabaru.net
 +.eraofconnection.com
++.ereach.com
 +.erepublik.com
 +.ericsson
 +.erights.net
