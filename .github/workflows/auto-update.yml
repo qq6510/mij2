@@ -22,7 +22,7 @@ jobs:
       actions: write
     
     steps:
-      # 第一步：拉取代码，fetch-depth: 0 确保获取完整历史以减少冲突
+      # 第一步：拉取代码，fetch-depth: 0 包含完整历史
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -32,8 +32,8 @@ jobs:
         run: |
           bash ./script/build-combined-rules.sh
       
-      # 第三步：提交并强制推送
-      # 这里添加了 push_options: '--force'，解决你遇到的 non-fast-forward 错误
+      # 第三步：提交并推送更改
+      # 使用 push_options: '--force' 解决之前的冲突报错
       - name: Commit Changes
         id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -41,7 +41,7 @@ jobs:
           commit_message: 🚀 CI Updated
           push_options: '--force'
 
-      # 第四步：清理旧的任务记录，保持 Action 界面整洁
+      # 第四步：清理旧的工作流运行记录
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
