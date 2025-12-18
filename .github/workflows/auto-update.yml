@@ -22,26 +22,26 @@ jobs:
       actions: write
     
     steps:
-      # Checkout the repository (fetch-depth: 0 包含完整历史)
+      # 第一步：拉取代码，fetch-depth: 0 确保获取完整历史以减少冲突
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # Run build script
+      # 第二步：运行构建脚本
       - name: Built Rules
         run: |
           bash ./script/build-combined-rules.sh
       
-      # Commit and push changes if detected
+      # 第三步：提交并强制推送
+      # 这里添加了 push_options: '--force'，解决你遇到的 non-fast-forward 错误
       - name: Commit Changes
         id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 🚀 CI Updated
-          # 添加强制推送选项，解决版本冲突报错
           push_options: '--force'
 
-      # Delete old workflow runs
+      # 第四步：清理旧的任务记录，保持 Action 界面整洁
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
