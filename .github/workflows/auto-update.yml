@@ -1,4 +1,4 @@
-name: Update Filters
+Name: Update Filters
 on:
   push:
     paths-ignore:
@@ -22,8 +22,10 @@ jobs:
       actions: write
     
     steps:
-      # Checkout the repository
+      # Checkout the repository (fetch-depth: 0 包含完整历史)
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # Run build script
       - name: Built Rules
@@ -36,7 +38,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 🚀 CI Updated
-
+          # 添加强制推送选项，解决版本冲突报错
+          push_options: '--force'
 
       # Delete old workflow runs
       - name: Delete workflow runs
