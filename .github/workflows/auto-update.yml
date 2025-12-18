@@ -1,4 +1,4 @@
-Name: Update Filters
+name: Update Filters
 on:
   push:
     paths-ignore:
