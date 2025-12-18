@@ -22,26 +22,34 @@ jobs:
       actions: write
     
     steps:
-      # 第一步：拉取代码，fetch-depth: 0 包含完整历史
+      # 1. 获取代码，fetch-depth: 0 确保获取所有历史
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 第二步：运行构建脚本
+      # 2. 核心修复步骤：强制本地分支与远程 main 对齐，消除 "Diverged" 状态
+      - name: Reset local branch to remote
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      # 3. 运行构建脚本
       - name: Built Rules
         run: |
           bash ./script/build-combined-rules.sh
       
-      # 第三步：提交并推送更改
-      # 使用 push_options: '--force' 解决之前的冲突报错
+      # 4. 提交并强制推送
       - name: Commit Changes
-        id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 🚀 CI Updated
+          # 使用 --force 强制覆盖远程冲突
           push_options: '--force'
+          # 如果没有文件变化，不报错
+          skip_dirty_check: false
 
-      # 第四步：清理旧的工作流运行记录
+      # 5. 清理记录
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
