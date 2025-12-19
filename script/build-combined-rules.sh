@@ -15,6 +15,7 @@ error() {
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
     [Ad]="sort-adblock.py
+        https://raw.githubusercontent.com/qq6510/mij3/main/domains.txt
         https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
         https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
         https://gist.githubusercontent.com/qq6510/45173fd5128994bfbe0add665dec8b19/raw/xiaomi.txt
