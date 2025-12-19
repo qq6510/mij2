@@ -5,12 +5,11 @@ import re
 
 # 定义需要过滤的国家域名后缀
 REMOVE_TLD = {
-    # 亚洲
-    ".jp", ".kr", ".in", ".id", ".th", ".sg", ".my", ".ph", ".vn",
-    ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
+    # 亚洲 (剔除了 .in, .id, .th, .vn, .ph 等广告/博彩高发区)
+    ".jp", ".kr", ".sg", ".my", ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
 
-    # 欧洲
-    ".uk", ".de", ".fr", ".it", ".es", ".ru", ".nl", ".be", ".ch", ".at", ".pl",
+    # 欧洲 (剔除了 .ru，俄罗斯后缀是全球公认的恶意软件和广告重灾区)
+    ".uk", ".de", ".fr", ".it", ".es", ".nl", ".be", ".ch", ".at", ".pl",
     ".cz", ".se", ".no", ".fi", ".dk", ".gr", ".pt", ".ie", ".hu", ".ro", ".bg",
     ".sk", ".si", ".lt", ".lv", ".ee", ".is", ".md", ".ua", ".by", ".am", ".ge",
 
@@ -22,9 +21,9 @@ REMOVE_TLD = {
     ".za", ".eg", ".ng", ".ke", ".gh", ".tz", ".ug", ".dz", ".ma", ".tn", ".ly",
     ".ci", ".sn", ".zm", ".zw", ".ao", ".mz", ".bw", ".na", ".rw", ".mw", ".sd",
 
-    # 大洋洲
+    # 大洋洲 (剔除了 .tk, .tv 等常用于非法流媒体或免费垃圾站的后缀)
     ".au", ".nz", ".fj", ".pg", ".sb", ".vu", ".nc", ".pf", ".ws", ".to", ".ki",
-    ".tv", ".nr", ".as",
+    ".nr", ".as",
 
     # 中东
     ".sa", ".ae", ".ir", ".il", ".iq", ".tr", ".sy", ".jo", ".lb", ".om", ".qa",
