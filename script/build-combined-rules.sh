@@ -57,8 +57,6 @@ process_rules() {
     > "$tmp_file"
     log "开始下载规则文件到临时文件: $tmp_file"
     
-    # 【核心修复】：在 curl 命令执行后强制执行 echo ""。
-    # 这样即使下载的文件末尾没有换行符，也不会导致下一个文件的内容与其首尾相连。
     printf "%s\n" "${urls[@]}" | xargs -P 16 -I {} sh -c 'curl --http2 --compressed --max-time 30 --retry 3 -sSL "{}" >> '"$tmp_file"'; echo "" >> '"$tmp_file"''
 
     if [ $? -ne 0 ]; then
@@ -83,8 +81,14 @@ process_rules() {
     fi
     log "Python 脚本执行完成: $script"
 
-    # 转换为 Mihomo 格式：这里会删除空白行并统一添加 +. 前缀
+    # --- 核心修复部分 ---
+    # 1. 移除可能存在的行首多余点号或加号（防止出现 +..com）
+    # 2. 删除空白行
+    # 3. 统一添加 +. 前缀
+    sed -i 's/^[.+]*//' "$domain_file"
     sed '/^[[:space:]]*$/d; /^#/d; s/^/+./' "$domain_file" > "$mihomo_txt_file"
+    # ------------------
+
     ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
     if [ $? -ne 0 ]; then
         error "Mihomo 工具转换失败: $mihomo_txt_file"
