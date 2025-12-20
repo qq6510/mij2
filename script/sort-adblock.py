@@ -6,7 +6,7 @@ import re
 # 定义需要过滤的国家域名后缀
 REMOVE_TLD = {
     # 亚洲 (剔除了 .in, .id, .th, .vn, .ph 等广告/博彩高发区)
-    ".jp", ".kr", ".sg", ".my", ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
+    ".my", ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
 
     # 欧洲 (剔除了 .ru，俄罗斯后缀是全球公认的恶意软件和广告重灾区)
     ".uk", ".de", ".fr", ".it", ".es", ".nl", ".be", ".ch", ".at", ".pl",
