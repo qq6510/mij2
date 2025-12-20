@@ -457,7 +457,6 @@
 +.7mmtv.tv
 +.7tb.cc
 +.8-d.com
-+.8.tv
 +.8008206616.com
 +.8111y.top
 +.81jia.tv
@@ -3835,6 +3834,7 @@
 +.c-span.org
 +.c-spanvideo.org
 +.c.mi.com
++.c.rexroth
 +.c0930.com
 +.c100tibet.org
 +.c2cx.com
@@ -5121,7 +5121,6 @@
 +.dajiyuan.com
 +.dalailama-archives.org
 +.dalailama.com
-+.dalailama.us.com
 +.dalailama80.org
 +.dalailamacenter.org
 +.dalailamafellows.org
@@ -9231,6 +9230,7 @@
 +.hindawi.com
 +.hindiweb.com
 +.hindustantimes.com
++.hineseupress.com
 +.hinet.net
 +.hipaa6020.com
 +.hiporn.net
@@ -10736,7 +10736,6 @@
 +.jav321.com
 +.jav4you.org
 +.jav68.tv
-+.jav6hidecloud.com
 +.jav777.cc
 +.jav789.com
 +.jav889.xyz
@@ -16380,7 +16379,6 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
-+.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -19206,7 +19204,6 @@
 +.tw-npo.org
 +.tw.hao123.com
 +.tw.iqiyi.com
-+.tw.streetesilio.com
 +.tw.weibo.com
 +.tw01.org
 +.tw985.com
@@ -20019,7 +20016,6 @@
 +.vod360.net
 +.vodafone.com
 +.vodka
-+.voice.com
 +.voicettank.org
 +.vokevr.com
 +.volvo

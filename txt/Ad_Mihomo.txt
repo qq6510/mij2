@@ -2341,6 +2341,8 @@
 +.rekhagroup.co.in
 +.rpcollegevasai.co.in
 +.ssmghospital.co.in
++.nagoyameshi.co.jp
++.knnews.co.kr
 +.jmacs-m.lazada.co.th
 +.msgacs-m.lazada.co.th
 +.thaidns.co.th
@@ -2679,6 +2681,7 @@
 +.dailydemocracytoday.com
 +.dailydeportes.pw
 +.dailyxxxclips.com
++.daissue.kr
 +.daisuki-na-fansub.com
 +.dandanzan.com
 +.daneshonline.com
@@ -3601,6 +3604,7 @@
 +.cms.grandcloud.cn
 +.download.grandcloud.cn
 +.grandmaxxxhd.com
++.grandnews.kr
 +.grannyxxxhd.com
 +.grannyxxxvideos.com
 +.graysonreedmusic.com
@@ -3921,6 +3925,7 @@
 +.hoghogh.net
 +.smetrics.hollisterco.cn
 +.hologramid.cn
++.oniym.holy.jp
 +.hosszupuskasub.com
 +.hot-jav.xyz
 +.hot4k.org
@@ -4880,6 +4885,9 @@
 +.orange-dc.lazada.com
 +.ph-log-emagzal.lazada.com
 +.sg-log-emagzal.lazada.com
++.ifs.lazada.sg
++.jmacs-m.lazada.sg
++.msgacs-m.lazada.sg
 +.jmacs-m.lazada.vn
 +.msgacs-m.lazada.vn
 +.lazerepilasyonmerkezim.com
@@ -5241,6 +5249,7 @@
 +.xiaomi-dtv.m.cn.miaozhen.com
 +.micro-xdb.com
 +.microad-cn.com
++.microad.jp
 +.micromerchant.xyz
 +.bingads.microsoft.com
 +.watson.microsoft.com
@@ -6553,6 +6562,7 @@
 +.rywnvzd.cn
 +.rz261.cn
 +.rznscya.cn
++.s-ca.jp
 +.sabarpratham.in
 +.sacre.cn
 +.sadeceniyihdfilmizle.com
@@ -6672,6 +6682,7 @@
 +.sglyd.cn
 +.online.sh.cn
 +.shabhayetanhayi.com
++.eywvko.shaddy.jp
 +.api.shanghailingye.cn
 +.js.shangxueba.com
 +.shanhutech.cn
@@ -6937,6 +6948,7 @@
 +.stg8.com
 +.stgowan.com
 +.storycheer.com
++.storyschool.kr
 +.streamcloud.eu
 +.streamhd.eu
 +.streamingbokeps.net
@@ -7338,6 +7350,7 @@
 +.truyentranhtam.com
 +.truyentranhtuan.com
 +.ts166.net
++.tsumaran.jp
 +.ttdbh.com
 +.tubeqd.tv
 +.tubexxxone.com
@@ -7957,6 +7970,7 @@
 +.go.pardot.wondershare.com
 +.helper-stats.wondershare.com
 +.platform.wondershare.com
++.irurng.wondershare.jp
 +.woniu.com
 +.analytics.woozooo.com
 +.statics.woozooo.com
