@@ -6423,6 +6423,7 @@
 +.entrust.com
 +.entrust.net
 +.entrustdatacard.com
++.eotarchive.org
 +.epicbrowser.com
 +.epicgames.com
 +.epicgamescdn.com
@@ -8300,6 +8301,7 @@
 +.ghanely.me
 +.ghettotube.com
 +.ghidra-sre.org
++.ghostarchive.org
 +.ghostgames.com
 +.ghostnoteapp.com
 +.ghostpath.com
@@ -12423,6 +12425,7 @@
 +.meme111.com
 +.memealerts.com
 +.memehk.com
++.mementoweb.org
 +.memorybbs.com
 +.memri.org
 +.memrijttm.org
@@ -15000,6 +15003,7 @@
 +.perfectvpn.net
 +.periscope.tv
 +.perl.org
++.perma.cc
 +.perplexity.com
 +.persagg.com
 +.persecutionblog.com
@@ -20277,6 +20281,7 @@
 +.webcammedellin.co
 +.webcams.tv
 +.webcamtubexxx.com
++.webcitation.org
 +.weber
 +.webevader.org
 +.webex.com
