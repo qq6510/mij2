@@ -45,7 +45,7 @@
 +.injections.adguard.org
 +.internal
 +.invalid
-+.ipv6.microsoft.com
++.ipv6.microsoft.com*
 +.jegotrip.com.cn
 +.joox.com
 +.kuwo.cn
