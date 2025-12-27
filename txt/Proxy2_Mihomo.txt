@@ -1564,7 +1564,6 @@
 +.appe-store.com
 +.appexchange.com
 +.appget.com
-+.appl
 +.appl-e.com
 +.appl.com
 +.appl4e.com
@@ -1687,6 +1686,7 @@
 +.applepaysupplies.tv
 +.applepencil.net
 +.applepodcasts.com
++.applereach.com
 +.applereach.net
 +.applescreensavers.com
 +.applescript.info
@@ -6459,7 +6459,6 @@
 +.er
 +.erabaru.net
 +.eraofconnection.com
-+.ereach.com
 +.erepublik.com
 +.ericsson
 +.erights.net
