@@ -75,21 +75,21 @@ process_rules() {
     sed -i 's/\r//' "$domain_file"
     log "已修复换行符: $domain_file"
 
-    python3 "$script" "$domain_file"
+    python "$script" "$domain_file"
     if [ $? -ne 0 ]; then
         error "Python 脚本执行失败: $script"
         return 1
     fi
     log "Python 脚本执行完成: $script"
 
-    # --- 核心修复与优化部分 ---
-    # 1. 清理行首和行尾的所有空格、点号(.)和加号(+)
+    # --- 核心修复部分 ---
+    # 1. 清理行首和行尾可能存在的点号、加号或空格
     sed -i 's/^[[:space:].+]*//; s/[[:space:].+]*$//' "$domain_file"
     
-    # 2. 过滤掉不含字符/数字的无效行，过滤注释，并统一添加 +. 前缀
-    # 使用 -n 和 p 确保只有匹配到的合法行会被写入
+    # 2. 只有包含至少一个字符且不是纯符号的行，才统一添加 +. 前缀
+    # 同时过滤掉注释行（^#）和空行
     sed -n '/[a-zA-Z0-9]/ { /^#/! s/^/+./p }' "$domain_file" > "$mihomo_txt_file"
-    # --------------------------
+    # ------------------
 
     ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
     if [ $? -ne 0 ]; then
@@ -99,7 +99,6 @@ process_rules() {
     log "Mihomo 工具转换完成: $mihomo_txt_file -> $mihomo_mrs_file"
 
     # 将生成的文件移动到 ../ 目录
-    mkdir -p ../txt
     mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
     mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
     log "已将生成文件移动到对应目录🙉: $mihomo_txt_file, $mihomo_mrs_file"
@@ -134,7 +133,7 @@ setup_mihomo_tool
 # 并行处理所有规则组
 for name in "${!RULES[@]}"; do
     # 解析规则配置
-    read -r script urls <<< "${RULES[$name]}"
+    IFS=$'\n' read -r -d '' script urls <<< "${RULES[$name]}"
     urls=($urls) # 转为数组
 
     process_rules "$name" "$script" "${urls[@]}" &
