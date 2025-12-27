@@ -69,4 +69,4 @@ with open(file_name, 'w', encoding='utf8') as f:
     for d in filtered_domains:
         f.writelines(f"{d}\n")
 
-print(f"处理完成！去重并过滤后剩余 {len(filtered_domains)} 条规则。")
+
