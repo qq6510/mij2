@@ -7263,6 +7263,7 @@
 +.fetishshrine.com
 +.fetishtown.net
 +.fetlife.com
++.fetw
 +.fevernet.com
 +.ffacebook.com
 +.ffddff.com
@@ -11635,7 +11636,9 @@
 +.lgsalesportal.com
 +.lhakar.org
 +.lhasocialwork.org
++.lhasom
 +.li
++.li.com
 +.liangyou.net
 +.liangzhichuanmei.com
 +.lianhonghong.com
@@ -14364,6 +14367,7 @@
 +.omg.blog
 +.omghk.com
 +.omgili.com
++.omgis.org
 +.omgteens.com
 +.omnigroup.com
 +.omniroot.com
@@ -16605,6 +16609,7 @@
 +.s1heng.com
 +.s1s1s1.com
 +.s2stagehance.com
++.s3-ap-southeast-2.amazonaws.coedly.com
 +.s4miniarchive.com
 +.s81c.com
 +.s8ds5gfm.xyz
@@ -17666,6 +17671,7 @@
 +.soyinyj.top
 +.soyjak.party
 +.soylent.com
++.soylentnewcialwork.org
 +.soylentnews.org
 +.sp.cool
 +.spaceexplored.com
