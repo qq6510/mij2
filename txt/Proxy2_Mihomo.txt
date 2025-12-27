@@ -13509,7 +13509,7 @@
 +.nanyang.com
 +.nanyangpost.com
 +.nanzao.com
-+.nanzao.com000webhost.com
++.nanzao.comtw
 +.naoconto.com
 +.naol.cc
 +.napiszex.com
@@ -14108,7 +14108,6 @@
 +.nsimg.net
 +.nsstatic.net
 +.nssurge.com
-+.ntbt.gov.
 +.ntc.party
 +.ntd.com
 +.ntd.tv

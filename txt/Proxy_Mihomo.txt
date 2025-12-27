@@ -1,4 +1,5 @@
 +.ai.azure.com
++.ai.google.dev
 +.aida.googleapis.com
 +.aisandbox-pa.googleapis.com
 +.aistudio.google.com
@@ -11,7 +12,7 @@
 +.api.msn.com
 +.api.statsig.com
 +.api.together.xyz
-+.appsdowonders.comai.google.dev
++.appsdowonders.com
 +.assets.msn.com
 +.auth0.com
 +.bard.google.com
