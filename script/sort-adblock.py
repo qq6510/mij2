@@ -1,103 +1,87 @@
-import os
 import sys
 import re
+import tldextract
 
-# 定义需要过滤的国家域名后缀
+# 1. 你定义的需要过滤的国家域名后缀 (顶级域名 TLD)
 REMOVE_TLD = {
-    # 亚洲 (剔除了 .in, .id, .th, .vn, .ph 等广告/博彩高发区)
-    ".my", ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
-
-    # 欧洲 (剔除了 .ru，俄罗斯后缀是全球公认的恶意软件和广告重灾区)
-    ".uk", ".de", ".fr", ".it", ".es", ".nl", ".be", ".ch", ".at", ".pl",
-    ".cz", ".se", ".no", ".fi", ".dk", ".gr", ".pt", ".ie", ".hu", ".ro", ".bg",
-    ".sk", ".si", ".lt", ".lv", ".ee", ".is", ".md", ".ua", ".by", ".am", ".ge",
-
-    # 美洲
-    ".us", ".ca", ".mx", ".br", ".ar", ".cl", ".co", ".pe", ".ve", ".uy", ".py",
-    ".bo", ".ec", ".cr", ".pa", ".do", ".gt", ".sv", ".hn", ".ni", ".jm", ".cu",
-
-    # 非洲
-    ".za", ".eg", ".ng", ".ke", ".gh", ".tz", ".ug", ".dz", ".ma", ".tn", ".ly",
-    ".ci", ".sn", ".zm", ".zw", ".ao", ".mz", ".bw", ".na", ".rw", ".mw", ".sd",
-
-    # 大洋洲 (剔除了 .tk, .tv 等常用于非法流媒体或免费垃圾站的后缀)
-    ".au", ".nz", ".fj", ".pg", ".sb", ".vu", ".nc", ".pf", ".ws", ".to", ".ki",
-    ".nr", ".as",
-
-    # 中东
-    ".sa", ".ae", ".ir", ".il", ".iq", ".tr", ".sy", ".jo", ".lb", ".om", ".qa",
-    ".ye", ".kw", ".bh"
+    "my", "pk", "bd", "lk", "np", "mn", "uz", "kz", "kg", "bt", "mv", "mm",
+    "uk", "de", "fr", "it", "es", "nl", "be", "ch", "at", "pl",
+    "cz", "se", "no", "fi", "dk", "gr", "pt", "ie", "hu", "ro", "bg",
+    "sk", "si", "lt", "lv", "ee", "is", "md", "ua", "by", "am", "ge",
+    "us", "ca", "mx", "br", "ar", "cl", "co", "pe", "ve", "uy", "py",
+    "bo", "ec", "cr", "pa", "do", "gt", "sv", "hn", "ni", "jm", "cu",
+    "za", "eg", "ng", "ke", "gh", "tz", "ug", "dz", "ma", "tn", "ly",
+    "ci", "sn", "zm", "zw", "ao", "mz", "bw", "na", "rw", "mw", "sd",
+    "au", "nz", "fj", "pg", "sb", "vu", "nc", "pf", "ws", "to", "ki",
+    "nr", "as", "sa", "ae", "ir", "il", "iq", "tr", "sy", "jo", "lb", 
+    "om", "qa", "ye", "kw", "bh"
 }
 
 def extract_domain(rule):
-    """从 Adblock 规则中提取域名"""
+    """从 Adblock 规则中提取域名部分"""
     match = re.match(r'\|\|([a-zA-Z0-9.-]+)', rule)
     return match.group(1) if match else None
 
-def get_parent_domain(domain):
-    """获取父域名（最后两段）"""
-    parts = domain.split('.')
-    if len(parts) > 2:
-        return '.'.join(parts[-2:])
+def get_true_parent_domain(domain):
+    """
+    使用 tldextract 精准提取父域名（注册域名）
+    例如: 'sub.example.com.cn' -> 'example.com.cn'
+    """
+    ext = tldextract.extract(domain)
+    if ext.domain and ext.suffix:
+        return f"{ext.domain}.{ext.suffix}"
     return domain
 
-def has_removable_tld(domain):
-    """检查域名是否以指定后缀结尾（大小写不敏感）"""
-    d = domain.lower()  # ✅ 改动 1：统一小写后再比较，保证过滤一致性
-    return any(d.endswith(tld) for tld in REMOVE_TLD)
+def is_blacklisted_tld(domain):
+    """检查顶级后缀是否在拦截名单中"""
+    ext = tldextract.extract(domain.lower())
+    # 提取最后的顶级后缀（如 com.cn 提取出 cn）
+    tld = ext.suffix.split('.')[-1]
+    return tld in REMOVE_TLD
 
-# 读取输入文件名
+# --- 主程序逻辑 ---
+
 file_name = sys.argv[1]
 
-# 打开文件并读取所有行
 with open(file_name, 'r', encoding='utf8') as f:
     lines = f.readlines()
 
-# 提取域名规则
-domains = set()
+# 第一步：初步提取并转小写去重
+initial_domains = set()
 for line in lines:
     line = line.strip()
-    if line.startswith('||'):  # 只处理 || 开头的规则
+    if line.startswith('||'):
         domain = extract_domain(line)
         if domain:
-            domains.add(domain.lower())  # ✅ 改动 2：统一转小写后再去重
+            initial_domains.add(domain.lower())
 
-# 去除子域名，保留父域名
-parent_domains = set()
-subdomains = set()
+# 第二步：【执行你的父子去重逻辑】
+# 找出所有的父域名
+parent_domains_found = set()
+for d in initial_domains:
+    parent = get_true_parent_domain(d)
+    if d == parent:
+        parent_domains_found.add(d)
 
-for domain in domains:
-    parent_domain = get_parent_domain(domain)
-    if parent_domain in parent_domains or domain == parent_domain:
-        # 如果父域名已存在，或者当前域名本身是父域名
-        continue
-    if domain != parent_domain:
-        # 如果是子域名，暂存到子域名集合
-        subdomains.add(domain)
-    else:
-        # 否则添加到父域名集合
-        parent_domains.add(parent_domain)
+# 核心去重：如果一个域名是子域名，且它的父域名已经在列表里，就标记为待删除
+final_domains = initial_domains.copy()
+for d in initial_domains:
+    parent = get_true_parent_domain(d)
+    if d != parent and parent in parent_domains_found:
+        final_domains.discard(d)
 
-# 从父域名集合中移除与子域名冲突的
-for subdomain in subdomains:
-    parent_domain = get_parent_domain(subdomain)
-    if parent_domain in parent_domains:
-        # 存在子域名时，保留父域名，移除子域名
-        domains.discard(subdomain)
+# 第三步：【执行后缀过滤】
+filtered_domains = {d for d in final_domains if not is_blacklisted_tld(d)}
 
-# 去除以指定后缀结尾的域名
-filtered_domains = {domain for domain in domains if not has_removable_tld(domain)}
-
-# 排序规则：先按父域名排序，再按子域名排序（都按小写口径计算）
+# 第四步：排序
 sorted_domains = sorted(
     filtered_domains,
-    key=lambda d: (get_parent_domain(d.lower()), d.lower())  # ✅ 改动 3：排序键统一小写
+    key=lambda d: (get_true_parent_domain(d), d)
 )
 
-# 转换为 domain# 转换为 domain 格式
-domain_rules = [f"{domain}\n" for domain in sorted_domains]
-
-# 写入文件
+# 第五步：写入
 with open(file_name, 'w', encoding='utf8') as f:
-    f.writelines(domain_rules)
+    for d in sorted_domains:
+        f.write(f"||{d}^\n")
 
+print(f"处理完成！")
