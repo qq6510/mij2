@@ -1,87 +1,100 @@
+import os
 import sys
 import re
-import tldextract
 
-# 1. 你定义的需要过滤的国家域名后缀 (顶级域名 TLD)
+# --- 你的 REMOVE_TLD 保持不变 ---
 REMOVE_TLD = {
-    "my", "pk", "bd", "lk", "np", "mn", "uz", "kz", "kg", "bt", "mv", "mm",
-    "uk", "de", "fr", "it", "es", "nl", "be", "ch", "at", "pl",
-    "cz", "se", "no", "fi", "dk", "gr", "pt", "ie", "hu", "ro", "bg",
-    "sk", "si", "lt", "lv", "ee", "is", "md", "ua", "by", "am", "ge",
-    "us", "ca", "mx", "br", "ar", "cl", "co", "pe", "ve", "uy", "py",
-    "bo", "ec", "cr", "pa", "do", "gt", "sv", "hn", "ni", "jm", "cu",
-    "za", "eg", "ng", "ke", "gh", "tz", "ug", "dz", "ma", "tn", "ly",
-    "ci", "sn", "zm", "zw", "ao", "mz", "bw", "na", "rw", "mw", "sd",
-    "au", "nz", "fj", "pg", "sb", "vu", "nc", "pf", "ws", "to", "ki",
-    "nr", "as", "sa", "ae", "ir", "il", "iq", "tr", "sy", "jo", "lb", 
-    "om", "qa", "ye", "kw", "bh"
+    ".my", ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
+    ".uk", ".de", ".fr", ".it", ".es", ".nl", ".be", ".ch", ".at", ".pl",
+    ".cz", ".se", ".no", ".fi", ".dk", ".gr", ".pt", ".ie", ".hu", ".ro", ".bg",
+    ".sk", ".si", ".lt", ".lv", ".ee", ".is", ".md", ".ua", ".by", ".am", ".ge",
+    ".us", ".ca", ".mx", ".br", ".ar", ".cl", ".co", ".pe", ".ve", ".uy", ".py",
+    ".bo", ".ec", ".cr", ".pa", ".do", ".gt", ".sv", ".hn", ".ni", ".jm", ".cu",
+    ".za", ".eg", ".ng", ".ke", ".gh", ".tz", ".ug", ".dz", ".ma", ".tn", ".ly",
+    ".ci", ".sn", ".zm", ".zw", ".ao", ".mz", ".bw", ".na", ".rw", ".mw", ".sd",
+    ".au", ".nz", ".fj", ".pg", ".sb", ".vu", ".nc", ".pf", ".ws", ".to", ".ki",
+    ".nr", ".as", ".sa", ".ae", ".ir", ".il", ".iq", ".tr", ".sy", ".jo", ".lb", 
+    ".om", ".qa", ".ye", ".kw", ".bh"
+}
+
+# --- 新增：手动定义常见的多级后缀 ---
+# 这样不需要安装 tldextract 也能识别 .com.cn
+MULTI_LEVEL_SUFFIXES = {
+    ".com.cn", ".net.cn", ".org.cn", ".gov.cn", ".edu.cn", 
+    ".com.hk", ".org.hk", ".co.jp", ".co.uk", ".co.kr", ".com.tw"
 }
 
 def extract_domain(rule):
-    """从 Adblock 规则中提取域名部分"""
+    """从 Adblock 规则中提取域名"""
     match = re.match(r'\|\|([a-zA-Z0-9.-]+)', rule)
     return match.group(1) if match else None
 
-def get_true_parent_domain(domain):
-    """
-    使用 tldextract 精准提取父域名（注册域名）
-    例如: 'sub.example.com.cn' -> 'example.com.cn'
-    """
-    ext = tldextract.extract(domain)
-    if ext.domain and ext.suffix:
-        return f"{ext.domain}.{ext.suffix}"
-    return domain
+# --- 你的核心函数优化：兼容 .com.cn ---
+def get_parent_domain(domain):
+    """获取真正的父域名"""
+    parts = domain.split('.')
+    if len(parts) <= 2:
+        return domain
+    
+    # 检查最后两段是否构成了复合后缀（如 .com.cn）
+    last_two = "." + ".".join(parts[-2:])
+    if last_two in MULTI_LEVEL_SUFFIXES:
+        # 如果是复合后缀，父域名应该是最后三段 (例如 example.com.cn)
+        if len(parts) >= 3:
+            return ".".join(parts[-3:])
+    
+    # 否则按你原始的逻辑：取最后两段 (例如 example.com)
+    return ".".join(parts[-2:])
 
-def is_blacklisted_tld(domain):
-    """检查顶级后缀是否在拦截名单中"""
-    ext = tldextract.extract(domain.lower())
-    # 提取最后的顶级后缀（如 com.cn 提取出 cn）
-    tld = ext.suffix.split('.')[-1]
-    return tld in REMOVE_TLD
+def has_removable_tld(domain):
+    """检查域名是否以指定后缀结尾"""
+    d = domain.lower()
+    return any(d.endswith(tld) for tld in REMOVE_TLD)
 
-# --- 主程序逻辑 ---
+# --- 以下部分完全保留你的原始循环逻辑，不作任何简化 ---
 
 file_name = sys.argv[1]
 
 with open(file_name, 'r', encoding='utf8') as f:
     lines = f.readlines()
 
-# 第一步：初步提取并转小写去重
-initial_domains = set()
+domains = set()
 for line in lines:
     line = line.strip()
     if line.startswith('||'):
         domain = extract_domain(line)
         if domain:
-            initial_domains.add(domain.lower())
+            domains.add(domain.lower())
 
-# 第二步：【执行你的父子去重逻辑】
-# 找出所有的父域名
-parent_domains_found = set()
-for d in initial_domains:
-    parent = get_true_parent_domain(d)
-    if d == parent:
-        parent_domains_found.add(d)
+parent_domains = set()
+subdomains = set()
 
-# 核心去重：如果一个域名是子域名，且它的父域名已经在列表里，就标记为待删除
-final_domains = initial_domains.copy()
-for d in initial_domains:
-    parent = get_true_parent_domain(d)
-    if d != parent and parent in parent_domains_found:
-        final_domains.discard(d)
+# 这里是你原始的子域名/父域名去重循环
+for domain in domains:
+    parent_domain = get_parent_domain(domain)
+    if parent_domain in parent_domains or domain == parent_domain:
+        # 如果父域名已存在，或者当前域名本身是父域名
+        if domain == parent_domain:
+            parent_domains.add(parent_domain) # 修正你的逻辑：确保父域名入集
+        continue
+    if domain != parent_domain:
+        subdomains.add(domain)
+    else:
+        parent_domains.add(parent_domain)
 
-# 第三步：【执行后缀过滤】
-filtered_domains = {d for d in final_domains if not is_blacklisted_tld(d)}
+for subdomain in subdomains:
+    parent_domain = get_parent_domain(subdomain)
+    if parent_domain in parent_domains:
+        domains.discard(subdomain)
 
-# 第四步：排序
+filtered_domains = {domain for domain in domains if not has_removable_tld(domain)}
+
 sorted_domains = sorted(
     filtered_domains,
-    key=lambda d: (get_true_parent_domain(d), d)
+    key=lambda d: (get_parent_domain(d.lower()), d.lower())
 )
 
-# 第五步：写入
-with open(file_name, 'w', encoding='utf8') as f:
-    for d in sorted_domains:
-        f.write(f"||{d}^\n")
+domain_rules = [f"||{domain}^\n" for domain in sorted_domains]
 
-print(f"处理完成！")
+with open(file_name, 'w', encoding='utf8') as f:
+    f.writelines(domain_rules)
