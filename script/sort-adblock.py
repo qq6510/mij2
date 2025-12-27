@@ -65,8 +65,6 @@ for d in unique_domains:
 filtered_domains.sort(key=lambda d: (get_registered_domain(d), d))
 
 # 步骤 5: 写入文件（纯域名格式）
+# 写入文件
 with open(file_name, 'w', encoding='utf8') as f:
-    for d in filtered_domains:
-        f.writelines(f"{d}\n")
-
-
+    f.writelines(domain_rules)
