@@ -12,7 +12,7 @@ error() {
     echo "$(date '+%Y-%m-%d %H:%M:%S') [ERROR] $@" >&2
 }
 
-# 定义规则源和对应的处理脚本
+# 定义规则源
 declare -A RULES=(
     [Ad]="sort-adblock.py
         https://raw.githubusercontent.com/qq6510/mij3/main/domains.txt
@@ -38,110 +38,61 @@ declare -A RULES=(
     "
 )
 
-# 函数：处理规则
 process_rules() {
     local name=$1
     local script=$2
     shift 2
     local urls=("$@")
     local domain_file="${name}_domain.txt"
-    local tmp_file="${name}_tmp.txt"
     local mihomo_txt_file="${name}_Mihomo.txt"
     local mihomo_mrs_file="${mihomo_txt_file%.txt}.mrs"
+    local dl_dir="temp_dl_${name}"
 
     log "开始处理规则: $name"
-
-    # 初始化文件
     > "$domain_file"
+    mkdir -p "$dl_dir"
 
-    # 并行下载规则到临时文件
-    > "$tmp_file"
-    log "开始下载规则文件到临时文件: $tmp_file"
-    
-    printf "%s\n" "${urls[@]}" | xargs -P 16 -I {} sh -c 'curl --http2 --compressed --max-time 30 --retry 3 -sSL "{}" >> '"$tmp_file"'; echo "" >> '"$tmp_file"''
+    # 并行下载到独立文件，避免 >> 导致的竞争冲突
+    printf "%s\n" "${urls[@]}" | cat -n | xargs -P 16 -I {} sh -c '
+        idx=$(echo "{}" | awk "{print \$1}"); 
+        url=$(echo "{}" | awk "{print \$2}"); 
+        curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" > "'"$dl_dir"'/${idx}.tmp"
+    '
 
-    if [ $? -ne 0 ]; then
-        error "下载规则失败: $name"
-        return 1
-    fi
-    log "规则文件下载完成: $tmp_file"
+    # 按序合并
+    for f in $(ls "$dl_dir/"*.tmp | sort -V); do
+        cat "$f" >> "$domain_file"
+        echo "" >> "$domain_file" # 强制换行，防止域名粘连
+    done
+    rm -rf "$dl_dir"
 
-    # 合并并去重
-    cat "$tmp_file" >> "$domain_file"
-    rm -f "$tmp_file"
-    log "规则文件已合并到: $domain_file"
-
-    # 修复换行符并调用对应的 Python 脚本去重排序
     sed -i 's/\r//' "$domain_file"
-    log "已修复换行符: $domain_file"
-
-    python "$script" "$domain_file"
-    if [ $? -ne 0 ]; then
-        error "Python 脚本执行失败: $script"
-        return 1
-    fi
-    log "Python 脚本执行完成: $script"
-
-    # --- 核心修复部分 ---
-    # 1. 清理行首和行尾可能存在的点号、加号或空格
-    sed -i 's/^[[:space:].+]*//; s/[[:space:].+]*$//' "$domain_file"
+    python3 "$script" "$domain_file"
     
-    # 2. 只有包含至少一个字符且不是纯符号的行，才统一添加 +. 前缀
-    # 同时过滤掉注释行（^#）和空行
+    # 核心清理与格式化
+    sed -i 's/^[[:space:].+]*//; s/[[:space:].+]*$//' "$domain_file"
     sed -n '/[a-zA-Z0-9]/ { /^#/! s/^/+./p }' "$domain_file" > "$mihomo_txt_file"
-    # ------------------
 
     ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
-    if [ $? -ne 0 ]; then
-        error "Mihomo 工具转换失败: $mihomo_txt_file"
-        return 1
-    fi
-    log "Mihomo 工具转换完成: $mihomo_txt_file -> $mihomo_mrs_file"
-
-    # 将生成的文件移动到 ../ 目录
     mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
     mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
-    log "已将生成文件移动到对应目录🙉: $mihomo_txt_file, $mihomo_mrs_file"
 }
 
-# 下载 Mihomo 工具
 setup_mihomo_tool() {
-    log "开始下载 Mihomo 工具"
     wget -q https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/version.txt
-    if [ $? -ne 0 ]; then
-        error "下载版本文件失败"
-        exit 1
-    fi
-
     version=$(cat version.txt)
     mihomo_tool="mihomo-linux-amd64-$version"
-
     wget -q "https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/$mihomo_tool.gz"
-    if [ $? -ne 0 ]; then
-        error "下载 Mihomo 工具失败"
-        exit 1
-    fi
-
     gzip -d "$mihomo_tool.gz"
     chmod +x "$mihomo_tool"
-    log "Mihomo 工具下载完成: $mihomo_tool"
 }
 
-# 主流程
 setup_mihomo_tool
-
-# 并行处理所有规则组
 for name in "${!RULES[@]}"; do
-    # 解析规则配置
     IFS=$'\n' read -r -d '' script urls <<< "${RULES[$name]}"
-    urls=($urls) # 转为数组
-
+    urls=($urls)
     process_rules "$name" "$script" "${urls[@]}" &
 done
-
-# 等待所有规则并行处理完成
 wait
-
-# 清理缓存文件
 rm -rf ./*.txt "$mihomo_tool" version.txt
-log "脚本执行完成，已清理临时文件"
+log "脚本执行完成"
