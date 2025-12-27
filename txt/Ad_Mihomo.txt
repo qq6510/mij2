@@ -485,7 +485,7 @@
 +.ad-plus.cn
 +.ad-scope.com
 +.ad-survey.com
-+.ad.
++.ad
 +.ad7.com
 +.adbana.com
 +.adcolony.com
@@ -525,7 +525,7 @@
 +.ads-pixiv.net
 +.pixon.ads-pixiv.net
 +.static.ads-twitter.com
-+.ads.
++.ads
 +.ads360.cn
 +.adsage.cn
 +.adsame.com
@@ -533,7 +533,7 @@
 +.adsense.com
 +.adsensecustomsearchads.com
 +.adsenseformobileapps.com
-+.adsfilebssdlbig.
++.adsfilebssdlbig
 +.adsmogo.com
 +.cdn-f.adsmoloco.com
 +.tr-asia.adsmoloco.com
@@ -7161,7 +7161,7 @@
 +.autotrack.studyquicks.com
 +.stats.studyquicks.com
 +.stumblingtongue.com
-+.stun.
++.stun
 +.subnhanh.bio
 +.subnhanh.bot
 +.subnhanh.men
