@@ -48,6 +48,7 @@
 +.ipv6.microsoft.com
 +.jegotrip.com.cn
 +.joox.com
++.kk-rays.com
 +.kuwo.cn
 +.lan
 +.lens.l.google.com
