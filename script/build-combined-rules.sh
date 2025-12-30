@@ -73,6 +73,8 @@ process_rules() {
     sed -i 's/^[[:space:].+]*//; s/[[:space:].+]*$//' "$domain_file"
     sed -n '/[a-zA-Z0-9]/ { /^#/! s/^/+./p }' "$domain_file" > "$mihomo_txt_file"
 
+    awk '!seen[$0]++' "$mihomo_txt_file" > "$mihomo_txt_file.tmp" && mv "$mihomo_txt_file.tmp" "$mihomo_txt_file"
+
     ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
     mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
     mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
