@@ -179,7 +179,6 @@
 +.ad.iot.360.cn
 +.ad.jia.360.cn
 +.ad.life.360.cn
-+.c.mse.360.cn
 +.c.sayhi.360.cn
 +.care.help.360.cn
 +.dd.browser.360.cn
@@ -202,7 +201,6 @@
 +.stat.m.360.cn
 +.stat.sd.360.cn
 +.tf.360.cn
-+.u.360.cn
 +.union.360.cn
 +.wan.360.cn
 +.360ads.com
@@ -430,7 +428,6 @@
 +.999xx333kk.com
 +.999xx999kk.com
 +.99box.com
-+.collect.9em.cn
 +.9ics.cn
 +.9kefa.com
 +.9kh5b.cn
@@ -651,7 +648,6 @@
 +.httpdns.alicdn.com
 +.ilce.alicdn.com
 +.nbsdk-baichuan.alicdn.com
-+.proxy-mob-cld.alicdn.com
 +.tce.alicdn.com
 +.umc.danuoyi.alicdn.com
 +.adservice.aliexpress.com
@@ -721,7 +717,6 @@
 +.lazada-ad-workstation.oss-ap-southeast-1.aliyuncs.com
 +.log.aliyuncs.com
 +.mobantong.oss-cn-hangzhou.aliyuncs.com
-+.o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 +.retcode-sg-lazada.arms.aliyuncs.com
 +.shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 +.star-seo.oss-ap-northeast-1.aliyuncs.com
@@ -1106,7 +1101,6 @@
 +.pimlog.baidu.com
 +.plugin.mobopay.baidu.com
 +.pos.baidu.com
-+.publish-pic-cpu.baidu.com
 +.pups.baidu.com
 +.push.zhanzhang.baidu.com
 +.qapm.baidu.com
@@ -2404,7 +2398,6 @@
 +.adx.appsdk.com.cn
 +.adxlog-adnet.vivo.com.cn
 +.adxlog.vivo.com.cn
-+.aidu-google.com.cn
 +.aier-google.com.cn
 +.aifo-google.com.cn
 +.aifu-google.com.cn
@@ -2413,10 +2406,6 @@
 +.ainv-google.com.cn
 +.aiou-google.com.cn
 +.aiqu-google.com.cn
-+.airi-google.com.cn
-+.aiwa-google.com.cn
-+.aiye-google.com.cn
-+.aize-google.com.cn
 +.al.autohome.com.cn
 +.analyse.weather.com.cn
 +.answers.teradata.com.cn
@@ -2542,7 +2531,6 @@
 +.sdk.stat.foreign.nearme.com.cn
 +.sdktmp.hubcloud.com.cn
 +.securemetrics.apple.com.cn
-+.slog.sina.com.cn
 +.smetrics.beatsbydre.com.cn
 +.smetrics.benefitcosmetics.com.cn
 +.smetrics.illumina.com.cn
@@ -2587,7 +2575,6 @@
 +.vx-telegram.com.cn
 +.w8.com.cn
 +.web-google-gg.com.cn
-+.web2-google.com.cn
 +.webanalytics.logitech.com.cn
 +.webanalytics.logitechg.com.cn
 +.webgg-google.com.cn
@@ -2791,7 +2778,6 @@
 +.adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
-+.events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn
 +.events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
@@ -3213,7 +3199,6 @@
 +.feitian001.com
 +.api-fp-retry-sa.fengkongcloud.com
 +.cloudconf.fengkongcloud.com
-+.fp-it-acc.fengkongcloud.com
 +.fp-it.fengkongcloud.com
 +.fp-na-it-acc.fengkongcloud.com
 +.fp-sa-it-acc.fengkongcloud.com
@@ -3653,7 +3638,6 @@
 +.tianshu.gtimg.cn
 +.ra.gtimg.com
 +.splashqqlive.gtimg.com
-+.tui.gtimg.com
 +.wa.gtimg.com
 +.gtpxvpi.cn
 +.bd1.guancha.cn
@@ -3902,8 +3886,6 @@
 +.analytics.shop.hisense.com
 +.api-4know-em.hismarttv.com
 +.api-4know-eu.hismarttv.com
-+.api-cloudfalcon.hismarttv.com
-+.api-gps-em.hismarttv.com
 +.api-gps-eu.hismarttv.com
 +.api-gps-na.hismarttv.com
 +.api-gps-sa.hismarttv.com
@@ -3923,7 +3905,6 @@
 +.auth-phone-na.hismarttv.com
 +.auth-sa.hismarttv.com
 +.cdn-plugin-sync-upgrade-juui.hismarttv.com
-+.msg-em.hismarttv.com
 +.msg-na.hismarttv.com
 +.unified-ter-na.hismarttv.com
 +.upgrade-update.hismarttv.com
@@ -4267,7 +4248,6 @@
 +.dns.iqiyi.com
 +.dns.qiyipic.iqiyi.com
 +.doh.iqiyi.com
-+.dx-cards-css.iqiyi.com
 +.emoticon-sns.iqiyi.com
 +.emoticon.sns.iqiyi.com
 +.hotchat-im.iqiyi.com
@@ -4395,10 +4375,8 @@
 +.ads-union.jd.com
 +.ads.union.jd.com
 +.c-nfa.jd.com
-+.cc.m.jd.com
 +.ccc-x.jd.com
 +.chat1.jd.com
-+.cm.jd.com
 +.dns.jd.com
 +.dsp-x.jd.com
 +.im-x.jd.com
@@ -4441,7 +4419,6 @@
 +.tr.jianshu.com
 +.udiab1.jianshu.com
 +.jiaopei.com
-+.v3.jiathis.com
 +.api.jietuhb.com
 +.jiguang.cn
 +.target.ads.jihuoniao.com
@@ -4866,7 +4843,6 @@
 +.kwmsg.kuwo.cn
 +.log.kuwo.cn
 +.mobilead.kuwo.cn
-+.rich.kuwo.cn
 +.updatepage.kuwo.cn
 +.wa.kuwo.cn
 +.webstat.kuwo.cn
@@ -5254,7 +5230,6 @@
 +.mi-de-ner-nis3.info
 +.resolver.gslb.mi-idc.com
 +.ad.mi.com
-+.adx.tv.mi.com
 +.api.e.mi.com
 +.api.jr.mi.com
 +.d.g.mi.com
@@ -5866,7 +5841,6 @@
 +.outerinfo.com
 +.at-af.outfit7.com
 +.bidder.dsp.outfit7.com
-+.events-api-ak.outfit7.com
 +.hb-af-us-central1.outfit7.com
 +.revive.outin.cn
 +.ouyaoxiazai.com
@@ -6180,7 +6154,6 @@
 +.qdp.qidian.com
 +.uedas.qidian.com
 +.haostat.qihoo.com
-+.js.passport.qihucdn.com
 +.roibest-report-sdk.qiliangjia.com
 +.up.qingdaonews.com
 +.bdcode.qinglue.com
@@ -6240,7 +6213,6 @@
 +.aegis.qq.com
 +.analy.qq.com
 +.analytics.map.qq.com
-+.api.youtu.qq.com
 +.apikey.map.qq.com
 +.appcfg.v.qq.com
 +.applog.reader.qq.com
@@ -6748,7 +6720,6 @@
 +.adblock.sina.cn
 +.adimg.mobile.sina.cn
 +.cre.dp.sina.cn
-+.dmp.sina.cn
 +.gk.sina.cn
 +.log.sina.cn
 +.log2.sina.cn
@@ -6860,7 +6831,6 @@
 +.vas-hl-x.snssdk.com
 +.vcl-brain.snssdk.com
 +.xlog.snssdk.com
-+.p.sug.so.com
 +.soarpower.com
 +.soccerjumbotv.me
 +.socdo.tv
@@ -6881,7 +6851,6 @@
 +.888.tv.sohu.com
 +.ads.sohu.com
 +.agn.aty.sohu.com
-+.api.tv.sohu.com
 +.assp.sohu.com
 +.bd.hd.sohu.com
 +.changyan.sohu.com
@@ -7731,13 +7700,11 @@
 +.co-ort-stsdk.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
-+.co-stsdk.vivoglobal.com
 +.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.co-vcode-or.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
-+.de-gdpr-vcode-od.vivoglobal.com
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.eu-album-api.vivoglobal.com
@@ -7794,7 +7761,6 @@
 +.kz-st-exappupgrade.vivoglobal.com
 +.kz-st-sl.vivoglobal.com
 +.kz-stsdk.vivoglobal.com
-+.kz-timesync.vivoglobal.com
 +.kz-vcode-api.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.kz-vcode-or.vivoglobal.com
@@ -7856,7 +7822,6 @@
 +.tr-album-api.vivoglobal.com
 +.tr-cota.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
-+.tr-err-up.vivoglobal.com
 +.tr-gdpr-vgc-datacenter.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
@@ -8161,7 +8126,6 @@
 +.log.ad.xiaomi.com
 +.milink.pandora.xiaomi.com
 +.misc.pandora.xiaomi.com
-+.mishop.pandora.xiaomi.com
 +.notice.game.xiaomi.com
 +.o2o.api.xiaomi.com
 +.ottl7-l2.pandora.xiaomi.com
@@ -8398,7 +8362,6 @@
 +.yiranxian.cn
 +.yitongwl.cn
 +.yiwk.com
-+.yixui.com
 +.wr.yiyouliao.com
 +.js.yjbys.com
 +.ykcjxvg.cn
