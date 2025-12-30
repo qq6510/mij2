@@ -4,36 +4,52 @@ import re
 
 # 定义需要过滤的国家域名后缀
 REMOVE_TLD = {
-    # 亚洲 (剔除了 .in, .id, .th, .vn, .ph 等广告/博彩高发区)
     ".my", ".pk", ".bd", ".lk", ".np", ".mn", ".uz", ".kz", ".kg", ".bt", ".mv", ".mm",
-
-    # 欧洲 (剔除了 .ru，俄罗斯后缀是全球公认的恶意软件和广告重灾区)
     ".uk", ".de", ".fr", ".it", ".es", ".nl", ".be", ".ch", ".at", ".pl",
     ".cz", ".se", ".no", ".fi", ".dk", ".gr", ".pt", ".ie", ".hu", ".ro", ".bg",
     ".sk", ".si", ".lt", ".lv", ".ee", ".is", ".md", ".ua", ".by", ".am", ".ge",
-
-    # 美洲
     ".us", ".ca", ".mx", ".br", ".ar", ".cl", ".co", ".pe", ".ve", ".uy", ".py",
     ".bo", ".ec", ".cr", ".pa", ".do", ".gt", ".sv", ".hn", ".ni", ".jm", ".cu",
-
-    # 非洲
     ".za", ".eg", ".ng", ".ke", ".gh", ".tz", ".ug", ".dz", ".ma", ".tn", ".ly",
     ".ci", ".sn", ".zm", ".zw", ".ao", ".mz", ".bw", ".na", ".rw", ".mw", ".sd",
-
-    # 大洋洲 (剔除了 .tk, .tv 等常用于非法流媒体或免费垃圾站的后缀)
     ".au", ".nz", ".fj", ".pg", ".sb", ".vu", ".nc", ".pf", ".ws", ".to", ".ki",
     ".nr", ".as",
-
-    # 中东
     ".sa", ".ae", ".ir", ".il", ".iq", ".tr", ".sy", ".jo", ".lb", ".om", ".qa",
     ".ye", ".kw", ".bh"
 }
 
 def extract_domain(rule):
-    """从 Adblock 规则中提取域名，支持通配符 * 并兼容结尾的 ^"""
-    # 修改正则：允许星号 *，并将结尾的 ^ 设为可选匹配
+    """从 Adblock 规则中提取域名部分"""
     match = re.match(r'\|\|([a-zA-Z0-9.*-]+)\^?', rule)
     return match.group(1) if match else None
+
+def is_wildcard_valid(domain):
+    """
+    检查星号是否合法：星号必须独立成段（如 * 或 .*.），不能与字母粘连。
+    """
+    if '*' not in domain:
+        return True
+    parts = domain.split('.')
+    for p in parts:
+        if '*' in p and p != '*':
+            return False
+    return True
+
+def clean_wildcard_prefix(domain):
+    """
+    为了配合 Shell 脚本的 +. 逻辑：
+    1. 将 *.bllst.cn 处理为 bllst.cn (Shell 加上 +. 后变成 +.bllst.cn)
+    2. 将 .*.co 处理为 co (Shell 加上 +. 后变成 +.co)
+    3. 中间带星号的如 fbia.*.cn 则保持原样
+    """
+    if not domain.startswith('*') and not domain.startswith('.'):
+        return domain
+    
+    # 递归去掉开头的 * 和 .
+    cleaned = domain
+    while cleaned.startswith('*') or cleaned.startswith('.'):
+        cleaned = cleaned.lstrip('*').lstrip('.')
+    return cleaned
 
 def get_parent_domain(domain):
     """获取父域名（最后两段）"""
@@ -43,75 +59,73 @@ def get_parent_domain(domain):
     return domain
 
 def has_removable_tld(domain):
-    """检查域名是否以指定后缀结尾（大小写不敏感）"""
+    """检查域名是否以指定后缀结尾"""
     d = domain.lower()
     return any(d.endswith(tld) for tld in REMOVE_TLD)
 
-# 读取输入文件名
+# 主程序逻辑
 if len(sys.argv) < 2:
-    print("Usage: python3 sort-adblock.py <filename>")
     sys.exit(1)
 
 file_name = sys.argv[1]
 
-# 打开文件并读取所有行
 with open(file_name, 'r', encoding='utf8') as f:
     lines = f.readlines()
 
-# 提取域名规则
-domains = set()
+processed_rules = set()
 for line in lines:
     line = line.strip()
-    if line.startswith('||'):  # 只处理 || 开头的规则
+    if line.startswith('||'):
         domain = extract_domain(line)
         if domain:
-            domains.add(domain.lower())
+            domain_lower = domain.lower()
+            # 1. 验证星号是否粘连字母
+            if is_wildcard_valid(domain_lower):
+                # 2. 清理开头的 *. 以兼容 Shell 的 +. 逻辑
+                final_rule = clean_wildcard_prefix(domain_lower)
+                if final_rule:
+                    processed_rules.add(final_rule)
 
-# 分类处理：将标准域名和带通配符的域名分开
+# 区分标准域名和带中间星号的域名
+standard_domains = set()
+wildcard_mid_rules = set()
+
+for rule in processed_rules:
+    if '*' in rule:
+        wildcard_mid_rules.add(rule)
+    else:
+        standard_domains.add(rule)
+
+# 对标准域名执行父子级去重
 parent_domains = set()
 subdomains = set()
-wildcard_rules = set() # 专门存储带 * 的规则，不参与父子去重逻辑
 
-for domain in domains:
-    # 如果包含通配符，直接跳过复杂的层级去重，防止误删正常域名
-    if '*' in domain:
-        wildcard_rules.add(domain)
-        continue
-        
-    parent_domain = get_parent_domain(domain)
-    if parent_domain in parent_domains or domain == parent_domain:
-        # 如果父域名已存在，或者当前域名本身是父域名
-        continue
-    if domain != parent_domain:
-        # 如果是子域名，暂存到子域名集合
-        subdomains.add(domain)
+for d in standard_domains:
+    parent = get_parent_domain(d)
+    if d == parent:
+        parent_domains.add(d)
     else:
-        # 否则添加到父域名集合
-        parent_domains.add(parent_domain)
+        subdomains.add(d)
 
-# 处理标准域名的子域名冲突
-clean_domains = domains.copy()
-for subdomain in subdomains:
-    parent_domain = get_parent_domain(subdomain)
-    if parent_domain in parent_domains:
-        # 存在子域名时，保留父域名，移除子域名
-        clean_domains.discard(subdomain)
+final_standard = parent_domains.copy()
+for sub in subdomains:
+    parent = get_parent_domain(sub)
+    if parent not in parent_domains:
+        final_standard.add(sub)
 
-# 合并标准规则与通配符规则
-combined_domains = clean_domains | wildcard_rules
+# 合并所有规则
+all_final = final_standard | wildcard_mid_rules
 
-# 去除以指定后缀结尾的域名
-filtered_domains = {domain for domain in combined_domains if not has_removable_tld(domain)}
+# TLD 过滤与排序
+filtered_rules = {r for r in all_final if not has_removable_tld(r)}
 
-# 排序规则：先按父域名排序，再按子域名排序
-sorted_domains = sorted(
-    filtered_domains,
-    key=lambda d: (get_parent_domain(d.lower()), d.lower())
+# 排序逻辑：按父域名维度排序
+sorted_rules = sorted(
+    filtered_rules,
+    key=lambda r: (get_parent_domain(r), r)
 )
-
-# 转换为每行一个域名的格式
-domain_rules = [f"{domain}\n" for domain in sorted_domains]
 
 # 写入文件
 with open(file_name, 'w', encoding='utf8') as f:
-    f.writelines(domain_rules)
+    for r in sorted_rules:
+        f.write(f"{r}\n")
