@@ -30,8 +30,9 @@ REMOVE_TLD = {
 }
 
 def extract_domain(rule):
-    """从 Adblock 规则中提取域名"""
-    match = re.match(r'\|\|([a-zA-Z0-9.-]+)', rule)
+    """从 Adblock 规则中提取域名，支持通配符 * 并兼容结尾的 ^"""
+    # 修改正则：允许星号 *，并将结尾的 ^ 设为可选匹配
+    match = re.match(r'\|\|([a-zA-Z0-9.*-]+)\^?', rule)
     return match.group(1) if match else None
 
 def get_parent_domain(domain):
@@ -43,10 +44,14 @@ def get_parent_domain(domain):
 
 def has_removable_tld(domain):
     """检查域名是否以指定后缀结尾（大小写不敏感）"""
-    d = domain.lower()  # ✅ 改动 1：统一小写后再比较，保证过滤一致性
+    d = domain.lower()
     return any(d.endswith(tld) for tld in REMOVE_TLD)
 
 # 读取输入文件名
+if len(sys.argv) < 2:
+    print("Usage: python3 sort-adblock.py <filename>")
+    sys.exit(1)
+
 file_name = sys.argv[1]
 
 # 打开文件并读取所有行
@@ -60,13 +65,19 @@ for line in lines:
     if line.startswith('||'):  # 只处理 || 开头的规则
         domain = extract_domain(line)
         if domain:
-            domains.add(domain.lower())  # ✅ 改动 2：统一转小写后再去重
+            domains.add(domain.lower())
 
-# 去除子域名，保留父域名
+# 分类处理：将标准域名和带通配符的域名分开
 parent_domains = set()
 subdomains = set()
+wildcard_rules = set() # 专门存储带 * 的规则，不参与父子去重逻辑
 
 for domain in domains:
+    # 如果包含通配符，直接跳过复杂的层级去重，防止误删正常域名
+    if '*' in domain:
+        wildcard_rules.add(domain)
+        continue
+        
     parent_domain = get_parent_domain(domain)
     if parent_domain in parent_domains or domain == parent_domain:
         # 如果父域名已存在，或者当前域名本身是父域名
@@ -78,23 +89,27 @@ for domain in domains:
         # 否则添加到父域名集合
         parent_domains.add(parent_domain)
 
-# 从父域名集合中移除与子域名冲突的
+# 处理标准域名的子域名冲突
+clean_domains = domains.copy()
 for subdomain in subdomains:
     parent_domain = get_parent_domain(subdomain)
     if parent_domain in parent_domains:
         # 存在子域名时，保留父域名，移除子域名
-        domains.discard(subdomain)
+        clean_domains.discard(subdomain)
+
+# 合并标准规则与通配符规则
+combined_domains = clean_domains | wildcard_rules
 
 # 去除以指定后缀结尾的域名
-filtered_domains = {domain for domain in domains if not has_removable_tld(domain)}
+filtered_domains = {domain for domain in combined_domains if not has_removable_tld(domain)}
 
-# 排序规则：先按父域名排序，再按子域名排序（都按小写口径计算）
+# 排序规则：先按父域名排序，再按子域名排序
 sorted_domains = sorted(
     filtered_domains,
-    key=lambda d: (get_parent_domain(d.lower()), d.lower())  # ✅ 改动 3：排序键统一小写
+    key=lambda d: (get_parent_domain(d.lower()), d.lower())
 )
 
-# 转换为 domain# 转换为 domain 格式
+# 转换为每行一个域名的格式
 domain_rules = [f"{domain}\n" for domain in sorted_domains]
 
 # 写入文件
