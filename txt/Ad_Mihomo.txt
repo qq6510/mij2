@@ -527,7 +527,6 @@
 +.ads-pixiv.net
 +.pixon.ads-pixiv.net
 +.static.ads-twitter.com
-+.ads
 +.ads360.cn
 +.adsage.cn
 +.adsame.com
