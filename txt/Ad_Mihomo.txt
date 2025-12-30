@@ -1,3 +1,4 @@
++.w*.*skwai.com
 +.kwflvcdn.000dn.com
 +.0044789.com
 +.009banca.com
@@ -173,6 +174,7 @@
 +.32b1f5b15f1b5.icu
 +.mg.32r.com
 +.345ddz.com
++.ad.*.360.cn
 +.ad.dev.360.cn
 +.ad.gamebox.360.cn
 +.ad.iot.360.cn
@@ -486,7 +488,6 @@
 +.ad-plus.cn
 +.ad-scope.com
 +.ad-survey.com
-+.ad
 +.ad7.com
 +.adbana.com
 +.adcolony.com
@@ -523,7 +524,6 @@
 +.adpolestar.net
 +.adquan.com
 +.adreal.cn
-+.ads
 +.ads-pixiv.net
 +.pixon.ads-pixiv.net
 +.static.ads-twitter.com
@@ -534,7 +534,6 @@
 +.adsense.com
 +.adsensecustomsearchads.com
 +.adsenseformobileapps.com
-+.adsfilebssdlbig
 +.adsmogo.com
 +.cdn-f.adsmoloco.com
 +.tr-asia.adsmoloco.com
@@ -818,6 +817,7 @@
 +.advice-ads.s3.amazonaws.com
 +.analytics.s3.amazonaws.com
 +.analyticsengine.s3.amazonaws.com
++.log*-misc-lq.amemv.com
 +.log.amemv.com
 +.log0-misc-alinc2.amemv.com
 +.log0-misc-hl.amemv.com
@@ -2122,6 +2122,8 @@
 +.log-api.pangolin-sdk-toutiao-b.com.bytedns1.com
 +.log-api.pangolin-sdk-toutiao.com.bytedns1.com
 +.api.bytegle.site
++.*-ad-sign.byteimg.com
++.p*-ad-sign.byteimg.com
 +.p1-feedback.byteimg.com
 +.p3-ad-sign.byteimg.com
 +.p3-tt.byteimg.com
@@ -3331,7 +3333,6 @@
 +.financebuzzs.com
 +.ad.findic.com
 +.finominaleducation.in
-+.firebaselogging-
 +.firehurney.com
 +.fjshxjs.cn
 +.fjsytjs.cn
@@ -3378,6 +3379,7 @@
 +.foxpornopriv.info
 +.foxxmovie.com
 +.fqbr.cn
++.*-applog.fqnovel.com
 +.frontier100-toutiao-lf.fqnovel.com
 +.log0-applog-lf.fqnovel.com
 +.log3-applog-lf.fqnovel.com
@@ -3664,6 +3666,7 @@
 +.device-provisioning.googleapis.com
 +.firebasedynamiclinks.googleapis.com
 +.firebaseinstallations.googleapis.com
++.firebaselogging-*.googleapis.com
 +.firebaselogging-pa.googleapis.com
 +.firebaselogging.googleapis.com
 +.firebaseremoteconfig.googleapis.com
@@ -4897,10 +4900,13 @@
 +.kuaizip.com
 +.kuajingd.com
 +.m1.kuanff.com
++.*stun.kugou.com
++.ads.*.kugou.com
 +.ads.service.kugou.com
 +.adservice.kugou.com
 +.adserviceretry.kugou.com
 +.adsfile.bssdlbig.kugou.com
++.adsfilebssdlbig.*.kugou.com
 +.adsfilebssdlbig.ali.kugou.com
 +.adsfileretry.service.kugou.com
 +.collect.kugou.com
@@ -4944,6 +4950,7 @@
 +.softstart.kugou.com
 +.splashimgbssdl.yun.kugou.com
 +.stat.kugou.com
++.stun.*.kugou.com
 +.stun.kugou.com
 +.tj.kugou.com
 +.tracker.kugou.com
@@ -5132,7 +5139,6 @@
 +.lockview.cn
 +.deeplink.locokids.cn
 +.loefuck.com
-+.log
 +.log-report.com
 +.loispp.com
 +.lokalindo.xyz
@@ -5976,7 +5982,6 @@
 +.ouyaoxiazai.com
 +.ozar.com
 +.ozogame.com
-+.p
 +.p2cdn.com
 +.mi.5.p2l.info
 +.pa-etu.com
@@ -5995,7 +6000,7 @@
 +.vip.panggugu.com
 +.pangolin-dsp-toutiao-b.com
 +.pangolin-dsp-toutiao.com
-+.pangolin-sdk-toutiao
++.pangolin-sdk-toutiao*.com
 +.log-api.pangolin-sdk-toutiao-b.com
 +.pangolin-sdk-toutiao-b.com
 +.api-access.pangolin-sdk-toutiao.com
@@ -7106,7 +7111,6 @@
 +.autotrack.studyquicks.com
 +.stats.studyquicks.com
 +.stumblingtongue.com
-+.stun
 +.subnhanh.bio
 +.subnhanh.bot
 +.subnhanh.men
@@ -7455,6 +7459,7 @@
 +.nativeapp.toutiao.com
 +.partner.toutiao.com
 +.zhanzhang.toutiao.com
++.log*-normal-lq.toutiaoapi.com
 +.log0-normal-hl.toutiaoapi.com
 +.log0-normal-lf.toutiaoapi.com
 +.log0-normal-lq.toutiaoapi.com
@@ -7632,7 +7637,7 @@
 +.ujmfs.in
 +.miror.uk.com
 +.ulluhot.net
-+.ulog
++.ulog*.*
 +.ultrafullfilmizle.net
 +.ultrapay.net
 +.ultraporn.biz
@@ -7772,7 +7777,6 @@
 +.uyunad.com
 +.uznev.com
 +.uzzf.com
-+.v
 +.v--v.top
 +.log.apk.v-mate.mobi
 +.v-vay.com
@@ -8058,7 +8062,6 @@
 +.vytn.cn
 +.vyye.cn
 +.vzvvifw.cn
-+.w
 +.w--w.top
 +.tongdun-fingerprint.walmartmobile.cn
 +.mlog.wangsu.com
@@ -8692,6 +8695,7 @@
 +.ftp.ywxww.net
 +.qiniuyunxz.yxflzs.com
 +.yxgfcj.com
++.*-ad.a.yximgs.com
 +.ad.a.yximgs.com
 +.ali-ad.a.yximgs.com
 +.ali-p2p-v2.pull.yximgs.com
@@ -8711,6 +8715,7 @@
 +.tx-kmpaudio.pull.yximgs.com
 +.tx-p2p-v2.pull.yximgs.com
 +.tx-p2p.pull.yximgs.com
++.v*-ad.video.yximgs.com
 +.v1-ad.video.yximgs.com
 +.v2-ad.video.yximgs.com
 +.v3-ad.video.yximgs.com
@@ -8791,6 +8796,8 @@
 +.zhy333.com
 +.abtest3-misc-lf.zijieapi.com
 +.ad.zijieapi.com
++.ads*-normal*.zijieapi.com
++.ads*.zijieapi.com
 +.ads3-normal-hl.zijieapi.com
 +.ads3-normal-lf.zijieapi.com
 +.ads3-normal-lq.zijieapi.com
