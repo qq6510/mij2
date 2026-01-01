@@ -1394,7 +1394,6 @@
 +.animalsporn.tv
 +.animalzoosex.me
 +.anime-pictures.net
-+.anime-rule34-world.b-cdn.net
 +.anime-tube.pw
 +.animecrazy.net
 +.animedao-tv.com
@@ -2307,6 +2306,7 @@
 +.azuresmartspaces.net
 +.azurestackvalidation.com
 +.azurewebsites.net
++.b-cdn.net
 +.b-eroland.net
 +.b-ok.asia
 +.b-ok.cc
@@ -3723,6 +3723,8 @@
 +.bumptop.org
 +.bumptunes.com
 +.bunbunhk.com
++.bunny.net
++.bunnycdn.com
 +.bunnylust.com
 +.burningcamel.com
 +.burstly.net
@@ -16902,7 +16904,6 @@
 +.serialssolutions.com
 +.serlucap.lol
 +.serlutv258.xyz
-+.servd-anthropic-website.b-cdn.net
 +.servebom.com
 +.servehttp.com
 +.serverfault.com
@@ -18825,7 +18826,6 @@
 +.tm
 +.tmagazine.com
 +.tmblr.co
-+.tmdb-image-prod.b-cdn.net
 +.tmdb.org
 +.tmdfish.com
 +.tmei-taoyuan.com
