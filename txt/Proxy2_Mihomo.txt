@@ -716,7 +716,23 @@
 +.adguardaccount.com
 +.adguardvpn.com
 +.adhelpnews.com
++.adidas-archive.org
++.adidas-group.com
++.adidas.co
 +.adidas.com
++.adidas.com.co
++.adidas.com.hk
++.adidasadmin.com
++.adidasarchive.org
++.adidasbadminton.com
++.adidasboxing.com
++.adidascdn.com
++.adidasgymnastics.com
++.adidashockey.com
++.adidasmotorsport.com
++.adidassailing.com
++.adidastabletennis.com
++.adidasusnews.com
 +.adinst.com
 +.admeld.com
 +.admob-cn.com
@@ -1772,6 +1788,7 @@
 +.areca-backup.org
 +.arewereadyyet.com
 +.areyoucreditwise.com
++.argo-bdp.com
 +.argotunnel.com
 +.arirangmeari.com
 +.armorgames.com
@@ -2382,6 +2399,7 @@
 +.bandisoft.com
 +.bandpage.com
 +.bandwagonhost.com
++.bang-dream.com
 +.bang-movies.com
 +.bangbros.com
 +.bangbrosnetwork.com
@@ -2793,6 +2811,7 @@
 +.beepool.com
 +.beepool.org
 +.beevpn.com
++.beforeigners.com
 +.befuck.com
 +.befuck.net
 +.begin-trade.com
@@ -3730,6 +3749,15 @@
 +.burstly.net
 +.burstlyrewards.com
 +.busayari.com
++.bushi-navi.com
++.bushiroad-creative.com
++.bushiroad-global-online-store.com
++.bushiroad-move.com
++.bushiroad-music.com
++.bushiroad-store.com
++.bushiroad-works.com
++.bushiroad.com
++.bushiroadgames.com
 +.business-humanrights.org
 +.business.site
 +.businesscatalyst.com
@@ -4176,6 +4204,7 @@
 +.cervical-exam.com
 +.cf
 +.cf-ipfs.com
++.cf-vanguard.com
 +.cfa
 +.cfake.com
 +.cfargotunnel.com
@@ -4744,8 +4773,10 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.comic-growl.com
 +.comic-mega.me
 +.comicbox.xyz
++.comicbushi-web.com
 +.comicscartoonporn.com
 +.comicunivers.com
 +.comicuniverse.org
@@ -5001,6 +5032,7 @@
 +.cuckwimp.com
 +.cuebic.biz
 +.cuffiesaldi.com
++.cuguplus.com
 +.cuhk.edu.hk
 +.cuhkacs.org
 +.cuihua.org
@@ -5091,6 +5123,7 @@
 +.d2bay.com
 +.d2mrry2to5rg.com
 +.d2pass.com
++.d4dj-pj.com
 +.da-files.com
 +.daboja18.com
 +.dabr.me
@@ -5210,6 +5243,9 @@
 +.dazn-api.com
 +.dazn.com
 +.dazndn.com
++.daznfeeds.com
++.daznplayer.com
++.daznservices.com
 +.dbc.hk
 +.dbgjd.com
 +.dcard.cc
@@ -5827,6 +5863,7 @@
 +.dreamcast.hk
 +.dreamforce.com
 +.dreammovies.com
++.dreamorder.com
 +.dreamteamfc.com
 +.dreamtoplay.com
 +.dreamworks.com
@@ -7189,6 +7226,7 @@
 +.fbthirdpartypixel.org
 +.fburl.com
 +.fbworkmail.com
++.fc-buddyfight.com
 +.fc2.com
 +.fc2blog.net
 +.fc2china.com
@@ -8190,6 +8228,7 @@
 +.geileomas.com
 +.geinoueroch.com
 +.gekikame.com
++.gekkan-bushi.com
 +.gelbooru.com
 +.gelbooru.me
 +.gelbooru.wjcodes.com
@@ -8900,16 +8939,33 @@
 +.hbfile.net
 +.hbg.com
 +.hbo
++.hbo-europe.com
 +.hbo.com
 +.hbo.com.c.footprint.net
++.hbo.me
++.hboaccess.com
++.hboarchives.com
 +.hboasia.com
++.hboenterprises.com
++.hboespana.com
 +.hbogo.com
 +.hbogoasia.com
 +.hbogoasia.hk
++.hboinflight.com
++.hbolacontent.net
++.hbolaunchpad.com
++.hbomailman.com
 +.hbomax-images.warnermediacdn.com
 +.hbomax.com
 +.hbomaxcdn.com
++.hbomediarelations.com
++.hbonordic.com
++.hbonordic.tv
 +.hbonow.com
++.hboportugal.com
++.hboprod.com
++.hbospain.com
++.hbotvsales.com
 +.hbrowse.com
 +.hcaptcha.com
 +.hcaptchastatus.com
@@ -9366,6 +9422,8 @@
 +.home.saxo
 +.home.sina.com
 +.homealonemilfs.com
++.homebox.com
++.homeboxoffice.com
 +.homedepot
 +.homedepot-static.com
 +.homedepot.com
@@ -12506,6 +12564,7 @@
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi9cdn.com
++.miadidas.com
 +.miami
 +.miamifintechfestival.com
 +.miaomwu.com
@@ -12514,6 +12573,7 @@
 +.michaelmarketl.com
 +.mickey.tv
 +.mickybells.com
++.micoach.com
 +.microbit.org
 +.microsoft
 +.microsoft-give.com
@@ -12804,6 +12864,7 @@
 +.mit.net
 +.mitbbs.com
 +.mitbbsau.com
++.miteam.com
 +.mitnaka.com
 +.mitpressjournals.org
 +.mitsubishi
@@ -14022,6 +14083,7 @@
 +.niziero.info
 +.njactb.org
 +.njav.tv
++.njpw1972.com
 +.njuice.com
 +.nke6.com
 +.nl
@@ -16260,6 +16322,7 @@
 +.reastatic.net
 +.reaxys.com
 +.rebatesrule.net
++.rebirth-fy.com
 +.rebrandly.com
 +.recaptcha-cn.net
 +.recaptcha.net
@@ -16280,6 +16343,7 @@
 +.redamateurtube.com
 +.redballoonsolidarity.org
 +.redbubble.com
++.redbyhbo.com
 +.redchinacn.net
 +.redchinacn.org
 +.reddit.app.link
@@ -16384,6 +16448,7 @@
 +.revleft.com
 +.revocationcheck.com
 +.revolv.com
++.revuestarlight.com
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
@@ -17139,6 +17204,7 @@
 +.shadowsocks.com.hk
 +.shadowsocks.org
 +.shadowsocks9.com
++.shadowverse-evolve.com
 +.shafaqna.com
 +.shahit.biz
 +.shahvani.com
@@ -17229,6 +17295,7 @@
 +.shoestop2.com
 +.shooshtime.com
 +.shop-headphones.net
++.shopadidas.com
 +.shopalienware.com
 +.shopbeatsdre.com
 +.shopbmwmotorcycles.com
@@ -19492,6 +19559,7 @@
 +.uoherald.com
 +.uol
 +.uoutside.org
++.up.audio
 +.up.gcp.googlers.com
 +.up01.cc
 +.upbit.com
@@ -20662,6 +20730,8 @@
 +.wretch.cc
 +.writesonic.com
 +.ws
++.ws-blau.com
++.ws-tcg.com
 +.wsj.com
 +.wsj.jobs
 +.wsj.net
@@ -20696,6 +20766,7 @@
 +.wwe.com
 +.wwe9.com
 +.wwitv.com
++.wwr-stardom.com
 +.wwtbam.com
 +.www-bestbuystores.com
 +.www-facebook.com
