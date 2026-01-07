@@ -28,6 +28,7 @@
 +.detectportal.firefox.com
 +.direct
 +.duckdns.org
++.dynv6.net
 +.enrichgw.10010.com
 +.example
 +.ff.dorado.sdo.com
