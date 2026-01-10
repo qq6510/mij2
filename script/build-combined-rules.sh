@@ -32,7 +32,7 @@ declare -A RULES=(
     [Proxy2]="sort-clash.py
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
+        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
     "
 )
 
