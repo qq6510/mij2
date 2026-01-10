@@ -89,6 +89,7 @@
 +.keeflys.com
 +.kiro.dev
 +.labs.google
++.labs.google.com
 +.launchdarkly.com
 +.location.microsoft.com
 +.makersuite.google.com
