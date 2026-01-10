@@ -15,7 +15,6 @@ error() {
 # 定义规则源
 declare -A RULES=(
     [Ad]="sort-adblock.py
-        https://raw.githubusercontent.com/qq6510/mij3/main/domains.txt
         https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt
         https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
         https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
