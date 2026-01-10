@@ -3183,7 +3183,6 @@
 +.blip.tv
 +.blizzard.com
 +.blizzardgearstore.com
-+.blobstore.apple.com
 +.blockbuster
 +.blockcn.com
 +.blockedbyhk.com
@@ -4598,7 +4597,6 @@
 +.cloakpoint.com
 +.clock.isc.org
 +.clojure.org
-+.cloud.oracle.com
 +.cloudapp.net
 +.cloudappsecurity.com
 +.cloudburstresearch.com
@@ -5409,7 +5407,6 @@
 +.devcon.org
 +.developer-advisor.com
 +.developer.allizom.org
-+.developer.apple.com
 +.developria.com
 +.deviantart.com
 +.deviantart.net
@@ -18523,7 +18520,6 @@
 +.test-ipv6.noroutetohost.net
 +.test-ipv6.roedu.net
 +.test-ipv6.sin.vr.org
-+.testflight.apple.com
 +.testonfox.com
 +.teva
 +.tew.org
