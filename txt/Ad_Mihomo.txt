@@ -191,8 +191,6 @@
 +.bmvip.alimama.cn
 +.cb.alimama.cn
 +.amerzbj.cn
-+.amghztx.cn
-+.amghzud.cn
 +.user-event-log.aminer.cn
 +.dv.amtwcvh.cn
 +.analysys.cn
@@ -364,11 +362,8 @@
 +.trk.gardnerdenver.com.cn
 +.google-az.com.cn
 +.google-bx.com.cn
-+.google-drive-app.com.cn
 +.google-fk.com.cn
-+.google-help.com.cn
 +.google-iq.com.cn
-+.google-news.com.cn
 +.google-qz.com.cn
 +.google-sd.com.cn
 +.guaranty.com.cn
@@ -515,7 +510,6 @@
 +.e.weather.com.cn
 +.mc.weather.com.cn
 +.poster.weather.com.cn
-+.webb-google.com.cn
 +.ad.winrar.com.cn
 +.wp-wpsoffice.com.cn
 +.wyoffice.com.cn
@@ -644,7 +638,6 @@
 +.stun1.douyucdn.cn
 +.fintech.downyi.cn
 +.dpjzzgw.cn
-+.dswkqzg.cn
 +.dtkfisa.cn
 +.dtsxn.cn
 +.duocpa2.cn
@@ -666,7 +659,6 @@
 +.sea.net.edu.cn
 +.pdns.nudt.edu.cn
 +.ns2.xidian.edu.cn
-+.eedsgu.cn
 +.eexlgyn.cn
 +.effectivehealthy.cn
 +.metrics.egencia.cn
@@ -833,7 +825,6 @@
 +.tracking.iwhop.cn
 +.ixelrsd.cn
 +.ixjtpbj.cn
-+.ixvhwhd.cn
 +.j6zh4g0.cn
 +.japps.cn
 +.stat.jc001.cn
@@ -1582,7 +1573,6 @@
 +.scdata.51job.com
 +.51taifu.com
 +.ad.51wnl.com
-+.ad.51wnl-cq.com
 +.51yes.com
 +.game.51yund.com
 +.go.5211game.com
@@ -1593,6 +1583,7 @@
 +.api.52youtu.com
 +.a.52zxw.com
 +.53kf.com
++.down.54nb.com
 +.55726zubo56686.com
 +.acs.56.com
 +.acs.agent.56.com
@@ -2110,7 +2101,6 @@
 +.burjam.com
 +.ad.bwton.com
 +.dlogs.bwton.com
-+.log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com
 +.dm.bytedance.com
 +.httpdns.bytedance.com
 +.mssdk.bytedance.com
@@ -2550,7 +2540,6 @@
 +.stats.hanmaker.com
 +.as1.m.hao123.com
 +.mini.hao123.com
-+.hao222.com
 +.cdn.haocaa.com
 +.js1.haoge500.com
 +.2.haoxue360.com
@@ -3076,7 +3065,6 @@
 +.adimg.liba.com
 +.libaishuo.com
 +.liebaovip.com
-+.log.liepin.com
 +.ads.linkedin.com
 +.analytics.pointdrive.linkedin.com
 +.linkhaitao.com
@@ -3142,7 +3130,6 @@
 +.tongji.meizu.com
 +.tongji-res.meizu.com
 +.tongji-res1.meizu.com
-+.u.meizu.com
 +.uxip.meizu.com
 +.metaversemolecule.com
 +.mgs123.com
@@ -3444,7 +3431,6 @@
 +.qdp.qidian.com
 +.uedas.qidian.com
 +.haostat.qihoo.com
-+.js.passport.qihucdn.com
 +.bdcode.qinglue.com
 +.s.qd.qingtingfm.com
 +.kf.qingwk.com
@@ -4374,7 +4360,6 @@
 +.resolver.mi.xiaomi.com
 +.data.mistat.xiaomi.com
 +.stats.music.xiaomi.com
-+.appstore.pandora.xiaomi.com
 +.bss.pandora.xiaomi.com
 +.appstore.cdn.pandora.xiaomi.com
 +.image.cdn.pandora.xiaomi.com
@@ -4385,7 +4370,6 @@
 +.ottl7-l2.pandora.xiaomi.com
 +.redirect.pandora.xiaomi.com
 +.stat.pandora.xiaomi.com
-+.preload.xiaomi.com
 +.cdn-exp-sg-recommend.pt.xiaomi.com
 +.sdkconfig.ad.rus.xiaomi.com
 +.data.mistat.rus.xiaomi.com
