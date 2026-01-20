@@ -98,7 +98,9 @@
 +.labs.google
 +.labs.google.com
 +.launchdarkly.com
++.liveperson.net
 +.location.microsoft.com
++.lpsnmedia.net
 +.makersuite.google.com
 +.marscode.com
 +.meta.ai
@@ -145,3 +147,6 @@
 +.turn.livekit.cloud
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.x.ai
++.youmind.ai
++.youmind.com
++.youmind.site
