@@ -2441,6 +2441,7 @@
 +.bbc.co
 +.bbc.com
 +.bbc.mp-pxcdn.com
++.bbc.pdn.tritondigital.com
 +.bbcchinese.com
 +.bbchat.tv
 +.bbcpersian.com
