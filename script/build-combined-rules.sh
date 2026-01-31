@@ -12,7 +12,7 @@ error() {
     echo "$(date '+%Y-%m-%d %H:%M:%S') [ERROR] $@" >&2
 }
 
-# 定义规则源
+# 定义规则源 (保持不变)
 declare -A RULES=(
     [Ad]="sort-adblock.py
         https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt
@@ -50,7 +50,7 @@ process_rules() {
     > "$domain_file"
     mkdir -p "$dl_dir"
 
-    # 并行下载到独立文件，避免 >> 导致的竞争冲突
+    # 并行下载到独立文件
     printf "%s\n" "${urls[@]}" | cat -n | xargs -P 16 -I {} sh -c '
         idx=$(echo "{}" | awk "{print \$1}"); 
         url=$(echo "{}" | awk "{print \$2}"); 
@@ -60,11 +60,12 @@ process_rules() {
     # 按序合并
     for f in $(ls "$dl_dir/"*.tmp | sort -V); do
         cat "$f" >> "$domain_file"
-        echo "" >> "$domain_file" # 强制换行，防止域名粘连
+        echo "" >> "$domain_file" # 强制换行
     done
     rm -rf "$dl_dir"
 
     sed -i 's/\r//' "$domain_file"
+    # 注意：确保你的 sort-*.py 脚本就在当前目录下，或者路径正确
     python3 "$script" "$domain_file"
     
     # 核心清理与格式化
@@ -73,26 +74,50 @@ process_rules() {
 
     awk '!seen[$0]++' "$mihomo_txt_file" > "$mihomo_txt_file.tmp" && mv "$mihomo_txt_file.tmp" "$mihomo_txt_file"
 
+    # 使用全局变量 mihomo_tool 调用
     ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
+    
+    # 移动文件 (确保 ../txt 目录存在，如果不存在可能会报错，建议加 -p)
+    mkdir -p ../txt
     mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
     mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
 }
 
+# === 修改重点：替换为 DustinWin 源的下载逻辑 ===
 setup_mihomo_tool() {
-    wget -q https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/version.txt
-    version=$(cat version.txt)
-    mihomo_tool="mihomo-linux-amd64-$version"
-    wget -q "https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/$mihomo_tool.gz"
-    gzip -d "$mihomo_tool.gz"
-    chmod +x "$mihomo_tool"
+    log "正在下载 DustinWin 提供的 Mihomo (CrashCore) 工具..."
+    
+    # 对应原 Workflow 中的下载链接
+    local download_url="https://github.com/DustinWin/proxy-tools/releases/download/mihomo/mihomo-meta-linux-amd64v3.tar.gz"
+    
+    # 下载并直接解压 (模拟 curl | tar 行为)
+    curl -L "$download_url" | tar -zx
+    
+    # DustinWin 的包解压出来文件名是 CrashCore，需要重命名为 mihomo
+    if [ -f "CrashCore" ]; then
+        mv -f CrashCore mihomo
+        chmod +x mihomo
+        mihomo_tool="mihomo"  # 设置全局变量名
+        log "Mihomo 工具准备就绪 (版本: DustinWin/amd64v3)"
+    else
+        error "下载或解压失败，未找到 CrashCore 文件"
+        exit 1
+    fi
 }
 
+# 执行主流程
 setup_mihomo_tool
+
 for name in "${!RULES[@]}"; do
     IFS=$'\n' read -r -d '' script urls <<< "${RULES[$name]}"
     urls=($urls)
     process_rules "$name" "$script" "${urls[@]}" &
 done
 wait
-rm -rf ./*.txt "$mihomo_tool" version.txt
+
+# 清理工作
+rm -rf ./*.txt 
+rm -f "$mihomo_tool"  # 删除 mihomo 二进制文件
+# 注意：原脚本的 version.txt 清理已移除，因为此逻辑不需要 version.txt
+
 log "脚本执行完成"
