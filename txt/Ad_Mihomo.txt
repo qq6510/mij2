@@ -156,7 +156,6 @@
 +.a3392704838.cn
 +.a450658036.cn
 +.a48505.cn
-+.aa88691468.cn
 +.aaoffice.cn
 +.smetrics.abercrombie.cn
 +.mail.siom.ac.cn
@@ -249,7 +248,6 @@
 +.cdnmaster.cn
 +.cdxyb.cn
 +.cengqinglin.cn
-+.cenjiu.cn
 +.analysis.chatglm.cn
 +.bdasd.chdbook.cn
 +.chenvq.cn
@@ -382,7 +380,6 @@
 +.webanalytics.logitechg.com.cn
 +.webtarget.logitechg.com.cn
 +.ly-google.com.cn
-+.mad-google.com.cn
 +.zc1.maillist-manage.com.cn
 +.sdk.markmedia.com.cn
 +.tracking.c.mercedes-benz.com.cn
@@ -465,7 +462,6 @@
 +.tongji.techweb.com.cn
 +.telegram-www.com.cn
 +.answers.teradata.com.cn
-+.tg-telegramcu.com.cn
 +.tracking.mail.ti.com.cn
 +.tracking.ti.com.cn
 +.trend-google.com.cn
@@ -585,7 +581,6 @@
 +.hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
-+.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 +.ddbuwo.cn
@@ -826,7 +821,6 @@
 +.li122.cn
 +.track.libii.cn
 +.lichunxiao.cn
-+.lihongli5.cn
 +.ads.linkedin.cn
 +.ljarfvg.cn
 +.lkabbmf.cn
@@ -929,7 +923,6 @@
 +.ourl.cn
 +.revive.outin.cn
 +.ovnrmvg.cn
-+.pagua.cn
 +.parking-pcnzz.cn
 +.paypall.cn
 +.pbaiyho.cn
@@ -1670,7 +1663,6 @@
 +.optimus-ads.amap.com.w.alikunlun.com
 +.acookie.alimama.com
 +.afpeng.alimama.com
-+.static.alimama.com
 +.amdc.alipay.com
 +.collect.alipay.com
 +.loggw.alipay.com
@@ -2159,7 +2151,6 @@
 +.coocaatv.com
 +.12.cookcai.com
 +.logreport-global-dual.coolacloud.com
-+.detaillog-global.coolbcloud.com
 +.detaillog-global-dual.coolbcloud.com
 +.logreport-global-dual.coolbcloud.com
 +.detaillog-global-dual.coolccloud.com
@@ -3055,7 +3046,6 @@
 +.tongji.meizu.com
 +.tongji-res.meizu.com
 +.tongji-res1.meizu.com
-+.u.meizu.com
 +.uxip.meizu.com
 +.metaversemolecule.com
 +.mgs123.com
@@ -3684,7 +3674,6 @@
 +.toutiao-frontier.snssdk.com
 +.tsearch.snssdk.com
 +.ug.snssdk.com
-+.vas-hl-x.snssdk.com
 +.vcl-brain.snssdk.com
 +.xlog.snssdk.com
 +.softxz.com
@@ -4032,7 +4021,6 @@
 +.asia-vcode-or.vivoglobal.com
 +.asia-vpushonrt-stsdk.vivoglobal.com
 +.asia-vpushort-stsdk.vivoglobal.com
-+.cl-vcode-od.vivoglobal.com
 +.cname-asia-comonrt-stsdk.vivoglobal.com
 +.cname-asia-st-exappupgrade.vivoglobal.com
 +.cname-de-stsdk.vivoglobal.com
@@ -4875,7 +4863,6 @@
 +.etl.xlmc.sandai.net
 +.santander-profit-ai.net
 +.dm.sanwen.net
-+.senvixpro.net
 +.s3.pfp.sina.net
 +.1.sj33.net
 +.ad.smaato.net
