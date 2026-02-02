@@ -17,7 +17,6 @@ declare -A RULES=(
     [Ad]="sort-adblock.py
         https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt
         https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
         https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
         https://gist.githubusercontent.com/qq6510/45173fd5128994bfbe0add665dec8b19/raw/xiaomi.txt
     "
