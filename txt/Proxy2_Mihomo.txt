@@ -3653,6 +3653,7 @@
 +.brutaltgp.com
 +.bs
 +.bs-adreview.com
++.bsappapi.com
 +.bsersd.xyz
 +.bsky.network
 +.bsky.social
@@ -18241,6 +18242,7 @@
 +.taiav.com
 +.tail-f.com
 +.tailf.com
++.tails.net
 +.tailscale.com
 +.tailwindtraders.com
 +.taipei
