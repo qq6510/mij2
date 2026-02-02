@@ -619,7 +619,6 @@
 +.events-dra.op.dbankcloud.cn
 +.events-drcn.op.dbankcloud.cn
 +.dtm-dre.platform.dbankcloud.cn
-+.httpdns.platform.dbankcloud.cn
 +.httpdns-browser.platform.dbankcloud.cn
 +.logservice-dra.platform.dbankcloud.cn
 +.logservice-dre.platform.dbankcloud.cn
@@ -1057,7 +1056,6 @@
 +.ssh.q4hwkg.cn
 +.qawxpzm.cn
 +.log.qcast.cn
-+.qchannel03.cn
 +.qchannel04.cn
 +.news.qcyz.cn
 +.qdzilh.cn
@@ -1681,7 +1679,6 @@
 +.adbana.com
 +.adcolony.com
 +.adinall.com
-+.mi.adinterax.com
 +.adjust.com
 +.adkwai.com
 +.admin5.com
@@ -2002,7 +1999,6 @@
 +.idm-su.baidu.com
 +.ulog.imap.baidu.com
 +.imgstat.baidu.com
-+.iwan.baidu.com
 +.kstj.baidu.com
 +.libs.baidu.com
 +.luimg.baidu.com
@@ -2059,7 +2055,6 @@
 +.usp1.baidu.com
 +.utility.baidu.com
 +.stat.v.baidu.com
-+.wan.baidu.com
 +.wanba.baidu.com
 +.wangmeng.baidu.com
 +.weishi.baidu.com
@@ -2129,7 +2124,6 @@
 +.log.bitauto.com
 +.img11.biyan8.com
 +.file.blackint3.com
-+.mi-manga-hentai.blogspot.com
 +.gg.blueidea.com
 +.images.bluetime.com
 +.click.bokecc.com
@@ -2168,7 +2162,6 @@
 +.gg.caixin.com
 +.promote.caixin.com
 +.ad.caiyunapp.com
-+.httpdns.calorietech.com
 +.applog.camera360.com
 +.appres.camera360.com
 +.collect.camera360.com
@@ -2292,7 +2285,9 @@
 +.csjplatform.com
 +.doubleclick.ctfile.com
 +.mydisplay.ctfile.com
-+.ctobsnssdk.com
++.success.ctobsnssdk.com
++.tobapplog.ctobsnssdk.com
++.toblog.ctobsnssdk.com
 +.ma-adx.ctrip.com
 +.u.ctrip.com
 +.ctrmi.com
@@ -2660,7 +2655,6 @@
 +.i-sg01a.ocloud.heytapmobi.com
 +.omes-sec.heytapmobi.com
 +.dcintl.push.heytapmobi.com
-+.httpdns.push.heytapmobi.com
 +.api-id.theme.heytapmobi.com
 +.report.uc.heytapmobi.com
 +.ums-telemetry-cn.heytapmobi.com
@@ -2873,6 +2867,7 @@
 +.emoticon-sns.iqiyi.com
 +.static.g.iqiyi.com
 +.hotchat-im.iqiyi.com
++.httpdns.iqiyi.com
 +.ifacelog.iqiyi.com
 +.mbdlog.iqiyi.com
 +.msg.iqiyi.com
@@ -2881,7 +2876,6 @@
 +.paopao-monitor.iqiyi.com
 +.cm.passport.iqiyi.com
 +.puma-api.iqiyi.com
-+.dns.qiyipic.iqiyi.com
 +.emoticon.sns.iqiyi.com
 +.static-s.iqiyi.com
 +.subscription.iqiyi.com
@@ -2930,7 +2924,6 @@
 +.kepler.jd.com
 +.knicks.jd.com
 +.log.jd.com
-+.anti-sdk-report.m.jd.com
 +.jpushjd.m.jd.com
 +.mapi.m.jd.com
 +.stat.m.jd.com
@@ -3223,17 +3216,15 @@
 +.pcweb.v1.mgtv.com
 +.ad.mi.com
 +.ads.mi.com
-+.api.e.mi.com
-+.site.e.mi.com
++.e.mi.com
 +.d.g.mi.com
-+.hysdkservice.g.mi.com
 +.migc.g.mi.com
 +.migcreport.g.mi.com
 +.mis.g.mi.com
-+.mivideo.g.mi.com
 +.idm.iot.mi.com
 +.api.jr.mi.com
 +.pandora.mi.com
++.adx.tv.mi.com
 +.h5.tv.mi.com
 +.stat.youpin.mi.com
 +.resolver.gslb.mi-idc.com
@@ -3256,18 +3247,10 @@
 +.log-upload-eur.mihoyo.com
 +.log-upload-os.mihoyo.com
 +.reksaidnslog.security.mihoyo.com
-+.mi.miliboo.com
 +.wm.mipcdn.com
 +.gg.miued.com
 +.app.miui.com
 +.api.bbs.miui.com
-+.hd.browser.miui.com
-+.hd-preview.browser.miui.com
-+.httpdns.browser.miui.com
-+.nav.browser.miui.com
-+.r.browser.miui.com
-+.reader.browser.miui.com
-+.security.browser.miui.com
 +.tracking.eu.miui.com
 +.feedback.miui.com
 +.api.accelerator.intl.miui.com
@@ -3313,8 +3296,6 @@
 +.r.sg.sec.miui.com
 +.srv.sec.miui.com
 +.staging-notify.sec.miui.com
-+.etl.xlmc.sec.miui.com
-+.api.tw06.xlmc.sec.miui.com
 +.cc.sys.miui.com
 +.ccc.sys.miui.com
 +.geofence.sys.miui.com
@@ -3510,7 +3491,6 @@
 +.log.game.qcplay.com
 +.jspassport.ssl.qhimg.com
 +.click.qianqian.com
-+.dns.jd.com.gslb.qianxun.com
 +.jsb.qianzhan.com
 +.qichetansuo.com
 +.game.qidian.com
@@ -3786,7 +3766,6 @@
 +.trace.seeyouyima.com
 +.sellfox.com
 +.senbiaojita.com
-+.browser.sentry-cdn.com
 +.ads.servebom.com
 +.logstat.t.sfht.com
 +.track.sgdmobile.com
@@ -3934,7 +3913,6 @@
 +.en.taichuan.com
 +.talkingdata.com
 +.clog.tanshudata.com
-+.httpdns.tantanapp.com
 +.seiya.tantanapp.com
 +.tanv.com
 +.cdn.tanx.com
@@ -3969,7 +3947,6 @@
 +.adashx4yt.m.taobao.com
 +.agoodm.m.taobao.com
 +.ai.m.taobao.com
-+.amdc.m.taobao.com
 +.amdcopen.m.taobao.com
 +.c-adash.m.taobao.com
 +.huodong.m.taobao.com
@@ -4103,7 +4080,6 @@
 +.asdkd.tutuapp.com
 +.log.tutuapp.com
 +.md.tvzhe.com
-+.mi.tvzhe.com
 +.ads-api.twitter.com
 +.twzui6.com
 +.livetech.shopee.co.id.txlivecdn.com
@@ -4451,9 +4427,11 @@
 +.adtrack.xiaojukeji.com
 +.ad.xiaomi.com
 +.ad1.xiaomi.com
++.api.ads.xiaomi.com
 +.tracker.ai.xiaomi.com
 +.bigdata-lbs-pri-c3.alb.xiaomi.com
 +.global-ad-extranet-pri-azams.alb.xiaomi.com
++.global-ad-extranet-pri-azpn.alb.xiaomi.com
 +.global-ad-intl-pri-alisgp.alb.xiaomi.com
 +.awssgp0-files.fds.api.xiaomi.com
 +.cdn.fds.api.xiaomi.com
@@ -4461,7 +4439,6 @@
 +.a0.app.xiaomi.com
 +.package.box.xiaomi.com
 +.api.d.xiaomi.com
-+.api.developer.xiaomi.com
 +.sdkconfig.ad.eu.xiaomi.com
 +.cdn.exp.xiaomi.com
 +.data.game.xiaomi.com
@@ -4477,12 +4454,18 @@
 +.storeconfig.mistat.intl.xiaomi.com
 +.globalvideo.cdn.pandora.intl.xiaomi.com
 +.ruvideo.cdn.pandora.intl.xiaomi.com
-+.cc.sys.intl.xiaomi.com
-+.ccc.sys.intl.xiaomi.com
 +.a.market.xiaomi.com
++.xadx.file.market.xiaomi.com
++.t1.market.xiaomi.com
 +.t17.market.xiaomi.com
++.t2.market.xiaomi.com
++.t3.market.xiaomi.com
++.t4.market.xiaomi.com
++.t5.market.xiaomi.com
 +.video.market.xiaomi.com
++.wtradv.market.xiaomi.com
 +.resolver.mi.xiaomi.com
++.tv.app.migc.xiaomi.com
 +.data.mistat.xiaomi.com
 +.stats.music.xiaomi.com
 +.appstore.pandora.xiaomi.com
@@ -4503,7 +4486,6 @@
 +.tz.sec.xiaomi.com
 +.api.miui.security.xiaomi.com
 +.ssp.xiaomi.com
-+.a.stat.xiaomi.com
 +.p.www.xiaomi.com
 +.xiaomovie.com
 +.xiaoxiuapp.com
@@ -4607,7 +4589,6 @@
 +.yj-live.com
 +.js.yjbys.com
 +.l.ykimg.com
-+.yksdks.com
 +.yladm.com
 +.ylunion.com
 +.ymapp.com
@@ -4640,7 +4621,6 @@
 +.ad.youku.com
 +.adx-open-service.youku.com
 +.m.atm.youku.com
-+.mi.atm.youku.com
 +.cad.youku.com
 +.dmapp.youku.com
 +.ems.youku.com
@@ -4859,10 +4839,7 @@
 +.msgacs-m.lazada.co.id
 +.log-api.cli.im
 +.5166.info
-+.de-mi-nis-ner.info
 +.busuanzi.ibruce.info
-+.mi-de-ner-nis3.info
-+.mi.5.p2l.info
 +.pulton.info
 +.data-reporting.agora.io
 +.logservice.agora.io
@@ -4975,7 +4952,6 @@
 +.script-bd.baixing.net
 +.dig.bdurl.net
 +.dig-ec.bdurl.net
-+.dig-tlsv3.bdurl.net
 +.ali-web-player-tracker.biliapi.net
 +.hw-v2-web-player-tracker.biliapi.net
 +.line1-log.biligame.net
@@ -5019,7 +4995,6 @@
 +.elevri.net
 +.ename.net
 +.establevaultrez-ai.net
-+.mi.eulerian.net
 +.fastapi.net
 +.img.ferlie.net
 +.stat.funshion.net
@@ -5203,7 +5178,10 @@
 +.yingkebao.top
 +.go.bigo.tv
 +.auth.api.gitv.tv
-+.t7z.cupid.ptqy.gitv.tv
++.pb.bi.gitv.tv
++.api.mitv.gitv.tv
++.ads.ptqy.gitv.tv
++.cupid.ptqy.gitv.tv
 +.doh.ptqy.gitv.tv
 +.msg.ptqy.gitv.tv
 +.ota.ptqy.gitv.tv
