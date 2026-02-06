@@ -12,7 +12,6 @@
 +.antigravity-unleash.goog
 +.antigravity.google
 +.antigravity.googleapis.com
-+.api.githubcopilot.com
 +.api.microsoftapp.net
 +.api.msn.com
 +.api.statsig.com
@@ -77,6 +76,7 @@
 +.gemini.google.com
 +.generativeai.google
 +.generativelanguage.googleapis.com
++.githubcopilot.com
 +.grazie.ai
 +.grazie.aws.intellij.net
 +.grok.com
