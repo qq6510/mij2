@@ -103,6 +103,8 @@
 +.location.microsoft.com
 +.lpsnmedia.net
 +.makersuite.google.com
++.manus.im
++.manuscdn.com
 +.marscode.com
 +.meta.ai
 +.mistral.ai

@@ -3107,6 +3107,7 @@
 +.bitstamp.net
 +.bitstream.com
 +.bitterwinter.org
++.bittorrent.com
 +.bittrex.com
 +.bitvise.com
 +.bitwarden.com
@@ -9014,6 +9015,7 @@
 +.helpuyghursnow.org
 +.helpzhuling.org
 +.helsinki
++.hembed.com
 +.hentai-ani.me
 +.hentai-archive.com
 +.hentai-books.com
@@ -12171,6 +12173,7 @@
 +.manta.com
 +.mantochichi.com
 +.manurefetish.com
++.manuscdn.com
 +.manytoon.com
 +.manyvids.com
 +.manyvoices.news
@@ -19626,6 +19629,7 @@
 +.v-has.com
 +.v.roucdn
 +.v2.help
++.v2.hysteria.network
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
