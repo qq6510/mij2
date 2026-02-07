@@ -8,7 +8,7 @@ on:
       - 'rules/**'
     branches: [ main ]
   schedule:
-    - cron: "13 2 * * *"
+    - cron: "13 7 * * *"
   workflow_dispatch:
 
 jobs:
