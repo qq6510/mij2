@@ -8,11 +8,8 @@ on:
       - 'rules/**'
     branches: [ main ]
   schedule:
-    - cron: "13 0 * * *"
+    - cron: "13 2 * * *"
   workflow_dispatch:
-
-env:
-  TZ: Asia/Hong_Kong
 
 jobs:
   Update_Filters:
