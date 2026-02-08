@@ -39,6 +39,8 @@
 +.clipdrop.co
 +.cloudaicompanion.googleapis.com
 +.cloudcode-pa.googleapis.com
++.codeium.com
++.codeiumdata.com
 +.coderabbit.ai
 +.coderabbit.gallery.vsassets.io
 +.cohere.ai
@@ -149,6 +151,8 @@
 +.trae.ai
 +.turn.livekit.cloud
 +.webchannel-alkalimakersuite-pa.clients6.google.com
++.windsurf.build
++.windsurf.com
 +.x.ai
 +.youmind.ai
 +.youmind.com

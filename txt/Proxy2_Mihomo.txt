@@ -4683,6 +4683,8 @@
 +.codecademy.com
 +.codeforces.com
 +.codeish.co
++.codeium.com
++.codeiumdata.com
 +.codeplex.com
 +.codeskulptor.org
 +.codespot.com
@@ -11478,10 +11480,8 @@
 +.lanmdh.net
 +.lanniser-ylo.shop
 +.lanternal.com
-+.lanterncn.cn
 +.lantosfoundation.org
 +.lanxess
-+.laod.cn
 +.laogai.org
 +.laogairesearch.org
 +.laomiu.com
@@ -11560,7 +11560,6 @@
 +.lecoin.cc
 +.lede-project.org
 +.ledger.com
-+.leeao.com.cn
 +.leecountytimes.com
 +.leetcode.com
 +.lefora.com
@@ -20551,6 +20550,8 @@
 +.windowsuem.com
 +.windowsupdate.com
 +.windscribe.com
++.windsurf.build
++.windsurf.com
 +.windy.com
 +.wine
 +.wingamestore.com
@@ -21397,6 +21398,7 @@
 +.yandex
 +.yandex-bank.net
 +.yandex-images.clstorage.net
++.yandex-pogoda.static-storage.net
 +.yandex.aero
 +.yandex.cloud
 +.yandex.com
