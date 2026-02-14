@@ -1524,6 +1524,7 @@
 +.apkplz.com
 +.apkpure.com
 +.apkpure.net
++.apkpures.xyz
 +.aple.com
 +.aplestore.com
 +.aplleipods.com
@@ -8674,6 +8675,14 @@
 +.grannylovesyoungcock.com
 +.grannytube.net
 +.graph.org
++.grapheneos.com
++.grapheneos.foundation
++.grapheneos.info
++.grapheneos.net
++.grapheneos.network
++.grapheneos.online
++.grapheneos.org
++.grapheneos.social
 +.graphql.org
 +.gravatar.com
 +.gravitytank.com
@@ -19400,6 +19409,7 @@
 +.ubertags.com
 +.ubi.com
 +.ubisoft.com
++.ubisoft.siteintercept.qualtrics.com
 +.ubisoftconnect.com
 +.ublock.org
 +.ubncloud.com
