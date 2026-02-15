@@ -324,8 +324,6 @@
 +.smetrics.benefitcosmetics.com.cn
 +.bh-google.com.cn
 +.bh100.com.cn
-+.binance-nf.com.cn
-+.binance-wv.com.cn
 +.bing-zoom.com.cn
 +.blwebbing.com.cn
 +.bos-google3.com.cn
@@ -369,7 +367,6 @@
 +.forestseasons.com.cn
 +.geowps-office.com.cn
 +.prom.gome.com.cn
-+.google-chhrome.com.cn
 +.google-choo.com.cn
 +.google-health.com.cn
 +.google-ie.com.cn
@@ -530,7 +527,6 @@
 +.wop-google.com.cn
 +.wps-wpsoffice-wps.com.cn
 +.wpsoffice-kr.com.cn
-+.wsonvp-google.com.cn
 +.wxhgjx.com.cn
 +.d0.xcar.com.cn
 +.dw.xcar.com.cn
@@ -623,11 +619,8 @@
 +.events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 +.events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 +.hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
-+.hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
-+.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
-+.0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 +.dm1.ddwk8.cn
@@ -669,7 +662,6 @@
 +.dweixin.cn
 +.dxwsty.cn
 +.by.dyq.cn
-+.dyzc.cn
 +.api.e-toys.cn
 +.eagle-tex.cn
 +.vpass-login.eawfcz.cn
@@ -902,7 +894,6 @@
 +.smetrics.lululemon.cn
 +.lwlqsgr.cn
 +.accoun.lya43uze.cn
-+.accoun.lyaz68qxf.cn
 +.lycjsix.cn
 +.accoun.lyfr28oiq.cn
 +.accoun.lygv76sax.cn
@@ -996,7 +987,6 @@
 +.click.oneplus.cn
 +.scs.openspeech.cn
 +.oqyiapj.cn
-+.telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
 +.passport.acla.org.cn
 +.chromep-google.org.cn
 +.bun1.dayi.org.cn
@@ -1599,7 +1589,6 @@
 +.ad.51wnl-cq.com
 +.51yes.com
 +.game.51yund.com
-+.go.5211game.com
 +.52aoteman.com
 +.5y9nfpes.52pk.com
 +.t-adx.52qumao.com
@@ -2438,7 +2427,6 @@
 +.fujincenter.com
 +.adm.funshion.com
 +.jobsfe.funshion.com
-+.neirong.funshion.com
 +.po.funshion.com
 +.pub.funshion.com
 +.pv.funshion.com
@@ -3235,7 +3223,6 @@
 +.api.accelerator.intl.miui.com
 +.api.aurogon.intl.miui.com
 +.activity.browser.intl.miui.com
-+.api.browser.intl.miui.com
 +.api.brs.intl.miui.com
 +.api.calendar.intl.miui.com
 +.abroad.api.comm.intl.miui.com
@@ -3883,7 +3870,6 @@
 +.tanv.com
 +.cdn.tanx.com
 +.click.tanx.com
-+.cms.tanx.com
 +.df.tanx.com
 +.ef-dongfeng.tanx.com
 +.et.tanx.com
@@ -4419,7 +4405,6 @@
 +.ad.intl.xiaomi.com
 +.data.mistat.intl.xiaomi.com
 +.storeconfig.mistat.intl.xiaomi.com
-+.globalvideo.cdn.pandora.intl.xiaomi.com
 +.in-miuilog.sms.intl.xiaomi.com
 +.a.market.xiaomi.com
 +.xadx.file.market.xiaomi.com
@@ -4435,7 +4420,6 @@
 +.tv.app.migc.xiaomi.com
 +.data.mistat.xiaomi.com
 +.stats.music.xiaomi.com
-+.appstore.pandora.xiaomi.com
 +.bss.pandora.xiaomi.com
 +.appstore.cdn.pandora.xiaomi.com
 +.image.cdn.pandora.xiaomi.com
@@ -4572,7 +4556,6 @@
 +.c.youdao.com
 +.clkservice.youdao.com
 +.conv.youdao.com
-+.impservice.dictapp.youdao.com
 +.dsp.youdao.com
 +.dsp-impr2.youdao.com
 +.fanyiegg.youdao.com
@@ -4817,7 +4800,6 @@
 +.report-oversea.agora.io
 +.report-oversea2.agora.io
 +.statscollector-1.agora.io
-+.statscollector-1-asia.agora.io
 +.statscollector-1-europe.agora.io
 +.statscollector-1-north-america.agora.io
 +.tracking.agora.io

@@ -18890,6 +18890,7 @@
 +.tomp3.cc
 +.tomsguide.com
 +.tomshardware.com
++.ton.org
 +.tonec.com
 +.tonicmovies.com
 +.tonyyan.net
@@ -20215,6 +20216,7 @@
 +.wallpapercasa.com
 +.wallproxy.com
 +.wallsttv.com
++.wallzhihu.com
 +.walmart
 +.walmart-content.com
 +.walmart.com
