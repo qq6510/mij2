@@ -223,6 +223,7 @@
 +.2drdrebeats.com
 +.2du5.com
 +.2gayboys.com
++.2gis.com
 +.2k.com
 +.2kcoretech.online
 +.2kct.onl
@@ -599,6 +600,7 @@
 +.aave.com
 +.aavs.xyz
 +.abb
++.abb.travel
 +.abbott
 +.abbvie
 +.abbywintersfree.com
@@ -644,6 +646,7 @@
 +.acces-vod.com
 +.accessfacebookfromschool.com
 +.accim.org
++.accomable.com
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
@@ -957,6 +960,14 @@
 +.airasia.com
 +.airav.cc
 +.airav.wiki
++.airbnb.cn
++.airbnb.com
++.airbnb.com.co
++.airbnb.com.hk
++.airbnb.me
++.airbnb.org
++.airbnb.tools
++.airbnb.travel
 +.airbus
 +.airconsole.com
 +.aircrack-ng.org
@@ -13205,6 +13216,7 @@
 +.muncloud.dog
 +.muramura.tv
 +.muryouav.net
++.muscache.com
 +.muscdn.com
 +.musclegirlflix.com
 +.mushroomtrack.com
@@ -19660,6 +19672,7 @@
 +.valoryirene.com
 +.valuegb.com
 +.valvesoftware.com
++.vamo.com
 +.van001.com
 +.van698.com
 +.vana
@@ -20210,6 +20223,7 @@
 +.wales
 +.wallet.com
 +.walletconnect.com
++.walletconnect.org
 +.wallhaven.cc
 +.wallmama.com
 +.wallornot.org
@@ -20315,6 +20329,7 @@
 +.web-instagram.net
 +.web.nebula-emby.com
 +.web2project.net
++.web3modal.org
 +.webappfieldguide.com
 +.webbang.net
 +.webcam-teen.net
