@@ -1880,6 +1880,7 @@
 +.assembla.com
 +.assemblesystems.com
 +.assesphoto.com
++.assets.nxtrace.org
 +.assetsadobe.com
 +.assimp.org
 +.assistirhentai.com
@@ -13828,7 +13829,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngenix.net
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -14509,6 +14509,7 @@
 +.openbase.com
 +.opencollective.com
 +.opencreate.org
++.opencritic.com
 +.opendemocracy.net
 +.opendesktop.org
 +.opendn.xyz
