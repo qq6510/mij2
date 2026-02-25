@@ -1270,6 +1270,7 @@
 +.amazon-launchpad.com
 +.amazon.co
 +.amazon.com
++.amazon.com.co
 +.amazon.jobs
 +.amazon.red
 +.amazonalexavoxcon.com
@@ -2246,6 +2247,7 @@
 +.awsthinkbox.com
 +.awstrack.me
 +.awstrust.com
++.awswaf.com
 +.awwcn.buzz
 +.awwcn.xyz
 +.awxcdn.com
@@ -12838,6 +12840,7 @@
 +.mitsubishi
 +.mixasiansex.com
 +.mixero.com
++.mixi.net
 +.mixin.one
 +.mixlr.com
 +.mixmaturesex.com
@@ -16886,6 +16889,7 @@
 +.seat
 +.seatguru.com
 +.seattlefdc.com
++.seattlespheres.com
 +.secomtrust.net
 +.second-ns.com
 +.secret-flirt-hub.com
