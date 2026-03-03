@@ -10730,6 +10730,7 @@
 +.javheroine.com
 +.javhihi.com
 +.javhip.com
++.javhub.com
 +.javhub.me
 +.javhub.net
 +.javhuge.com
@@ -10767,6 +10768,7 @@
 +.javpub.me
 +.javpush.com
 +.javqd.com
++.javquick.com
 +.javrank.com
 +.javrate.com
 +.javrave.club
@@ -20614,7 +20616,6 @@
 +.www-facebook.com
 +.www-paypal.info
 +.www-sms-apple.com
-+.www.imdb.com
 +.www.msn.com
 +.www1.biz
 +.www8-hp.com
