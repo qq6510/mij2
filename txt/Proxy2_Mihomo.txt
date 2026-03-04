@@ -1791,6 +1791,7 @@
 +.artstor.org
 +.artstorm.com
 +.artsy.net
++.arweave.org
 +.arxiv.org
 +.as
 +.asacp.org
@@ -5382,6 +5383,7 @@
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
++.diabrowser.engineering
 +.dialga.com
 +.dialogflow.com
 +.diamantewebcam.com
@@ -10626,6 +10628,7 @@
 +.janor6.net
 +.janwongphoto.com
 +.japan-forward.com
++.japan-illgames.com
 +.japan-whores.com
 +.japan18tube.com
 +.japanbeast.com
@@ -18999,6 +19002,7 @@
 +.tt
 +.tt-rss.org
 +.tt1069.com
++.ttcdn-us.com
 +.tteshop.com
 +.ttlivecdn.com
 +.ttoverseaus.net
@@ -20469,6 +20473,7 @@
 +.wisekey.com.hk
 +.wisevid.com
 +.wish.com
++.wispbyte.com
 +.wistia.com
 +.wistia.net
 +.withgoogle.com
