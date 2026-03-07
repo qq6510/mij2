@@ -104,6 +104,7 @@
 +.launchdarkly.com
 +.liveperson.net
 +.location.microsoft.com
++.lovart.ai
 +.lpsnmedia.net
 +.makersuite.google.com
 +.manus.im
