@@ -16583,6 +16583,7 @@
 +.samsunggalaxyfriends.com
 +.samsunghealth.com
 +.samsungiotcloud.com
++.samsungiots.com
 +.samsungknox.com
 +.samsungosp.com
 +.samsungqbe.com
@@ -17407,6 +17408,7 @@
 +.smartonerobotics.com
 +.smartonesolutions.com.hk
 +.smartonesolutions.hk
++.smartthings.com
 +.smchbooks.com
 +.smhric.org
 +.smm99999.com
