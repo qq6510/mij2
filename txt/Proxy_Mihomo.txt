@@ -31,10 +31,12 @@
 +.cici.com
 +.ciciai.com
 +.ciciaicdn.com
++.clau.de
 +.claude.ai
 +.claude.com
 +.claudemcpclient.com
 +.claudeusercontent.com
++.clawhub.ai
 +.client-api.arkoselabs.com
 +.clipdrop.co
 +.cloudaicompanion.googleapis.com
@@ -85,6 +87,7 @@
 +.grok.com
 +.grok.x.com
 +.groq.com
++.h2o.ai
 +.hf.co
 +.hf.space
 +.host.livekit.cloud
@@ -130,6 +133,7 @@
 +.openaicom.imgix.net
 +.openaicomproductionae4b.blob.core.windows.net
 +.openart.ai
++.openclaw.ai
 +.openrouter.ai
 +.oystermercury.top
 +.perplexity.ai
