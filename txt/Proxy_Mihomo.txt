@@ -152,6 +152,7 @@
 +.servd-anthropic-website.b-cdn.net
 +.services.bingapis.com
 +.sora.com
++.spicywriter.com
 +.static.cloudflareinsights.com
 +.stripe.com
 +.sydney.bing.com
