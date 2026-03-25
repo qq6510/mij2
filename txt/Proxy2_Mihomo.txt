@@ -14710,6 +14710,8 @@
 +.ozeex.com
 +.ozodi.org
 +.ozodlik.org
++.ozon.com
++.ozonru.me
 +.ozonusercontent.com
 +.ozvoice.org
 +.ozxw.com
@@ -20986,6 +20988,7 @@
 +.xiaohexie.com
 +.xiaolan.me
 +.xiaoma.org
++.xiaomiflash.com
 +.xiaoou.tv
 +.xiaoshuobb.life
 +.xiaoyaoge.xyz
@@ -21041,6 +21044,7 @@
 +.xmoviesforyou.com
 +.xn--096-4g6em5t.com
 +.xn--11xs86f.icu
++.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--201-4g6em5t.com
 +.xn--202-4g6em5t.com
 +.xn--203-4g6em5t.com
