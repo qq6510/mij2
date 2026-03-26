@@ -4441,6 +4441,7 @@
 +.chuizi.net
 +.chuneo.xyz
 +.chunja19.net
++.chunkbase.com
 +.chuporno.com
 +.churchinhongkong.org
 +.chutuno.fun
@@ -12694,6 +12695,7 @@
 +.minecraft-services.net
 +.minecraft.net
 +.minecraft.wiki
++.minecraftforge.net
 +.minecraftservices.com
 +.minecraftshop.com
 +.mingdemedia.org
@@ -13541,6 +13543,7 @@
 +.nalandabodhi.org
 +.nalandawest.org
 +.name.com
++.namemc.com
 +.namemybeats.com
 +.namethatporn.com
 +.namethatpornad.com
@@ -13852,6 +13855,7 @@
 +.nginx.com
 +.nginx.org
 +.ngodupdongchung.com
++.ngrok-agent.com
 +.ngrok-free.pizza
 +.ngrok.com
 +.ngrok.pizza
@@ -14574,6 +14578,7 @@
 +.optica.org
 +.opticore.com
 +.opticsforthecloud.net
++.optifine.net
 +.optimumssl.com
 +.opus-gaming.com
 +.oracle
@@ -17810,6 +17815,7 @@
 +.spideroak.com
 +.spiderpool.com
 +.spiedigitallibrary.org
++.spigotmc.org
 +.spike.com
 +.spiritclubs.com
 +.spiritofecstasy.com
@@ -18488,6 +18494,8 @@
 +.tehrantimes.com
 +.telebay.com
 +.telecomspace.com
++.telega.info
++.telega.me
 +.telega.one
 +.telegram-cdn.org
 +.telegram-porn.com
