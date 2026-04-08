@@ -4458,6 +4458,7 @@
 +.crackle.com
 +.craigslist.org
 +.crankplayer.com
++.crashlytics.com
 +.crazy-amateurs.com
 +.crazyav.xyz
 +.crazybook.xyz
