@@ -266,6 +266,7 @@
 +.4channel.org
 +.4club.com
 +.4ebaytraders.com
++.4epenaxa.com
 +.4ertik.live
 +.4ertik.one
 +.4everproxy.com
@@ -1697,6 +1698,7 @@
 +.atlassian.com
 +.atlassian.net
 +.atnext.com
++.atomyze.tech
 +.atos.net
 +.atscaleconference.com
 +.att-bundles.com
@@ -3660,6 +3662,7 @@
 +.cargigileads.com
 +.caribbeancom.com
 +.caribbeancompr.com
++.caronino.com
 +.carousell.com.hk
 +.carrd.co
 +.carstagram.com
@@ -4007,6 +4010,7 @@
 +.chinman.net
 +.chintai
 +.chintaidx.com
++.chipcore.com
 +.chipmong13g.buzz
 +.chips.com
 +.chla3.com
@@ -4213,6 +4217,7 @@
 +.cloudlock.com
 +.cloudn.me
 +.cloudrobotics.com
++.cloudru.cn
 +.cloudvolumes.com
 +.cloudyzgirl.com
 +.cloupia.com
@@ -4699,6 +4704,8 @@
 +.darwinsourcecode.com
 +.dasaob.online
 +.dashlane.com
++.dashly.help
++.dashly.me
 +.dashwood360.com
 +.dastanhisexy.cc
 +.dat.foundation
@@ -5463,6 +5470,7 @@
 +.eamythic.net
 +.eanordic.com
 +.eaplay.com
++.eaptechka.online
 +.earlytibet.com
 +.earngeek.com
 +.earphonescheapest.com
@@ -6511,6 +6519,7 @@
 +.fececbook.com
 +.fedex
 +.fedoraforum.org
++.fedorainfracloud.org
 +.fedoramagazine.org
 +.fedorapeople.org
 +.fedoraproject.org
@@ -6737,6 +6746,7 @@
 +.footseen.com
 +.footstockings.com
 +.footwear-cadcam.com
++.foralice.online
 +.forbes.com
 +.forbesimg.com
 +.forbiddenasian.com
@@ -7380,6 +7390,7 @@
 +.geotrust.com
 +.geraldoatlarge.com
 +.gerritcodereview.com
++.gerronfox.com
 +.gesoten.com
 +.get.shop
 +.getadblock.com
@@ -7890,6 +7901,7 @@
 +.hackyourconsole.com
 +.hadesex.com
 +.haha888.xyz
++.haicomdc.com
 +.haijiao.com
 +.hairy-amateurs.com
 +.hairy-beauty.com
@@ -9747,6 +9759,9 @@
 +.jiayoulu.com
 +.jibemobile.com
 +.jieav.com
++.jieshang.online
++.jieshang.shop
++.jieshang.store
 +.jifangge.com
 +.jihadology.net
 +.jiji.com
@@ -9898,6 +9913,7 @@
 +.juliamovies.com
 +.juliepost.com
 +.juliereyc.com
++.jump.taxi
 +.junauza.com
 +.juniper
 +.juoaa.com
@@ -11015,6 +11031,7 @@
 +.megacamz.com
 +.megafilmporno.com
 +.megamarket.tech
++.megapolis.llc
 +.megapornfreehd.com
 +.megapornpics.com
 +.megaproxy.com
@@ -11231,6 +11248,9 @@
 +.mimistyler.com
 +.mimizy-go.buzz
 +.minbrowser.org
++.mindbox.cloud
++.mindbox.group
++.mindbox.site
 +.mindgeek.com
 +.mindmeld.com
 +.mindrolling.org
@@ -11634,6 +11654,7 @@
 +.mozilla.net
 +.mozilla.org
 +.mp
++.mp.world
 +.mpettis.com
 +.mpfinance.com
 +.mpinews.com
@@ -12086,6 +12107,7 @@
 +.nentindo.net
 +.neo-miracle.com
 +.neoforged.net
++.neon.click
 +.neotokyo.supertop-100.com
 +.neowin.net
 +.nephobox.com
@@ -12628,6 +12650,9 @@
 +.nuuporn.com
 +.nuuvem.com
 +.nuvid.com
++.nuwjon.online
++.nuwjon.shop
++.nuwjon.store
 +.nvdst.com
 +.nvidia.asia
 +.nvidia.com
@@ -13008,6 +13033,12 @@
 +.ozodi.org
 +.ozodlik.org
 +.ozon.com
++.ozon.express
++.ozon.tech
++.ozon.travel
++.ozoncamp.pro
++.ozonglobalevents.com
++.ozonru.com
 +.ozonru.me
 +.ozonusercontent.com
 +.ozvoice.org
@@ -14042,6 +14073,7 @@
 +.privoxy.org
 +.procopytips.com
 +.proctoscopeexam.com
++.prodcontest.com
 +.prodrive-japan.com
 +.prof
 +.profilemaster.com
@@ -14639,6 +14671,7 @@
 +.roovza.inapps.appsflyersdk.com
 +.roovza.launches.appsflyersdk.com
 +.roovza.skadsdk.appsflyersdk.com
++.rosbank-credit.com
 +.rosemarydoll.com
 +.roshy.tv
 +.rostaxi.org
@@ -14724,6 +14757,7 @@
 +.rutrk.org
 +.ruvideos.net
 +.rw
++.rwbautomation.tech
 +.rwe
 +.rxhj.net
 +.ryukyu
@@ -14760,8 +14794,10 @@
 +.safebooru.org
 +.safechat.com
 +.safeguarddefenders.com
++.safeliner.tech
 +.safervpn.com
 +.saffrontech.com
++.sage-observability.tech
 +.sagepub.com
 +.sagernet.org
 +.sahabatsetiasmartone.com
@@ -14985,7 +15021,13 @@
 +.sejie80.com
 +.sekai.colorfulpalette.org
 +.sekur1213.guru
++.selcdn.net
 +.selectanescort.com
++.selectel.academy
++.selectel.blog
++.selectel.com
++.selectel.info
++.selectel.live
 +.selectyourgame.com
 +.selfloversworld.com
 +.sellercommunity.com
@@ -15012,6 +15054,8 @@
 +.serialssolutions.com
 +.serlucap.lol
 +.serlutv258.xyz
++.servercore.com
++.servercore.live
 +.serverfault.com
 +.serverlesslibrary.net
 +.services-apple.net
@@ -16155,10 +16199,13 @@
 +.szcheapmonsterheadphones.com
 +.szexvideo.top
 +.szwinnertechnology.com
++.t-finance.group
 +.t-g.com
 +.t-msedge.net
 +.t-splines.com
++.t-tech.team
 +.t.co
++.t.finance
 +.t.me
 +.t66y.com
 +.taa-usa.org
@@ -16290,6 +16337,7 @@
 +.teeztube.com
 +.tegrazone.co
 +.tegrazone.com
++.tehnodom.com
 +.tehrantimes.com
 +.telebay.com
 +.telega.info
@@ -16603,6 +16651,7 @@
 +.tiffany-towers.com
 +.tig-ol-bitties.live
 +.tigervpn.com
++.tigrenok.toys
 +.tik-tokapi.com
 +.tiktok-minis.com
 +.tiktok-row.net
@@ -16641,6 +16690,7 @@
 +.tinkerentertainment.com
 +.tinkerplay.net
 +.tinkoff-group.com
++.tinkoffmobile.com
 +.tiny.cc
 +.tiny4k.com
 +.tinychat.com
@@ -17786,6 +17836,7 @@
 +.vrsumo.com
 +.vrv.co
 +.vsallin.net
++.vscale.blog
 +.vscode-cdn.net
 +.vscode-unpkg.net
 +.vsezoo.com
@@ -17898,11 +17949,14 @@
 +.waze.com
 +.wbagora.com
 +.wballiance.com
++.wbautomation.tech
 +.wbdnbo.net
 +.wbgames.com
 +.wbinsights.com
 +.wbrks.com
++.wbstatic.net
 +.wbvm4s.com
++.wbwh.tech
 +.wd.com
 +.wdc.com
 +.wdfiles.com
@@ -18046,6 +18100,7 @@
 +.whynotbi.com
 +.whyx.org
 +.wi-fi.org
++.wibes.com
 +.widevine.com
 +.widgets.stripst.com
 +.wien
@@ -18519,7 +18574,9 @@
 +.xn--80asehdb
 +.xn--80aswg
 +.xn--90a3ac
++.xn--90ab.com
 +.xn--90ae
++.xn--90aifd0az.shop
 +.xn--90ais
 +.xn--90wwvt03e.com
 +.xn--9iqy04a7fi01l.com
@@ -18527,12 +18584,14 @@
 +.xn--9pr62r24a.com
 +.xn--9trs65b.com
 +.xn--av-o44ep1d.com
++.xn--b1aechhj6bof8g5a.site
 +.xn--b4w605ferd
 +.xn--c1avg
 +.xn--cck4d8b3009a.com
 +.xn--cckwcxetd
 +.xn--cg4bki
 +.xn--czq75pvv1aj5c.org
++.xn--d1abkf4ap.fun
 +.xn--d1acj3b
 +.xn--d1alf
 +.xn--d4ty0ojsqzfd.com
@@ -18552,6 +18611,7 @@
 +.xn--gtvq61aiijy0b.xn--hxt814e
 +.xn--gtvz22d.wang
 +.xn--gtvz22d.xn--hxt814e
++.xn--h1ao.site
 +.xn--h2breg3eve
 +.xn--h2brj9c
 +.xn--h2brj9c8c
