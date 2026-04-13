@@ -966,6 +966,7 @@
 +.alchemysynth.com
 +.alexa.com
 +.alexanderstreet.com
++.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
 +.alhs.link
@@ -3662,7 +3663,6 @@
 +.cargigileads.com
 +.caribbeancom.com
 +.caribbeancompr.com
-+.caronino.com
 +.carousell.com.hk
 +.carrd.co
 +.carstagram.com
@@ -6746,7 +6746,6 @@
 +.footseen.com
 +.footstockings.com
 +.footwear-cadcam.com
-+.foralice.online
 +.forbes.com
 +.forbesimg.com
 +.forbiddenasian.com
@@ -7390,7 +7389,6 @@
 +.geotrust.com
 +.geraldoatlarge.com
 +.gerritcodereview.com
-+.gerronfox.com
 +.gesoten.com
 +.get.shop
 +.getadblock.com
@@ -9759,9 +9757,6 @@
 +.jiayoulu.com
 +.jibemobile.com
 +.jieav.com
-+.jieshang.online
-+.jieshang.shop
-+.jieshang.store
 +.jifangge.com
 +.jihadology.net
 +.jiji.com
@@ -11031,7 +11026,6 @@
 +.megacamz.com
 +.megafilmporno.com
 +.megamarket.tech
-+.megapolis.llc
 +.megapornfreehd.com
 +.megapornpics.com
 +.megaproxy.com
@@ -12107,7 +12101,6 @@
 +.nentindo.net
 +.neo-miracle.com
 +.neoforged.net
-+.neon.click
 +.neotokyo.supertop-100.com
 +.neowin.net
 +.nephobox.com
@@ -12650,9 +12643,6 @@
 +.nuuporn.com
 +.nuuvem.com
 +.nuvid.com
-+.nuwjon.online
-+.nuwjon.shop
-+.nuwjon.store
 +.nvdst.com
 +.nvidia.asia
 +.nvidia.com
@@ -15734,6 +15724,8 @@
 +.spankred3d.com
 +.spankwire.com
 +.sparkpool.com
++.spasibo.digital
++.spasibo.market
 +.spb.com
 +.spcc-sp.com
 +.speakerdeck.com
@@ -16651,7 +16643,6 @@
 +.tiffany-towers.com
 +.tig-ol-bitties.live
 +.tigervpn.com
-+.tigrenok.toys
 +.tik-tokapi.com
 +.tiktok-minis.com
 +.tiktok-row.net
