@@ -1274,6 +1274,8 @@
 +.aniscartujo.com
 +.anistreaming.xyz
 +.ankarazirvesi2018.com
++.ankiuser.net
++.ankiweb.net
 +.annamilk.com
 +.annstores.net
 +.annualpelvicexam.com
@@ -5248,7 +5250,6 @@
 +.douzinnsi-eromannga.com
 +.dowjones.com
 +.dowjoneson.com
-+.download.aircrack-ng.org
 +.download.com
 +.download.dappcdn.com
 +.downloadpass.com
@@ -8328,8 +8329,6 @@
 +.hk.jiepang.com
 +.hk01.com
 +.hk1lib.org
-+.hkacg.com
-+.hkacg.net
 +.hkbigman.net
 +.hkbn.com.hk
 +.hkbn.net
@@ -11834,7 +11833,6 @@
 +.mwdbank.com
 +.mwhentai.net
 +.mx
-+.mx981.com
 +.mxlogin.com
 +.mxmcdn.net
 +.mxroute.com
@@ -17924,7 +17922,6 @@
 +.vtunnel.com
 +.vtvan.com
 +.vu
-+.vuku.cc
 +.vulgarx.com
 +.vultr.com
 +.vultryhw.com
@@ -18600,7 +18597,6 @@
 +.xiuren.org
 +.xj87ti.com
 +.xjavporn.com
-+.xjp.cc
 +.xjtravelguide.com
 +.xkeezmovies.com
 +.xknoop.com
