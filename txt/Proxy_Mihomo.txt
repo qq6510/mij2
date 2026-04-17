@@ -157,6 +157,7 @@
 +.sora.com
 +.spicywriter.com
 +.static.cloudflareinsights.com
++.stitch.withgoogle.com
 +.stripe.com
 +.sydney.bing.com
 +.themeforest.net

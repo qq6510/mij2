@@ -187,6 +187,7 @@
 +.2drdrebeats.com
 +.2gayboys.com
 +.2gis.com
++.2gis.tech
 +.2k.com
 +.2kcoretech.online
 +.2kct.onl
@@ -2560,6 +2561,7 @@
 +.beforeigners.com
 +.befuck.com
 +.befuck.net
++.beget.com
 +.begin-trade.com
 +.behance.net
 +.behindthescreenz.com
@@ -12811,6 +12813,7 @@
 +.okkisokuho.com
 +.okko.sport
 +.okko.tv
++.okkoapi.tv
 +.oklink.com
 +.okpool.me
 +.okx-dns.com
@@ -14149,6 +14152,7 @@
 +.projectshoreline.com
 +.projectvasari.com
 +.projectvoyeur.com
++.promodj.com
 +.promonsterbeatsbydre.com
 +.prompthero.com
 +.pron.guru
@@ -16742,6 +16746,8 @@
 +.timesnownews.com
 +.timesofindia.indiatimes.com
 +.timestalks.com
++.timeweb.cloud
++.timeweb.com
 +.timi1.me
 +.timo0.com
 +.timtales.com
@@ -17244,6 +17250,14 @@
 +.ubuntu.net
 +.ubuntuforums.org
 +.uc-japan.org
++.ucoz.club
++.ucoz.co
++.ucoz.com
++.ucoz.net
++.ucoz.org
++.ucoz.site
++.ucozmedia.com
++.ucoztemplates.com
 +.udacity.com
 +.udemy.com
 +.udemycdn.com
@@ -17270,6 +17284,9 @@
 +.uk
 +.uk-exhibitionist.com
 +.ukipad.com
++.ukit.com
++.ukit.group
++.ukit.me
 +.ukwhoswho.com
 +.ulifestyle.com.hk
 +.ulol.com
@@ -17278,6 +17295,7 @@
 +.ultimaonline.com
 +.ultradonkey.com
 +.ultravpn.com
++.uma.media
 +.umagazine.com.hk
 +.umbrella.com
 +.umschool.net
