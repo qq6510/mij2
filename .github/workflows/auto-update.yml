@@ -19,8 +19,8 @@ jobs:
       actions: write
     
     steps:
-      # 1. 获取代码，fetch-depth: 0 确保获取所有历史
-      - uses: actions/checkout@v4
+      # 1. 获取代码，使用 @main 拉取最新 checkout 逻辑
+      - uses: actions/checkout@main
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -36,9 +36,9 @@ jobs:
         run: |
           bash ./script/build-combined-rules.sh
       
-      # 4. 提交并强制推送
+      # 4. 提交并强制推送，使用 @master 获取最新提交逻辑
       - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@master
         with:
           commit_message: 🚀 CI Updated
           # 使用 --force 强制覆盖远程冲突
@@ -46,9 +46,9 @@ jobs:
           # 如果没有文件变化，不报错
           skip_dirty_check: false
 
-      # 5. 清理记录
+      # 5. 清理记录，使用 @main 获取最新清理逻辑
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
+        uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
