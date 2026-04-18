@@ -2804,7 +2804,6 @@
 +.d48paxyhx.com
 +.d7ytrv7yxa.com
 +.dabaicai.com
-+.oss.dns.aliyun.com.dalvhe.com
 +.mcds.dalyfeds.com
 +.profiler-collector.dalyfeds.com
 +.a.dangdang.com
@@ -3004,6 +3003,7 @@
 +.g-staic.ganjingworld.com
 +.gaoshouyou.com
 +.gdtimg.com
++.adsmind.gdtqq.com
 +.log.geetest.com
 +.g.gegeyingshi.com
 +.image.gentags.com
@@ -3369,7 +3369,6 @@
 +.entree.igetget.com
 +.piccdn.igetget.com
 +.seeder.igetget.com
-+.igexin.com
 +.fpbone.ihowguide.com
 +.appadapi.ihuman.com
 +.ijinshan.com
@@ -3408,12 +3407,10 @@
 +.apisgame.iqiyi.com
 +.cards-css.iqiyi.com
 +.t7z.cupid.iqiyi.com
-+.dns.iqiyi.com
 +.doh.iqiyi.com
 +.emoticon-sns.iqiyi.com
 +.static.g.iqiyi.com
 +.hotchat-im.iqiyi.com
-+.httpdns.iqiyi.com
 +.ifacelog.iqiyi.com
 +.mbdlog.iqiyi.com
 +.msg.iqiyi.com
@@ -3548,6 +3545,7 @@
 +.kqg8jh8rk.com
 +.marketing.krones.com
 +.slb-p2p.vcloud.ks-live.com
++.adtrack.ksapisrv.com
 +.log-sdk.ksapisrv.com
 +.multi-az-ulog.ksapisrv.com
 +.ulog.ksapisrv.com
@@ -3558,6 +3556,7 @@
 +.ulog.v6.ksapisrv.com
 +.web-trace.ksapisrv.com
 +.wlog.ksapisrv.com
++.yd.ksapisrv.com
 +.andmlb.kshwtj.com
 +.w1.kskwai.com
 +.pgapi.ksmobile.com
@@ -4227,6 +4226,7 @@
 +.report.syzs.qq.com
 +.ta.qq.com
 +.log.tbs.qq.com
++.adsmind.tc.qq.com
 +.adsmind.apdcdn.tc.qq.com
 +.video.dispatch.tc.qq.com
 +.fodder.tc.qq.com
@@ -4402,7 +4402,6 @@
 +.form-submission-workspace.ajo-stage.srv.smart.com
 +.sensors.snappea.com
 +.abtest-ch.snssdk.com
-+.analytics.snssdk.com
 +.applog.snssdk.com
 +.bds.snssdk.com
 +.extlog.snssdk.com
@@ -5117,16 +5116,10 @@
 +.in-miuilog.sms.intl.xiaomi.com
 +.a.market.xiaomi.com
 +.xadx.file.market.xiaomi.com
-+.t1.market.xiaomi.com
 +.t17.market.xiaomi.com
-+.t2.market.xiaomi.com
-+.t3.market.xiaomi.com
-+.t4.market.xiaomi.com
-+.t5.market.xiaomi.com
 +.video.market.xiaomi.com
 +.wtradv.market.xiaomi.com
 +.resolver.mi.xiaomi.com
-+.tv.app.migc.xiaomi.com
 +.data.mistat.xiaomi.com
 +.stats.music.xiaomi.com
 +.appstore.pandora.xiaomi.com
@@ -5870,8 +5863,6 @@
 +.zttebe.top
 +.go.bigo.tv
 +.auth.api.gitv.tv
-+.pb.bi.gitv.tv
-+.api.mitv.gitv.tv
 +.ads.ptqy.gitv.tv
 +.cupid.ptqy.gitv.tv
 +.doh.ptqy.gitv.tv
