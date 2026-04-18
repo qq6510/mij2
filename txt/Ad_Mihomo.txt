@@ -259,7 +259,6 @@
 +.adimg.ce.cn
 +.cengqinglin.cn
 +.cfkrnyt.cn
-+.changyi21.cn
 +.analysis.chatglm.cn
 +.bdasd.chdbook.cn
 +.chengzhiwuliu.cn
@@ -353,12 +352,10 @@
 +.azm-kuailian.com.cn
 +.b86-telegram.com.cn
 +.baminw.com.cn
-+.bank-binance.com.cn
 +.bc-openclaw.com.cn
 +.bdkuailian.com.cn
 +.smetrics.benefitcosmetics.com.cn
 +.bhw-kuailian.com.cn
-+.bianfengshkoushoujbangw9.com.cn
 +.binance-nwe.com.cn
 +.binance-wap.com.cn
 +.bps-wps.com.cn
@@ -367,7 +364,6 @@
 +.stratus.campaign-image.com.cn
 +.zc1.campaign-view.com.cn
 +.web.capacity-whatsapp.com.cn
-+.carclaw.com.cn
 +.cchk-googlexc.com.cn
 +.cctvgb.com.cn
 +.cdnkuailian.com.cn
@@ -385,7 +381,6 @@
 +.metrics.citi.com.cn
 +.clarins.com.cn
 +.clawaegis.com.cn
-+.clawgo.com.cn
 +.clawmemory.com.cn
 +.clawxx.com.cn
 +.bd1.click.com.cn
@@ -394,7 +389,6 @@
 +.cn-office-wps.com.cn
 +.cn-oyi-okx.com.cn
 +.cn-platform-wps.com.cn
-+.cn-safew-apps.com.cn
 +.cn-safew-safew.com.cn
 +.cn-wps-zh.com.cn
 +.cnb-kuailian.com.cn
@@ -406,7 +400,6 @@
 +.ads.cup.com.cn
 +.web.customer-whatsapp.com.cn
 +.cvb-kuailian.com.cn
-+.cvv-kuailian.com.cn
 +.cxkuailian.com.cn
 +.cykuailian.com.cn
 +.dakuailian.com.cn
@@ -416,7 +409,6 @@
 +.db-kuailian.com.cn
 +.dfz-telegram.com.cn
 +.dg-kuailian.com.cn
-+.dgrj.com.cn
 +.dnskuailian.com.cn
 +.ads.doit.com.cn
 +.go.domino.com.cn
@@ -451,16 +443,13 @@
 +.forestseasons.com.cn
 +.fukuailian.com.cn
 +.trk.gardnerdenver.com.cn
-+.geclaw.com.cn
 +.gf-telegram.com.cn
 +.ggooglle-chrrome.com.cn
 +.ggzh-google.com.cn
 +.gh-kuailian.com.cn
 +.ghkuailian.com.cn
-+.gods-binance.com.cn
 +.prom.gome.com.cn
 +.google-ch-chrome.com.cn
-+.google-en-chrome.com.cn
 +.google-google-google.com.cn
 +.google-ji.com.cn
 +.google-og.com.cn
@@ -487,7 +476,6 @@
 +.hy.huangye88.com.cn
 +.hubcloud.com.cn
 +.huishenghuiying.com.cn
-+.hukuailian.com.cn
 +.huoche.com.cn
 +.hwkuailian.com.cn
 +.hw-t.hypers.com.cn
@@ -736,10 +724,6 @@
 +.trk-kuailian.com.cn
 +.tvkuailian.com.cn
 +.uhb-kuailian.com.cn
-+.usdtchongzhi.com.cn
-+.usdtduihuan.com.cn
-+.usdtduoshaormb.com.cn
-+.usdtgfwangzhan.com.cn
 +.uvkuailian.com.cn
 +.uw-kuailian.com.cn
 +.m.v-binance.com.cn
@@ -771,7 +755,6 @@
 +.vt-google.com.cn
 +.vvcdh.com.cn
 +.vx-kuailian.com.cn
-+.vxkuailian.com.cn
 +.vy-google.com.cn
 +.vy-kuailian.com.cn
 +.w8.com.cn
@@ -787,7 +770,6 @@
 +.hk.web-mobile-whatsapp.com.cn
 +.web3-cn-wps.com.cn
 +.web5-wps.com.cn
-+.webbkuailian.com.cn
 +.dads.wedobest.com.cn
 +.event.wedobest.com.cn
 +.event.stat.wedobest.com.cn
@@ -798,17 +780,10 @@
 +.wps-svip.com.cn
 +.wu-google.com.cn
 +.wva-telegram.com.cn
-+.ww-officc-wps.com.cn
 +.wws-google-app.com.cn
-+.www-chromegoogle.com.cn
-+.www-chromegooglee.com.cn
 +.www-chromeguge.com.cn
-+.www-googlechrom.com.cn
-+.www-officc-wps.com.cn
-+.www-offiic-wps.com.cn
 +.www-qishiu.com.cn
 +.www-safew-com.com.cn
-+.www-safews.com.cn
 +.wxkuailian.com.cn
 +.wy-kuailian.com.cn
 +.wz2010.com.cn
@@ -844,7 +819,6 @@
 +.zg9-telegram.com.cn
 +.zggxkj.com.cn
 +.zh-appd-google.com.cn
-+.zh-cn-safew.com.cn
 +.zh-google-cc.com.cn
 +.zl-kuailian.com.cn
 +.zm-telegram.com.cn
@@ -1030,7 +1004,6 @@
 +.t-e.flyme.cn
 +.t-flow.flyme.cn
 +.log-auth.flysleep.cn
-+.flyye.cn
 +.accoun.fnmgr.cn
 +.adv-sv-show.focus.cn
 +.adv-sv-stat.focus.cn
@@ -1160,7 +1133,6 @@
 +.fyy-youdao.hl.cn
 +.go-todesk.hl.cn
 +.googgle-chrrome.hl.cn
-+.google-ccc.hl.cn
 +.google-chrrome-zh.hl.cn
 +.gpkuailian.hl.cn
 +.hk-hqlm-whatsapp.hl.cn
@@ -1182,8 +1154,6 @@
 +.kuailian-kl.hl.cn
 +.kuailian-ln.hl.cn
 +.kuailian-nn.hl.cn
-+.kuailianai.hl.cn
-+.kuailianen.hl.cn
 +.kuailianer.hl.cn
 +.kvkuailian.hl.cn
 +.liverpool.hl.cn
@@ -1223,7 +1193,6 @@
 +.www-wps-hl.hl.cn
 +.www-wps-wps.hl.cn
 +.wwww-wps.hl.cn
-+.xfltd.hl.cn
 +.yidali.hl.cn
 +.yijia.hl.cn
 +.yingchao.hl.cn
@@ -1774,7 +1743,6 @@
 +.chatcenter.tw.cn
 +.twdjn.cn
 +.u.txuesoft.cn
-+.ty.cn
 +.u88.cn
 +.ubxqerc.cn
 +.ads.uc.cn
@@ -4666,7 +4634,6 @@
 +.a.tiyuxiu.com
 +.tjfytech.com
 +.livetech.shopee.com.br.tlivecdn.com
-+.tlpm.com
 +.abtest.todesk.com
 +.rybbit.todesk.com
 +.st.todesk.com
@@ -5833,8 +5800,6 @@
 +.u.zhugeapi.net
 +.zoosnet.net
 +.zoossoft.net
-+.count-ledger.online
-+.hssh.online
 +.xiangce.online
 +.0941.org
 +.2girls1finger.org
@@ -5896,7 +5861,6 @@
 +.hhttm.top
 +.naljjd.top
 +.overlay.top
-+.paycity1.top
 +.www.q4ee.top
 +.rbjpti.top
 +.tcdvvv.top
@@ -5970,5 +5934,4 @@
 +.jpush0b.xyz
 +.qcloud-sg-datareceiver.kurogame.xyz
 +.sbird.xyz
-+.simple-tiktok.xyz
 +.y74s.xyz
