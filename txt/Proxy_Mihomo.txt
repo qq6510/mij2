@@ -138,6 +138,7 @@
 +.manuscdn.com
 +.marscode.com
 +.meta.ai
++.minimax.io
 +.mistral.ai
 +.myoctocat.com
 +.notebooklm-pa.googleapis.com
