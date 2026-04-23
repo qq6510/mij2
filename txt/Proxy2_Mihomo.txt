@@ -1650,6 +1650,7 @@
 +.asianwifeporn.com
 +.asianxxxvideos.cc
 +.asiaone.com
++.asiasociety.org
 +.asjmapihost.cc
 +.ask.com
 +.askfacebook.net
@@ -2579,6 +2580,7 @@
 +.bell.wiki
 +.bellebound.com
 +.bellesa.co
++.bellingcat.com
 +.bellotube.com
 +.bellsouth.net
 +.benaughty.fun
@@ -4507,6 +4509,7 @@
 +.crececonebay.com
 +.creditcardsbay.com
 +.creditkarma.com
++.crewai.com
 +.cricketcountry.com
 +.cristyli.com
 +.crit-staging.com
@@ -10275,6 +10278,7 @@
 +.lancaster
 +.landofhope.tv
 +.landrover
++.langchain.com
 +.langsuirs.com
 +.lanmdh.net
 +.lanniser-ylo.shop
@@ -12839,6 +12843,7 @@
 +.olevod.tv
 +.olevodtv.com
 +.oli-school.com
++.ollama.com
 +.ollo
 +.olumpo.com
 +.om
@@ -14425,6 +14430,7 @@
 +.raw.githack.com
 +.rawgit.com
 +.rawgithub.com
++.rawstory.com
 +.rayark.download
 +.rayark.net
 +.razer.com
@@ -14542,6 +14548,7 @@
 +.recoiljs.org
 +.reconinstruments.com
 +.reconjet.com
++.recordedfuture.com
 +.red-lang.org
 +.redamateurtube.com
 +.redbubble.com
@@ -15784,7 +15791,6 @@
 +.soy
 +.soyinyj.top
 +.soyjak.party
-+.soylentnews.org
 +.sp.cool
 +.spaceexplored.com
 +.spacemail.com

@@ -55,6 +55,7 @@
 +.copilot.cloud.microsoft
 +.copilot.microsoft.com
 +.coze.com
++.crewai.com
 +.crixet.com
 +.cursor-cdn.com
 +.cursor.com
@@ -128,8 +129,10 @@
 +.kiro.dev
 +.labs.google
 +.labs.google.com
++.langchain.com
 +.launchdarkly.com
 +.liveperson.net
++.lmstudio.ai
 +.location.microsoft.com
 +.lovart.ai
 +.lpsnmedia.net
@@ -153,6 +156,7 @@
 +.observeit.net
 +.octocaptcha.com
 +.odc.officeapps.live.com
++.ollama.com
 +.opal.google
 +.opal.google.com
 +.openai-api.arkoselabs.com
