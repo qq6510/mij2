@@ -1,6 +1,8 @@
++.agentclientprotocol.com
 +.ai.azure.com
 +.ai.google.dev
 +.ai.studio
++.aicode.googleapis.com
 +.aida.googleapis.com
 +.aisandbox-pa.googleapis.com
 +.aistudio.google.com
@@ -172,6 +174,7 @@
 +.oystermercury.top
 +.perplexity.ai
 +.perplexity.com
++.plannotator.ai
 +.poe.com
 +.poecdn.net
 +.ppl-ai-file-upload.s3.amazonaws.com

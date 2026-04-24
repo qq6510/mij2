@@ -809,6 +809,7 @@
 +.agefans.com
 +.agemys.org
 +.agendaweek.com
++.agentclientprotocol.com
 +.agilebits.com
 +.agoogleaday.com
 +.agri-bank.com
@@ -17176,6 +17177,7 @@
 +.twistys.com
 +.twitch.tv
 +.twitchcdn.net
++.twitchcon.com
 +.twitchsvc.net
 +.twitiq.com
 +.twitlonger.com
