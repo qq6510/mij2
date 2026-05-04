@@ -76,30 +76,32 @@ process_rules() {
 }
 
 setup_mihomo_tool() {
-    log "正在从官方仓库下载 Mihomo 工具 (版本: v1.19.11)..."
+    local tag="v1.19.13"
+    log "正在从官方仓库下载 Mihomo 工具 (版本: ${tag})..."
     
-    local tag="v1.19.11"
     local download_url="https://github.com/MetaCubeX/mihomo/releases/download/${tag}/mihomo-linux-amd64-${tag}.gz"
     
-    curl -L "$download_url" -o mihomo.gz
-    
-    if [ -f "mihomo.gz" ]; then
-        gunzip -f mihomo.gz
-    else
-        error "下载失败，未找到 mihomo.gz"
+    # 1. 下载：采用 wget -q -O 逻辑，如果失败则直接报错退出
+    wget -q -O mihomo.gz "$download_url" || {
+        error "下载失败，请检查网络或目标版本是否存在。"
         exit 1
-    fi
+    }
     
-    if [ -f "mihomo-linux-amd64-${tag}" ]; then
-        mv -f "mihomo-linux-amd64-${tag}" mihomo
-    fi
+    # 2. 解压：直接解压为 mihomo，如果失败则报错退出
+    gunzip -f mihomo.gz || {
+        error "解压 mihomo.gz 失败。"
+        exit 1
+    }
     
-    if [ -f "mihomo" ]; then
-        chmod +x mihomo
-        mihomo_tool="mihomo"
-        log "Mihomo 工具准备就绪 (版本: MetaCubeX/mihomo $tag)"
+    # 3. 赋权：赋予可执行权限
+    chmod +x mihomo
+    
+    # 4. 验证：采用第二次代码的逻辑，执行 -v 进行冒烟测试
+    if ./mihomo -v >/dev/null 2>&1; then
+        mihomo_tool="./mihomo" # 建议加上 ./ 确保当前目录执行不出错
+        log "Mihomo 工具准备就绪 (运行测试通过)"
     else
-        error "解压失败，未找到 mihomo 二进制文件"
+        error "配置失败，解压后的二进制文件无法在当前系统运行。"
         exit 1
     fi
 }
