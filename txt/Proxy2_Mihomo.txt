@@ -4959,6 +4959,7 @@
 +.digitalcertvalidation.com
 +.digitaldesire.com
 +.digitalhub.com
++.digitalocean-ui.com
 +.digitalocean.com
 +.digitaloceanspaces.com
 +.digitalpack.com
