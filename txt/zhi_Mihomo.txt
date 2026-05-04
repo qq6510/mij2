@@ -104,13 +104,11 @@
 +.pool.ntp.org
 +.proxy.golang.org
 +.ps.res.netease.com
-+.qing-yu.top
 +.qq.com
 +.resolver1.opendns.com
 +.rewards.bing.com
 +.router.asus.com
 +.sandai.net
-+.sentry.io
 +.sharepoint.cn
 +.sharepoint.com
 +.sharepointonline.com
