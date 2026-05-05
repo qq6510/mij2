@@ -3584,6 +3584,7 @@
 +.calgoncarbon.com
 +.calgonit.com
 +.callabitch.org
++.callbackkiller.com
 +.callersbane.com
 +.callhulu.com
 +.calvinklein
@@ -3741,6 +3742,7 @@
 +.cavporn.com
 +.cba
 +.cbart.net
++.cbkiller.com
 +.cbn
 +.cbre
 +.cbs.com
@@ -3848,6 +3850,7 @@
 +.ceramics-cadcam.com
 +.cerdas.com
 +.cern
++.cert-gib.com
 +.certificat2.com
 +.certificate-transparency.org
 +.certificate.revocationcheck.com
@@ -4636,6 +4639,7 @@
 +.cy22.tv
 +.cyber-bay.info
 +.cyber-bay.org
++.cybercrimecon.com
 +.cyberghostvpn.com
 +.cybermondaybeats4sale.com
 +.cyberx.com
@@ -5825,6 +5829,10 @@
 +.envato-static.com
 +.envato.com
 +.envatousercontent.com
++.envybox.company
++.envybox.family
++.envycdp.com
++.envycrm.com
 +.eotarchive.org
 +.epicbrowser.com
 +.epicgames.com
@@ -6079,6 +6087,7 @@
 +.f2pool.com
 +.f3b7q2p3.ssl.hwcdn.net
 +.f5pf.com
++.f6.security
 +.f6988.com
 +.f8.com
 +.faacebok.com
@@ -6098,6 +6107,7 @@
 +.facboox.com
 +.faccebook.com
 +.faccebookk.com
++.facct.email
 +.facdbook.com
 +.facdebook.com
 +.face-book.com
@@ -7396,6 +7406,7 @@
 +.gengba.cc
 +.genius.com
 +.genkai-hounyo.com
++.genotek.health
 +.genshin-porn.com
 +.genshinh.com
 +.genshinimpact.com
@@ -7489,6 +7500,8 @@
 +.gi
 +.giantessbooru.com
 +.giantessnight.com
++.gib-global.com
++.gibdev.net
 +.giffgaff.com
 +.giffgaff.design
 +.gifnuki.com
@@ -7838,6 +7851,7 @@
 +.grooby.com
 +.groq.com
 +.ground.news
++.group-ib.com
 +.groupfun.com
 +.groups.com
 +.grss-ieee.org
@@ -11087,6 +11101,7 @@
 +.meetyourdevices.com
 +.megacamz.com
 +.megafilmporno.com
++.megafon.com
 +.megamarket.tech
 +.megapornfreehd.com
 +.megapornpics.com
@@ -11667,6 +11682,7 @@
 +.moov.hk
 +.moozporn.com
 +.morazzia.com
++.more.tv
 +.moreheadphones.com
 +.moresci.sale
 +.morewithautodesk.com
@@ -11790,6 +11806,7 @@
 +.mthruf.com
 +.mtn
 +.mtr
++.mts-ws.net
 +.mtt.org
 +.mtvnservices.com
 +.mu
@@ -14853,6 +14870,7 @@
 +.s8ds5gfm.xyz
 +.sa
 +.saarland
++.saas-support.com
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
@@ -17123,6 +17141,7 @@
 +.tvbusa.com
 +.tvbweekly.com
 +.tvmost.com.hk
++.tvoyodbo.online
 +.tvpromise.com
 +.tvs
 +.tvunetworks.com
@@ -18176,6 +18195,7 @@
 +.whichav.video
 +.whisolutions.com
 +.whispersystems.org
++.whitesaas.com
 +.whitexxxtube.com
 +.who.int
 +.whoer.net
