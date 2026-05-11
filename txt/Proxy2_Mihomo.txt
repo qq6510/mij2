@@ -4738,6 +4738,7 @@
 +.dat.foundation
 +.data-vocabulary.org
 +.data.com
++.data18.com
 +.databank.worldbank.org
 +.datacloudmy.com
 +.dataframeworks.com
@@ -5381,6 +5382,7 @@
 +.dssott.com
 +.dswz88.xyz
 +.dsyiren.com
++.dt18.com
 +.dtci.co
 +.dtci.technology
 +.dtiblog.com
@@ -7464,6 +7466,7 @@
 +.gettyimages.hk
 +.getuploader.com
 +.getws1.com
++.getwsj.com
 +.getwsone.com
 +.getzola.org
 +.gf
@@ -9690,6 +9693,7 @@
 +.javdove.com
 +.javdove8.xyz
 +.javextreme.net
++.javfc2.xyz
 +.javfilms.com
 +.javfor.me
 +.javforme.ninja
