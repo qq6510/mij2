@@ -1,4 +1,5 @@
 name: Update Filters
+
 on:
   push:
     paths-ignore:
@@ -19,36 +20,23 @@ jobs:
       actions: write
     
     steps:
-      # 1. 获取代码，使用 @main 拉取最新 checkout 逻辑
-      - uses: actions/checkout@main
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # 1. 获取代码：使用稳定的 v4 版本，默认浅克隆以加快拉取速度
+      - uses: actions/checkout@v4
 
-      # 2. 核心修复步骤：强制本地分支与远程 main 对齐，消除 "Diverged" 状态
-      - name: Reset local branch to remote
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-
-      # 3. 运行构建脚本
-      - name: Built Rules
-        run: |
-          bash ./script/build-combined-rules.sh
+      # 2. 运行构建脚本：直接运行即可，无需毫无意义的 git reset
+      - name: Build Rules
+        run: bash ./script/build-combined-rules.sh
       
-      # 4. 提交并强制推送，使用 @master 获取最新提交逻辑
+      # 3. 提交并推送：使用稳定的 v5 版本
       - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@master
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 🚀 CI Updated
-          # 使用 --force 强制覆盖远程冲突
-          push_options: '--force'
-          # 如果没有文件变化，不报错
-          skip_dirty_check: false
+          # 去掉了危险的 --force 强制覆盖，利用插件自身的安全推送机制
 
-      # 5. 清理记录，使用 @main 获取最新清理逻辑
+      # 4. 清理记录：使用稳定的 v3 版本
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@main
+        uses: Mattraks/delete-workflow-runs@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
