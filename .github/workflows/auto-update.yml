@@ -21,7 +21,7 @@ jobs:
     
     steps:
       # 1. 获取代码：使用稳定的 v4 版本，默认浅克隆以加快拉取速度
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@main
 
       # 2. 运行构建脚本：直接运行即可，无需毫无意义的 git reset
       - name: Build Rules
@@ -29,14 +29,14 @@ jobs:
       
       # 3. 提交并推送：使用稳定的 v5 版本
       - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@main
         with:
           commit_message: 🚀 CI Updated
           # 去掉了危险的 --force 强制覆盖，利用插件自身的安全推送机制
 
       # 4. 清理记录：使用稳定的 v3 版本
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
+        uses: Mattraks/delete-workflow-runs@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
