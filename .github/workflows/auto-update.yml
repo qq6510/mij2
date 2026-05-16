@@ -36,7 +36,7 @@ jobs:
 
       # 4. 清理记录：使用稳定的 v3 版本
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v3
+        uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
