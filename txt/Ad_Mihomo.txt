@@ -3372,6 +3372,7 @@
 +.ads.union.jd.com
 +.uranus.jd.com
 +.x.jd.com
++.wn.x.jd.com
 +.xlog.jd.com
 +.jddaw.com
 +.jesgoo.com
