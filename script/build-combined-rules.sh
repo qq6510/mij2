@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 简化目录切换，增加失败退出机制，防止在错误目录下执行 rm 等危险命令
+# 简化目录切换，并加上失败退出机制
 cd "$(dirname "$0")" || exit 1
 
 log() {
@@ -45,43 +45,41 @@ process_rules() {
     log "开始处理规则: $name"
     mkdir -p "$dl_dir"
 
-    # 并行下载保持不变（这是原代码的亮点）
-    printf "%s\n" "${urls[@]}" | cat -n | xargs -P 16 -I {} sh -c '
-        idx=$(echo "{}" | awk "{print \$1}"); 
-        url=$(echo "{}" | awk "{print \$2}"); 
-        curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" > "'"$dl_dir"'/${idx}.tmp"
-    '
+    # 【修复 3】：抛弃脆弱的 xargs 嵌套，改用极其稳定的 Bash 原生后台循环
+    local idx=1
+    for url in "${urls[@]}"; do
+        curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" > "$dl_dir/${idx}.tmp" &
+        ((idx++))
+    done
+    # 等待当前规则组的几个并发下载完成
+    wait 
 
-    # 优化 1：无需排序，直接用 cat 高效合并
-    cat "$dl_dir"/*.tmp > "$domain_file" 2>/dev/null
+    # 加上 || true 防止 GitHub Actions 的 set -e 在没找到文件时强行斩断脚本
+    cat "$dl_dir"/*.tmp > "$domain_file" 2>/dev/null || true
     rm -rf "$dl_dir"
 
-    sed -i 's/\r//' "$domain_file"
+    sed -i 's/\r//g' "$domain_file" || true
     
-    # 运行对应的 Python 排序去重脚本
+    # 此时 $script 已经绝对干净了，绝不会再报 exit code 2
     python3 "$script" "$domain_file"
     
-    # 优化 2：将原版的两次 sed 和一次 awk 合并为一次 awk 扫描
-    # 动作：过滤注释 -> 去除首尾空白及加点 -> 判空 -> 加前缀 -> 去重
+    # 【修复 2】：使用兼容全平台 awk 的最基础正则 [ \t.+]+ 替代 [[:space:].+]
     awk '
-        /^[[:space:]]*#/ { next } 
+        /^[ \t]*#/ { next } 
         /[a-zA-Z0-9]/ {
-            gsub(/^[[:space:].+]+|[[:space:].+]+$/, "");
+            gsub(/^[ \t.+]+|[ \t.+]+$/, "");
             if ($0 != "" && !seen[$0]++) {
                 print "+." $0
             }
         }
     ' "$domain_file" > "$mihomo_txt_file"
 
-    # 调用内核生成二进制 MRS
     ./mihomo convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
     
-    # 归档文件
     mkdir -p ../txt
     mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
     mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
     
-    # 优化 3：精准清理当前模块的临时文件，而不是暴力的 rm ./*.txt
     rm -f "$domain_file"
 }
 
@@ -116,17 +114,19 @@ setup_mihomo_tool() {
 setup_mihomo_tool
 
 for name in "${!RULES[@]}"; do
-    # 优化 4：直接利用 bash 数组特性进行赋值拆解，语法更安全易懂
-    rule_array=(${RULES[$name]})
+    # 【修复 1】：在传参前，先像剃刀一样把隐藏的 \r 回车符彻底斩草除根！
+    clean_rule="${RULES[$name]//[$'\r']/}"
+    
+    rule_array=(${clean_rule})
     script="${rule_array[0]}"
     urls=("${rule_array[@]:1}")
     
     process_rules "$name" "$script" "${urls[@]}" &
 done
 
-wait # 等待所有后台并行任务完成
+# 等待所有组 (Ad, Proxy 等) 的并发处理全部结束
+wait 
 
-# 清理内核文件
 rm -f ./mihomo
 
 log "脚本执行完成"
