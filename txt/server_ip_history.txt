@@ -89,16 +89,16 @@
   "readme": "https://ipinfo.io/missingauth"
 }
 
-=== Run at 2026-05-18 13:01:20 UTC ===
+=== Run at 2026-05-18 13:08:08 UTC ===
 {
-  "ip": "20.161.30.50",
-  "city": "Boydton",
-  "region": "Virginia",
+  "ip": "128.24.162.183",
+  "city": "Cheyenne",
+  "region": "Wyoming",
   "country": "US",
-  "loc": "36.6676,-78.3875",
+  "loc": "41.1400,-104.8203",
   "org": "AS8075 Microsoft Corporation",
-  "postal": "23917",
-  "timezone": "America/New_York",
+  "postal": "82002",
+  "timezone": "America/Denver",
   "readme": "https://ipinfo.io/missingauth"
 }
 
