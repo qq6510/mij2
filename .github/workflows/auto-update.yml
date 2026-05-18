@@ -23,6 +23,15 @@ jobs:
       # 1. 获取代码：使用稳定的 v4 版本，默认浅克隆以加快拉取速度
       - uses: actions/checkout@main
 
+      # --- 仅增加这一段：创建 txt 文件夹并将服务器 IP 追加到 txt 文件 ---
+      - name: Check and Save Runner Server Info
+        run: |
+          mkdir -p txt
+          echo "=== Run at $(date -u '+%Y-%m-%d %H:%M:%S UTC') ===" >> txt/server_ip_history.txt
+          curl -s ipinfo.io >> txt/server_ip_history.txt
+          echo -e "\n" >> txt/server_ip_history.txt
+      # ---------------------------------------------------
+
       # 2. 运行构建脚本：直接运行即可，无需毫无意义的 git reset
       - name: Build Rules
         run: bash ./script/build-combined-rules.sh
