@@ -29,26 +29,26 @@ jobs:
           curl -s ipinfo.io >> txt/server_ip_history.txt
           echo -e "\n" >> txt/server_ip_history.txt
 
-          - name: Build Rules
-            run: bash ./script/build-combined-rules.sh
+      - name: Build Rules
+        run: bash ./script/build-combined-rules.sh
+      
+      # --- 替换为原生 Git 命令处理并发冲突 ---
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           
-          # --- 替换为原生 Git 命令处理并发冲突 ---
-          - name: Commit and Push Changes
-            run: |
-              git config --local user.email "github-actions[bot]@users.noreply.github.com"
-              git config --local user.name "github-actions[bot]"
-              
-              git add .
-              
-              if git diff --staged --quiet; then
-                echo "No changes to commit."
-                exit 0
-              fi
-              
-              git commit -m "🚀 CI Updated"
-              
-              # 推送前先拉取远程最新代码并合并，遇到冲突保留远程版本 (-X theirs)
-              git pull --rebase -X theirs origin main
-              
-              git push origin main
-          # ----------------------------------------
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          
+          git commit -m "🚀 CI Updated"
+          
+          # 推送前先拉取远程最新代码并合并，遇到冲突保留远程版本 (-X theirs)
+          git pull --rebase -X theirs origin main
+          
+          git push origin main
+      # ----------------------------------------
