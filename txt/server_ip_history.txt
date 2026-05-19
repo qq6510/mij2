@@ -102,16 +102,16 @@
   "readme": "https://ipinfo.io/missingauth"
 }
 
-=== Run at 2026-05-18 15:38:47 UTC ===
+=== Run at 2026-05-19 00:17:02 UTC ===
 {
-  "ip": "132.196.80.146",
-  "city": "Des Moines",
-  "region": "Iowa",
+  "ip": "48.214.53.113",
+  "city": "Boydton",
+  "region": "Virginia",
   "country": "US",
-  "loc": "41.6005,-93.6091",
+  "loc": "36.6676,-78.3875",
   "org": "AS8075 Microsoft Corporation",
-  "postal": "50307",
-  "timezone": "America/Chicago",
+  "postal": "23917",
+  "timezone": "America/New_York",
   "readme": "https://ipinfo.io/missingauth"
 }
 
