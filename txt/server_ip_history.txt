@@ -115,16 +115,16 @@
   "readme": "https://ipinfo.io/missingauth"
 }
 
-=== Run at 2026-05-19 04:40:33 UTC ===
+=== Run at 2026-05-19 10:16:21 UTC ===
 {
-  "ip": "172.182.195.225",
-  "city": "Phoenix",
-  "region": "Arizona",
+  "ip": "48.217.177.227",
+  "city": "Washington",
+  "region": "Virginia",
   "country": "US",
-  "loc": "33.4484,-112.0740",
+  "loc": "38.7135,-78.1594",
   "org": "AS8075 Microsoft Corporation",
-  "postal": "85001",
-  "timezone": "America/Phoenix",
+  "postal": "22747",
+  "timezone": "America/New_York",
   "readme": "https://ipinfo.io/missingauth"
 }
 
