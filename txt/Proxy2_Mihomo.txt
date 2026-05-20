@@ -970,6 +970,7 @@
 +.alefbank.com
 +.alexa.com
 +.alexanderstreet.com
++.alfa.me
 +.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
@@ -11766,6 +11767,7 @@
 +.mozilla.community
 +.mozilla.net
 +.mozilla.org
++.mozillafoundation.org
 +.mp
 +.mp.world
 +.mpettis.com
@@ -12065,6 +12067,7 @@
 +.myspacecdn.com
 +.mysql.com
 +.mystrikingly.com
++.myteamspeak.com
 +.myteenwebcam.com
 +.mythicentertainment.com
 +.mythicentertainment.net
@@ -16439,6 +16442,8 @@
 +.teachparentstech.org
 +.teamneedforspeed.com
 +.teamskeet.com
++.teamspeak-services.com
++.teamspeak.com
 +.teamviewer.com
 +.tearapeak.com
 +.teatroporno.com
