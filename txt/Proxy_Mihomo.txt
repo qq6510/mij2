@@ -225,6 +225,7 @@
 +.stitch.withgoogle.com
 +.stripe.com
 +.sydney.bing.com
++.tapnow.ai
 +.thegithubshop.com
 +.themeforest.net
 +.trae.ai
