@@ -2,7 +2,7 @@ import os
 import sys
 import re
 
-# 优化 4.1：预编译正则表达式，避免循环中重复编译
+# 预编译正则表达式，避免循环中重复编译
 DOMAIN_PATTERN = re.compile(r'\|\|([a-zA-Z0-9.*-]+)\^?')
 
 # 定义需要过滤的国家域名后缀集合
@@ -20,7 +20,7 @@ REMOVE_TLD_SET = {
     ".sa", ".ae", ".ir", ".il", ".iq", ".tr", ".sy", ".jo", ".lb", ".om", ".qa",
     ".ye", ".kw", ".bh"
 }
-# 优化 2.1：转换为元组，供底层的 endswith 直接使用
+# 转换为元组供 endswith 直接调用
 REMOVE_TLD_TUPLE = tuple(REMOVE_TLD_SET)
 
 
@@ -41,8 +41,7 @@ def is_wildcard_valid(domain):
 
 
 def clean_wildcard_prefix(domain):
-    """清理开头的 *. 以兼容 Shell 的 +. 逻辑"""
-    # 优化 3：lstrip 自动处理所有指定的字符集，无需 while 循环
+    """清理开头的 *. 以兼容后置逻辑"""
     return domain.lstrip('*.')
 
 
@@ -54,16 +53,14 @@ def get_sort_key(domain):
 def has_removable_tld(domain):
     """精确检查域名后缀是否在黑名单中"""
     d = domain.lower()
-    # 优化 2.2：利用哈希匹配和 C 底层元组匹配替代 for 循环
     return d.endswith(REMOVE_TLD_TUPLE) or ('.' + d) in REMOVE_TLD_SET
 
 
 def filter_subdomains(domains):
-    """深度去重逻辑：如果父域名已存在，则剔除所有子域名。"""
+    """深度去重逻辑：如果父域名已存在，则剔除所有子域名（O(N log N) 算法）"""
     if not domains:
         return set()
     
-    # 优化 1：使用倒序字符串排序，将 O(N^2) 复杂度降为 O(N log N)
     sorted_domains = sorted(domains, key=lambda d: d[::-1])
     final_list = []
     
@@ -87,7 +84,7 @@ if __name__ == "__main__":
     raw_extracted = set()
     wildcard_mid_rules = set()
 
-    # 优化 4.2：直接迭代文件对象，避免 readlines() 打爆内存
+    # 迭代文件对象进行流式处理，防止大内存开销
     with open(file_name, 'r', encoding='utf8') as f:
         for line in f:
             line = line.strip()
@@ -112,7 +109,7 @@ if __name__ == "__main__":
     sorted_rules = sorted(all_final, key=get_sort_key)
 
     with open(file_name, 'w', encoding='utf8') as f:
-        # 优化 4.3：利用生成器表达式和 writelines 提升 I/O 写入性能
+        # 利用生成器表达式直接写入
         f.writelines(f"{r}\n" for r in sorted_rules)
 
     print(f"Processing complete. Output saved to {file_name}")
