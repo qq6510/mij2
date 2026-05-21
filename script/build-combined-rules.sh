@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cd $(cd "$(dirname "$0")";pwd)
+# 确保脚本切换到当前执行目录
+cd "$(cd "$(dirname "$0")"; pwd)"
 
 log() {
     echo "$(date '+%Y-%m-%d %H:%M:%S') [INFO] $@"
@@ -39,6 +40,7 @@ process_rules() {
     local script=$2
     shift 2
     local urls=("$@")
+    
     local domain_file="${name}_domain.txt"
     local mihomo_txt_file="${name}_Mihomo.txt"
     local mihomo_mrs_file="${mihomo_txt_file%.txt}.mrs"
@@ -48,28 +50,47 @@ process_rules() {
     > "$domain_file"
     mkdir -p "$dl_dir"
 
-    printf "%s\n" "${urls[@]}" | cat -n | xargs -P 16 -I {} sh -c '
-        idx=$(echo "{}" | awk "{print \$1}"); 
-        url=$(echo "{}" | awk "{print \$2}"); 
-        curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" > "'"$dl_dir"'/${idx}.tmp"
-    '
+    # 1. 纯 Bash 并发异步下载组内所有 URL
+    local idx=1
+    for url in "${urls[@]}"; do
+        # 【核心修正】：利用 xargs 清洗掉配置文本中可能存在的前导缩进空格与尾随换行
+        url=$(echo "$url" | xargs)
+        
+        # 安全卡口：如果遇到空行则跳过，防止产生无效请求
+        [[ -z "$url" ]] && continue
+        
+        curl --http2 --compressed --max-time 30 --retry 3 -sSL "$url" > "$dl_dir/${idx}.tmp" &
+        ((idx++))
+    done
+    wait 
 
-    for f in $(ls "$dl_dir/"*.tmp | sort -V); do
-        cat "$f" >> "$domain_file"
-        echo "" >> "$domain_file"
+    # 2. 严格按固定索引顺序追加拼合
+    local i
+    for ((i=1; i<idx; i++)); do
+        if [[ -f "$dl_dir/${i}.tmp" ]]; then
+            cat "$dl_dir/${i}.tmp" >> "$domain_file"
+            echo "" >> "$domain_file"
+        fi
     done
     rm -rf "$dl_dir"
 
+    # 3. 交付 Python 进行去重与子域名裁剪
     sed -i 's/\r//' "$domain_file"
-    python3 "$script" "$domain_file"
+    if ! python3 "$script" "$domain_file"; then
+        error "Python 清洗脚本 $script 执行失败 ($name)，跳过此组后续转换。"
+        return 1
+    fi
     
-    sed -i 's/^[[:space:].+]*//; s/[[:space:].+]*$//' "$domain_file"
-    sed -n '/[a-zA-Z0-9]/ { /^#/! s/^/+./p }' "$domain_file" > "$mihomo_txt_file"
+    # 4. 直接通过单行系统级 sed 批量披上 Mihomo 标准格式 (+.domain.com) 外衣
+    sed 's/^/+./' "$domain_file" > "$mihomo_txt_file"
 
-    awk '!seen[$0]++' "$mihomo_txt_file" > "$mihomo_txt_file.tmp" && mv "$mihomo_txt_file.tmp" "$mihomo_txt_file"
-
-    ./"$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"
+    # 5. 调用内核转换二进制 ruleset (.mrs)
+    if ! "$mihomo_tool" convert-ruleset domain text "$mihomo_txt_file" "$mihomo_mrs_file"; then
+        error "Mihomo 编译 ruleset 失败 ($name)"
+        return 1
+    fi
     
+    # 6. 移动归档
     mkdir -p ../txt
     mv "$mihomo_txt_file" "../txt/$mihomo_txt_file"
     mv "$mihomo_mrs_file" "../$mihomo_mrs_file"
@@ -81,24 +102,20 @@ setup_mihomo_tool() {
     
     local download_url="https://github.com/MetaCubeX/mihomo/releases/download/${tag}/mihomo-linux-amd64-${tag}.gz"
     
-    # 1. 下载：采用 wget -q -O 逻辑，如果失败则直接报错退出
     wget -q -O mihomo.gz "$download_url" || {
         error "下载失败，请检查网络或目标版本是否存在。"
         exit 1
     }
     
-    # 2. 解压：直接解压为 mihomo，如果失败则报错退出
     gunzip -f mihomo.gz || {
         error "解压 mihomo.gz 失败。"
         exit 1
     }
     
-    # 3. 赋权：赋予可执行权限
     chmod +x mihomo
     
-    # 4. 验证：采用第二次代码的逻辑，执行 -v 进行冒烟测试
     if ./mihomo -v >/dev/null 2>&1; then
-        mihomo_tool="./mihomo" # 建议加上 ./ 确保当前目录执行不出错
+        mihomo_tool="./mihomo"
         log "Mihomo 工具准备就绪 (运行测试通过)"
     else
         error "配置失败，解压后的二进制文件无法在当前系统运行。"
@@ -106,15 +123,21 @@ setup_mihomo_tool() {
     fi
 }
 
+# 部署转换内核
 setup_mihomo_tool
 
+# 遍历大组并进行并发处理
 for name in "${!RULES[@]}"; do
-    IFS=$'\n' read -r -d '' script urls <<< "${RULES[$name]}"
-    urls=($urls)
+    # 利用 mapfile 优雅按行切分
+    mapfile -t lines <<< "${RULES[$name]}"
+    script="${lines[0]}"
+    urls=("${lines[@]:1}")
+
     process_rules "$name" "$script" "${urls[@]}" &
 done
 wait
 
+# 清理当前工作区临时残留
 rm -rf ./*.txt 
 rm -f "$mihomo_tool"
 
