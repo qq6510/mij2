@@ -7645,6 +7645,7 @@
 +.gnci.org.hk
 +.gnews.org
 +.gnom-cham.com
++.gnome.org
 +.gnu.org
 +.gnzi.xyz
 +.gnzi1.top
@@ -8129,6 +8130,7 @@
 +.helloandroid.com
 +.helloavgirls.com
 +.hellokittybeats.com
++.hellomoto.com
 +.helloqueer.com
 +.hellosmartbook.com
 +.hellporno.com
@@ -10100,6 +10102,7 @@
 +.kbzpay.com
 +.kc3000.shop
 +.kddi
++.kde.org
 +.kdfuli.com
 +.kdy202312.shop
 +.ke
@@ -10769,6 +10772,7 @@
 +.lvv2.com
 +.lwwcn.buzz
 +.lwwcn.xyz
++.lxqt-project.org
 +.lxxlxx.com
 +.ly
 +.lyfhk.net
@@ -11025,6 +11029,7 @@
 +.mat6tube.com
 +.matainja.com
 +.matchmover.com
++.mate-desktop.org
 +.mathoverflow.net
 +.matome-plus.com
 +.matome-plus.net
@@ -11307,6 +11312,7 @@
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
 +.midentsolutions.com
++.midjourney.com
 +.midoushe.com
 +.miexnoviadesnuda.com
 +.mihomeone.info
@@ -11735,7 +11741,15 @@
 +.motherless.com
 +.motiongraphicsandmore.com
 +.motionpictureser.com
++.moto.com
 +.motolia.com
++.motorola.co
++.motorola.com
++.motorola.com.co
++.motorola.net
++.motorolacareers.com
++.motorolanews.com
++.motorolasolutions.com
 +.motorshowblog.com
 +.mottainai.info
 +.mov
@@ -13635,6 +13649,7 @@
 +.planetsuzy.org
 +.plansondemand.com
 +.plantsvszombies2.com
++.plasma-mobile.org
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platinumlinks.org
@@ -16344,6 +16359,7 @@
 +.synologyupdate.com
 +.syosetu.com
 +.sysinternals.com
++.system76.com
 +.syzbj36.xyz
 +.sz
 +.szcheapmonsterheadphones.com
@@ -18661,6 +18677,7 @@
 +.xerotica.com
 +.xerox
 +.xfantazy.com
++.xfce.org
 +.xfemaledom.com
 +.xfinity.com
 +.xfockers.com
