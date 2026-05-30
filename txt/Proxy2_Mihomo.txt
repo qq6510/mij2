@@ -7414,6 +7414,7 @@
 +.gemfire.net
 +.gemfury.com
 +.gemini.com
++.gencraft.com
 +.gendai.net
 +.generated.photos
 +.geneticconstructor.com
@@ -19268,7 +19269,6 @@
 +.yhy.cool
 +.yibaochina.com
 +.yibei.org
-+.yidio.com
 +.yigeni.com
 +.yimg.com
 +.yinac.xyz

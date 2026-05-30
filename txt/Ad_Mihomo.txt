@@ -389,8 +389,6 @@
 +.t.hypers.com.cn
 +.id-line.com.cn
 +.smetrics.illumina.com.cn
-+.index-match-wending-pg.com.cn
-+.index-news-j9game.com.cn
 +.smetrics.marketing.interact-lighting.com.cn
 +.ipinyou.com.cn
 +.trk.irco.com.cn
@@ -412,7 +410,6 @@
 +.lined.com.cn
 +.lineg.com.cn
 +.lineu.com.cn
-+.lineup-preview-kaiyun.com.cn
 +.webanalytics.logitech.com.cn
 +.webtarget.logitech.com.cn
 +.webanalytics.logitechg.com.cn
@@ -477,9 +474,6 @@
 +.safe-yunkai.com.cn
 +.safeguard-365wm.com.cn
 +.safeplay-kaiyun.com.cn
-+.safew-ca.com.cn
-+.safew-hi.com.cn
-+.safew-io.com.cn
 +.safew-jm.com.cn
 +.safew-js.com.cn
 +.safeweiji.com.cn
@@ -540,7 +534,6 @@
 +.tt-quarke.com.cn
 +.tt-todesk.com.cn
 +.tw-dingtallk.com.cn
-+.use-sougou.com.cn
 +.m.v-binance.com.cn
 +.collect.vans.com.cn
 +.smetrics.visitsingapore.com.cn
@@ -579,7 +572,6 @@
 +.wpswosn.com.cn
 +.wva-telegram.com.cn
 +.www-qishiu.com.cn
-+.www-stream-wending-pg.com.cn
 +.x-safew.com.cn
 +.xads-telegram.com.cn
 +.d0.xcar.com.cn
@@ -856,7 +848,6 @@
 +.hk-web-whatapp.hl.cn
 +.hk-whatapp.hl.cn
 +.ib-gate.hl.cn
-+.iz-htx.hl.cn
 +.jd-gate.hl.cn
 +.kl-gate.hl.cn
 +.kx-gate.hl.cn
@@ -1093,11 +1084,6 @@
 +.bun1.dayi.org.cn
 +.huoronggw.org.cn
 +.jinshanduba.org.cn
-+.safew-go.org.cn
-+.safew-pc.org.cn
-+.safew-s1.org.cn
-+.safew-tv.org.cn
-+.safewgo.org.cn
 +.securemsg.org.cn
 +.usercenter.org.cn
 +.verifyhub.org.cn
@@ -1133,6 +1119,7 @@
 +.pqjprom.cn
 +.prdohgp.cn
 +.prlioxb.cn
++.proewildfire.cn
 +.ptengine.cn
 +.ptgdb.cn
 +.puqer.cn
@@ -2450,7 +2437,6 @@
 +.ap.dongqiudi.com
 +.sensors-log.dongqiudi.com
 +.stat.dongqiudi.com
-+.dopa.com
 +.at3.doubanio.com
 +.doubleclick.com
 +.abc.douguo.com
@@ -3618,6 +3604,7 @@
 +.pglstatp-toutiao.com
 +.phr3qfcmb.com
 +.pimormebwf.com
++.pincai.com
 +.adim.pinduoduo.com
 +.dspsdk.pinduoduo.com
 +.images.pinduoduo.com
@@ -5295,7 +5282,6 @@
 +.advertising.yandex.ru
 +.metrika.yandex.ru
 +.midway.run
-+.zoom01webin.sbs
 +.ifs.lazada.sg
 +.jmacs-m.lazada.sg
 +.msgacs-m.lazada.sg
@@ -5341,7 +5327,6 @@
 +.adx-api.jinmo.tech
 +.jmacs-m.lazada.co.th
 +.msgacs-m.lazada.co.th
-+.315625.top
 +.admobile.top
 +.ahov1.top
 +.bvmlt.top

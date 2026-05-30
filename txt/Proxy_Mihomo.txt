@@ -20,6 +20,7 @@
 +.api.statsig.com
 +.api.together.xyz
 +.appsdowonders.com
++.arena.ai
 +.assets.msn.com
 +.atom.io
 +.auth0.com
