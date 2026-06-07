@@ -166,6 +166,7 @@
 +.npmjs.com
 +.npmjs.org
 +.oaistatic.com
++.oaistatsig.com
 +.oaiusercontent.com
 +.observeit.net
 +.octocaptcha.com
@@ -216,6 +217,7 @@
 +.productionresultssa7.blob.core.windows.net
 +.productionresultssa8.blob.core.windows.net
 +.productionresultssa9.blob.core.windows.net
++.qoder.com
 +.repo.new
 +.robinfrontend-pa.googleapis.com
 +.segment.io
@@ -223,6 +225,7 @@
 +.sentry.io
 +.servd-anthropic-website.b-cdn.net
 +.services.bingapis.com
++.sider.ai
 +.sora.com
 +.spicywriter.com
 +.static.cloudflareinsights.com
