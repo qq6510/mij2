@@ -96,6 +96,7 @@
 +.generativelanguage.googleapis.com
 +.gh.io
 +.ghcr.io
++.ghe.com
 +.git.io
 +.github-api.arkoselabs.com
 +.github-cloud.s3.amazonaws.com
