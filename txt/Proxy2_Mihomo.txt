@@ -1550,7 +1550,6 @@
 +.appmediagroup.com
 +.approvedusedbmw.com
 +.apps.evozi.com
-+.appsflayer.com
 +.appshopper.com
 +.appsocks.net
 +.appsonebay.net
@@ -2217,6 +2216,7 @@
 +.barrons-conferences.com
 +.barrons.com
 +.barss1207.pro
++.base.org
 +.baselinestudy.com
 +.baselinestudy.org
 +.basilisk-browser.org
@@ -2875,6 +2875,7 @@
 +.bitflyer.com
 +.bitget.com
 +.bithumb.com
++.bitlayer.org
 +.bitly.com
 +.bitmex.com
 +.bitnami.com
@@ -3178,12 +3179,15 @@
 +.bmwusfactory.com
 +.bmwusrideracademy.com
 +.bmwvalueservice.com
++.bmwweb.solutions
 +.bmwwholesaleconnect.com
 +.bmwworld.com
 +.bmwworld.net
 +.bmwworld.tv
 +.bmwzentrum.com
 +.bn
++.bnappweb.black
++.bnbchain.org
 +.bnbstatic.com
 +.bnef.com
 +.bnn.co
@@ -3410,7 +3414,9 @@
 +.brutaltgp.com
 +.bs
 +.bs-adreview.com
++.bsappapi.cc
 +.bsappapi.com
++.bscdnweb.com
 +.bsky.network
 +.bsky.social
 +.bstatic.com
@@ -3901,6 +3907,7 @@
 +.cg
 +.cgdepot.org
 +.ch
++.chainid.network
 +.championshipseriesleague.com
 +.chanel
 +.change.org
@@ -4462,6 +4469,7 @@
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
++.coredao.org
 +.coreduo.com
 +.coreextreme.com
 +.corel.com
@@ -5408,6 +5416,7 @@
 +.dropboxpartners.com
 +.dropboxstatic.com
 +.dropboxusercontent.com
++.drpc.org
 +.drtuber.com
 +.drunk6.com
 +.drunkenstepfather.com
@@ -6488,6 +6497,8 @@
 +.fanswong.com
 +.fantasiasguatemala.com
 +.fantasti.cc
++.fantom.foundation
++.fantom.network
 +.fantv.hk
 +.fap-xxx.com
 +.fap18.net
@@ -6677,6 +6688,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fiat24.com
 +.fic.fan
 +.ficador.com
 +.ficbook.net
@@ -6776,6 +6788,7 @@
 +.fl310.com
 +.flagrasamadores.net
 +.flameunleashed.com
++.flare.network
 +.flaru.com
 +.flashtranny.com
 +.flatandfuckedmilfs.com
@@ -9616,6 +9629,7 @@
 +.irribay.com
 +.is
 +.isaacmao.com
++.isafepal.com
 +.isbgpsafeyet.com
 +.isca-speech.org
 +.ischool.com
@@ -11250,6 +11264,7 @@
 +.meetsmartbook.com
 +.meetyourdevices.com
 +.megacamz.com
++.megaeth.com
 +.megafilmporno.com
 +.megafon.com
 +.megamarket.tech
@@ -11294,6 +11309,7 @@
 +.meridian-trust.org
 +.meridian.net
 +.meripet.com
++.merkl.xyz
 +.meshmixer.com
 +.meshmixerforum.com
 +.messenger.com
@@ -11319,6 +11335,7 @@
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
++.mexc.co
 +.mexc.com
 +.mexcsensors.com
 +.mfg-inspector.com
@@ -14813,6 +14830,8 @@
 +.ree007.xyz
 +.reflectivecode.com
 +.reform-apple.com
++.reg.cloud
++.reg.com
 +.regex101.com
 +.regiongold.com
 +.registerhulu.com
@@ -14992,6 +15011,7 @@
 +.rsdlmonitor.com
 +.rsf-chinese.org
 +.rsf.org
++.rsk.co
 +.rspao.com
 +.rss.4040940.xyz
 +.rss.littlebaby.life
@@ -15132,6 +15152,7 @@
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
++.saasexch.info
 +.sabuibo.net
 +.sacduc.com
 +.sacks.com
@@ -15144,6 +15165,7 @@
 +.safechat.com
 +.safeguarddefenders.com
 +.safeliner.tech
++.safepal.com
 +.safervpn.com
 +.saffrontech.com
 +.sage-observability.tech
@@ -16298,6 +16320,7 @@
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -16586,6 +16609,7 @@
 +.tachusz.xyz
 +.tagwalk.com
 +.taiav.com
++.taiko.xyz
 +.tail-f.com
 +.tailf.com
 +.tails.net
@@ -16945,6 +16969,7 @@
 +.thinkquarterly.com
 +.thinkwithgoogle.com
 +.thirdmill.org
++.thirdweb.com
 +.thisav.com
 +.thisisgame.com
 +.thisispolaris.com
@@ -18964,6 +18989,7 @@
 +.xkontakt18.com
 +.xkorean.cam
 +.xl-gaytube.com
++.xlayer.tech
 +.xlecx.org
 +.xlgirls.com
 +.xlovecam.com
@@ -19723,6 +19749,8 @@
 +.zerochan.net
 +.zerohedge.com
 +.zettai-ero.com
++.zftksc.cdn-settings.appsflyersdk.com
++.zftksc.launches.appsflyersdk.com
 +.zh-hans.cfsh99.com
 +.zh.pokerstrategy.com
 +.zh99.net
