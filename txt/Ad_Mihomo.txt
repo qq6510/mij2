@@ -354,6 +354,7 @@
 +.ads.people.com.cn
 +.pmm.people.com.cn
 +.pepsico.com.cn
++.pharmnet.com.cn
 +.smetrics.marketing.lighting.philips.com.cn
 +.info.protiviti.com.cn
 +.dns.weixin.qq.com.cn
@@ -5042,7 +5043,6 @@
 +.smad.ms.zhangyue.net
 +.zhanzhang.net
 +.u.zhugeapi.net
-+.zixunkefu.net
 +.zoosnet.net
 +.zoossoft.net
 +.dump.mewcdn.online

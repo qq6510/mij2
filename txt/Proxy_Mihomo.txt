@@ -76,6 +76,7 @@
 +.diabrowser.engineering
 +.dify.ai
 +.dola.com
++.drcantik.eu.org
 +.duck.ai
 +.edgeservices.bing.com
 +.elevenlabs.com
