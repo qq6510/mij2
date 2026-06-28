@@ -239,6 +239,7 @@
 +.thegithubshop.com
 +.themeforest.net
 +.trae.ai
++.tripo3d.ai
 +.turn.livekit.cloud
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.windsurf.build
