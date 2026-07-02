@@ -3283,6 +3283,7 @@
 +.boswp.com
 +.botanwang.com
 +.botframework.com
++.botim.me
 +.botorch.org
 +.botstop.com
 +.boulx.com
@@ -8643,6 +8644,9 @@
 +.horizontal-systems.com
 +.horizontalglue.com
 +.horizontalsystems.com
++.hornet.com
++.hornetapp.com
++.hornetx.com
 +.hornyasianmilfs.com
 +.hornybitches.org
 +.hornybutt.com
@@ -10725,6 +10729,7 @@
 +.listentoyoutube.com
 +.listinganalytics.net
 +.litbus-anime.com
++.litecoin.org
 +.litenews.hk
 +.literatumonline.com
 +.literotica.com
@@ -12471,7 +12476,9 @@
 +.netflixinvestor.com
 +.netflixtechblog.com
 +.netlify.com
++.netlifydns.com
 +.netlifystatus.com
++.netlifyusercontent.com
 +.netme.cc
 +.netpornsex.com
 +.netpornsex.net
@@ -12896,6 +12903,7 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
++.ntl.fyi
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
 +.ntp1.ntp-servers.net
@@ -16761,6 +16769,7 @@
 +.technogym.com
 +.technologyandsociety.org
 +.techradar.com
++.techspot.com
 +.techstreet.com
 +.techtimes.com
 +.techtudo.com

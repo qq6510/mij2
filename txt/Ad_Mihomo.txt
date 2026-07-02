@@ -1300,6 +1300,7 @@
 +.mg.32r.com
 +.345ddz.com
 +.34dcvgw197.com
++.bdcode.35d1.com
 +.360ads.com
 +.cps.360buy.com
 +.img2.360buyimg.com
@@ -1585,7 +1586,6 @@
 +.1fw35mn5y7h-sdk.rum.aliyuncs.com
 +.1hlahoc4rpc-sdk.rum.aliyuncs.com
 +.1m9o22qt9lx-sdk.rum.aliyuncs.com
-+.axyleu11gz-default-cn.rum.aliyuncs.com
 +.ep2x3kiawg-sdk.rum.aliyuncs.com
 +.f8ds5tkidk-sdk.rum.aliyuncs.com
 +.haa3j9plpi-default-cn.rum.aliyuncs.com
@@ -2911,8 +2911,6 @@
 +.images.newsletter.larksuite.com
 +.amdc.lazada.com
 +.orange-dc.lazada.com
-+.ph-log-emagzal.lazada.com
-+.sg-log-emagzal.lazada.com
 +.adashx.ut.lazada.com
 +.h-adashx.ut.lazada.com
 +.cc.lbesec.com
@@ -3238,7 +3236,6 @@
 +.marketing.nsfocus.com
 +.c.nuhcpf.com
 +.log.nuomi.com
-+.metric.nuonuo.com
 +.anews7.nvwu.com
 +.wt.o.nytimes.com
 +.o5y2zd1lq8.com
@@ -3591,11 +3588,9 @@
 +.v13-reading-ad.qznovelvod.com
 +.v26-reading-ad.qznovelvod.com
 +.v3-reading-ad.qznovelvod.com
-+.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
-+.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
@@ -4112,9 +4107,11 @@
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
++.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -4286,6 +4283,7 @@
 +.wiyun.com
 +.wj8i1rlp2b.com
 +.wjxcdn.com
++.h1.wk2.com
 +.wkanx.com
 +.p.wktfkj.com
 +.opensdk.wlanbanlv.com
@@ -4448,7 +4446,6 @@
 +.stat.download.xunlei.com
 +.kkpgv2.xunlei.com
 +.soa-vip-ssl.xunlei.com
-+.advertpay.vip.xunlei.com
 +.upgrade.xl9.xunlei.com
 +.xvhttu3c9.com
 +.cc.xwscg.com
@@ -4711,7 +4708,6 @@
 +.adm.zookingsoft.com
 +.zqmhl8lgj.com
 +.zsjxwj.com
-+.beacon-ad.ztgame.com.ztinfoga.com
 +.zu9srbxg0t.com
 +.ad.zui.com
 +.ad.zuimeitianqi.com
@@ -4936,6 +4932,7 @@
 +.ggdm1.nhaidu.net
 +.promotionad.nvcam.net
 +.offerstrack.net
++.okhan.net
 +.visit.oschina.net
 +.pagechoice.net
 +.mm.paizi.net
