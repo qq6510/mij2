@@ -58,6 +58,7 @@
 +.comfyci.org
 +.comfyregistry.org
 +.copilot.cloud.microsoft
++.copilot.com
 +.copilot.microsoft.com
 +.copilotprodattachments.blob.core.windows.net
 +.coze.com
@@ -181,6 +182,7 @@
 +.openai.com
 +.openai.com.cdn.cloudflare.net
 +.openaiapi-site.azureedge.net
++.openaiassets.blob.core.windows.net
 +.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 +.openaicom.imgix.net
 +.openaicomproductionae4b.blob.core.windows.net

@@ -754,6 +754,7 @@
 +.adx.mala.cn
 +.statis1.mama.cn
 +.adx.maplehaze.cn
++.mariahcarey.cn
 +.mathtype.cn
 +.metrics.mathworks.cn
 +.smetrics.mathworks.cn
@@ -822,6 +823,7 @@
 +.pfqwbqs.cn
 +.vendhelpuous.pgvjmp.cn
 +.phqew.cn
++.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -1075,6 +1077,7 @@
 +.uwgnpkd.cn
 +.uwnvcxb.cn
 +.uxcnhsf.cn
++.uxjw.cn
 +.uyfv.cn
 +.log.vcgame.cn
 +.vihppjk.cn
@@ -1578,6 +1581,7 @@
 +.cdn-ads.oss-cn-shanghai.aliyuncs.com
 +.first-hufu.oss-cn-shanghai.aliyuncs.com
 +.free-cdn.oss-cn-shanghai.aliyuncs.com
++.o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 +.sz88.oss-cn-shenzhen.aliyuncs.com
 +.shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 +.ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -1833,6 +1837,7 @@
 +.baifendian.com
 +.baixing.com
 +.midinfo.baofeng.com
++.djs.baomihua.com
 +.bayescom.com
 +.event.bblmw.com
 +.perf.bblmw.com
@@ -2230,6 +2235,7 @@
 +.ks.ferlytc.com
 +.21.fh21static.com
 +.fileshider.com
++.fiu07050kl.com
 +.catalog.fjwhcbsh.com
 +.flurry.com
 +.pid.fly160.com
@@ -2758,6 +2764,7 @@
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
 +.ad.open.api.jihuoniao.com
++.ad.report.jihuoniao.com
 +.jikewan.com
 +.jikklfexh.com
 +.wuliao.jingyanben.com
@@ -3595,7 +3602,6 @@
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
 +.v95-se-zjwztc-reading-ad.qznovelvod.com
-+.v96-reading-ad.qznovelvod.com
 +.v96-sz-daily-reading-ad.qznovelvod.com
 +.ads.raidrive.com
 +.luaqxb.rainso.com
@@ -3670,6 +3676,7 @@
 +.js.shunqi.com
 +.ut2.shuqistat.com
 +.go.shutterstock.com
++.ads-monitoring.shziyi.com
 +.sigmob.com
 +.simicloud.com
 +.ads.sina.com
@@ -4104,6 +4111,7 @@
 +.cname-asia-st-exappupgrade.vivoglobal.com
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
++.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
