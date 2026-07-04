@@ -303,6 +303,7 @@
 +.smetrics.marketing.interact-lighting.com.cn
 +.ipinyou.com.cn
 +.trk.irco.com.cn
++.iy.com.cn
 +.cookies.joneslanglasalle.com.cn
 +.email-ap.joneslanglasalle.com.cn
 +.ad.jxnews.com.cn
@@ -1248,6 +1249,7 @@
 +.du.163.com
 +.fp-upload.dun.163.com
 +.ir-sdk.dun.163.com
++.e-p4p.163.com
 +.g.163.com
 +.timejs.game.163.com
 +.channel.m.163.com
@@ -1970,6 +1972,7 @@
 +.metrics.chacha.com
 +.tracking.chacha.com
 +.chance-ad.com
++.chanced112.com
 +.ssgg.chazidian.com
 +.yong.chazidian.com
 +.www.che.com
@@ -2264,6 +2267,7 @@
 +.pub.funshion.com
 +.pv.funshion.com
 +.stat.funshion.com
++.vs.funshion.com
 +.down.fwqlt.com
 +.ad.fx168api.com
 +.fx455rrt4b.com
@@ -3243,6 +3247,7 @@
 +.marketing.nsfocus.com
 +.c.nuhcpf.com
 +.log.nuomi.com
++.metric.nuonuo.com
 +.anews7.nvwu.com
 +.wt.o.nytimes.com
 +.o5y2zd1lq8.com
@@ -3595,9 +3600,11 @@
 +.v13-reading-ad.qznovelvod.com
 +.v26-reading-ad.qznovelvod.com
 +.v3-reading-ad.qznovelvod.com
++.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
++.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
@@ -3833,6 +3840,7 @@
 +.rdstat.tanx.com
 +.ae-alimelog.taobao.com
 +.ai.taobao.com
++.alimelog.taobao.com
 +.audid-api.taobao.com
 +.audid-api-sg.taobao.com
 +.baichuan-sdk.taobao.com
@@ -4059,6 +4067,7 @@
 +.v84tz11w7.com
 +.va3yq7si6w.com
 +.vamaker.com
++.analytics.umetrip.com.c.vedcdnlb.com
 +.g.analytics.versa-ai.com
 +.veryboys.com
 +.vhgu5ivtew.com
@@ -4069,6 +4078,7 @@
 +.vigyn4gpx.com
 +.n-st.vip.com
 +.in.vipliangmei.com
++.tr.email.virtual-expo.com
 +.bhwkju.vivo.com
 +.alliance-adreq-asia.vivoglobal.com
 +.asia-abeacdataonrt-stsdk.vivoglobal.com
@@ -4167,6 +4177,7 @@
 +.in-vpushonrt-stsdk.vivoglobal.com
 +.in-vpushort-stsdk.vivoglobal.com
 +.kz-onrt-stsdk.vivoglobal.com
++.kz-ort-stsdk.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.mx-cota.vivoglobal.com
 +.mx-domaincfg.vivoglobal.com
@@ -4193,6 +4204,7 @@
 +.ru-onrt-stsdk.vivoglobal.com
 +.ru-os-config-appstore.vivoglobal.com
 +.ru-p.vivoglobal.com
++.ru-pnrt-stsdk.vivoglobal.com
 +.ru-romsp-unifyconfig.vivoglobal.com
 +.ru-st-exappupgrade.vivoglobal.com
 +.ru-st-sl.vivoglobal.com
@@ -4396,6 +4408,7 @@
 +.dvb.pandora.xiaomi.com
 +.milink.pandora.xiaomi.com
 +.misc.pandora.xiaomi.com
++.ottl7-l2.pandora.xiaomi.com
 +.redirect.pandora.xiaomi.com
 +.stat.pandora.xiaomi.com
 +.preload.xiaomi.com
@@ -4443,6 +4456,7 @@
 +.bchina-1.xsfaya.com
 +.rdbd.xsread.com
 +.xssncc2tv.com
++.xttaff.com
 +.dove.xueqiu.com
 +.ghghgf.xuexiwa.com
 +.xulizui6.com
@@ -4454,6 +4468,7 @@
 +.stat.download.xunlei.com
 +.kkpgv2.xunlei.com
 +.soa-vip-ssl.xunlei.com
++.advertpay.vip.xunlei.com
 +.upgrade.xl9.xunlei.com
 +.xvhttu3c9.com
 +.cc.xwscg.com
@@ -4716,6 +4731,7 @@
 +.adm.zookingsoft.com
 +.zqmhl8lgj.com
 +.zsjxwj.com
++.beacon-ad.ztgame.com.ztinfoga.com
 +.zu9srbxg0t.com
 +.ad.zui.com
 +.ad.zuimeitianqi.com
@@ -4766,6 +4782,7 @@
 +.report-europe.agora.io
 +.report-north-america.agora.io
 +.report-oversea.agora.io
++.report-oversea2.agora.io
 +.statscollector-1.agora.io
 +.statscollector-1-asia.agora.io
 +.statscollector-1-europe.agora.io
@@ -4895,6 +4912,7 @@
 +.doubleclick-cn.net
 +.duba.net
 +.wildcard.moatads.com.edgekey.net
++.wangsu-smetrics.redhat.com.edgekey.net
 +.heads-ak.spotify.com.edgesuite.net
 +.k6d.falang.net
 +.fastapi.net
@@ -4987,6 +5005,7 @@
 +.ns1.vicp.net
 +.ns2.vicp.net
 +.mini-prog-drm.vodplayvideo.net
++.wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 +.perfsight.wetest.net
 +.xianshangzixun.net
 +.sentry.d.xiaomi.net
