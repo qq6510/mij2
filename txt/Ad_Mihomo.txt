@@ -778,6 +778,7 @@
 +.mathtype.cn
 +.metrics.mathworks.cn
 +.smetrics.mathworks.cn
++.mayi360.cn
 +.mbai.cn
 +.meihu56.cn
 +.metaword.cn
@@ -805,6 +806,7 @@
 +.mxevdii.cn
 +.myhug.cn
 +.dl.natgo.cn
++.fanzhuang.net.cn
 +.jdpm.net.cn
 +.t.home.news.cn
 +.nfvj.cn
@@ -1626,6 +1628,7 @@
 +.1fw35mn5y7h-sdk.rum.aliyuncs.com
 +.1hlahoc4rpc-sdk.rum.aliyuncs.com
 +.1m9o22qt9lx-sdk.rum.aliyuncs.com
++.axyleu11gz-default-cn.rum.aliyuncs.com
 +.ep2x3kiawg-sdk.rum.aliyuncs.com
 +.haa3j9plpi-default-cn.rum.aliyuncs.com
 +.hfwpz4bisq-default-cn.rum.aliyuncs.com
@@ -1996,6 +1999,7 @@
 +.log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
 +.api-access.pangolin-sdk-toutiao-b.com.w.cdngslb.com
 +.api-access.pangolin-sdk-toutiao1.com.w.cdngslb.com
++.ads-i2.xhscdn.com.w.cdngslb.com
 +.ads-img-al.xhscdn.com.w.cdngslb.com
 +.ads-video-al.xhscdn.com.w.cdngslb.com
 +.ads3-normal-hl.zijieapi.com.w.cdngslb.com
@@ -2004,6 +2008,7 @@
 +.sgtm.dhgate.com.cdngtm.com
 +.httpdns.c.cdnhwc2.com
 +.httpdns1.cc.cdnhwc5.com
++.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 +.syh-imp.cdnjtzy.com
 +.cdnmaster.com
 +.beacon.cdnpure.com
@@ -2036,7 +2041,6 @@
 +.chinaapper.com
 +.sdkoptedge.chinanetcenter.com
 +.wslog.chinanetcenter.com
-+.ads.chinaums.com
 +.a2put.chinaz.com
 +.stats.chinaz.com
 +.chiq-cloud.com
@@ -2191,6 +2195,7 @@
 +.metrics-picture.dreport.meituan.net.eo.dnse1.com
 +.tracking.ksztone.com.eo.dnse2.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
++.ads-i1.xhscdn.com.cdn.dnsv1.com
 +.do-global.com
 +.dolphinpaper.com
 +.ap.dongdianqiu.com
@@ -2835,6 +2840,7 @@
 +.v3.jiathis.com
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
++.ad.open.api.jihuoniao.com
 +.jikewan.com
 +.jikklfexh.com
 +.wuliao.jingyanben.com
@@ -2986,7 +2992,6 @@
 +.lady177.com
 +.www.ladymetro.com
 +.zq.lansedir.com
-+.ads.games.laohu.com
 +.images.newsletter.larksuite.com
 +.amdc.lazada.com
 +.orange-dc.lazada.com
@@ -3325,7 +3330,6 @@
 +.marketing.nsfocus.com
 +.c.nuhcpf.com
 +.log.nuomi.com
-+.metric.nuonuo.com
 +.anews7.nvwu.com
 +.wt.o.nytimes.com
 +.o5y2zd1lq8.com
@@ -3677,15 +3681,16 @@
 +.v13-reading-ad.qznovelvod.com
 +.v26-reading-ad.qznovelvod.com
 +.v3-reading-ad.qznovelvod.com
++.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
-+.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
 +.v95-se-zjwztc-reading-ad.qznovelvod.com
 +.v95-zjjx2tc-reading-ad.qznovelvod.com
++.v96-reading-ad.qznovelvod.com
 +.v96-sz-daily-reading-ad.qznovelvod.com
 +.ads.raidrive.com
 +.luaqxb.rainso.com
@@ -4083,6 +4088,7 @@
 +.twzui6.com
 +.livetech.shopee.com.br.txlivecdn.com
 +.livetech.shopee.co.id.txlivecdn.com
++.livetech.shopee.co.th.txlivecdn.com
 +.livetech.shopee.vn.txlivecdn.com
 +.m.txtxr.com
 +.de.tynt.com
@@ -4285,7 +4291,6 @@
 +.ru-onrt-stsdk.vivoglobal.com
 +.ru-os-config-appstore.vivoglobal.com
 +.ru-p.vivoglobal.com
-+.ru-pnrt-stsdk.vivoglobal.com
 +.ru-romsp-unifyconfig.vivoglobal.com
 +.ru-st-exappupgrade.vivoglobal.com
 +.ru-st-sl.vivoglobal.com
@@ -4433,7 +4438,6 @@
 +.ads-i10.xhscdn.com
 +.ads-i2.xhscdn.com
 +.ads-i3.xhscdn.com
-+.ads-i8.xhscdn.com
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
@@ -4562,7 +4566,6 @@
 +.stat.download.xunlei.com
 +.kkpgv2.xunlei.com
 +.soa-vip-ssl.xunlei.com
-+.advertpay.vip.xunlei.com
 +.upgrade.xl9.xunlei.com
 +.xvhttu3c9.com
 +.cc.xwscg.com
@@ -4931,6 +4934,7 @@
 +.ads.music.126.net
 +.iadmusicmat.music.126.net
 +.iadmusicmatvideo.music.126.net
++.imgsize.ph.126.net
 +.stat.ws.126.net
 +.webstat.ws.126.net
 +.yt-adp.ws.126.net
