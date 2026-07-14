@@ -977,7 +977,6 @@
 +.alexa.com
 +.alexanderstreet.com
 +.alfa.me
-+.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
 +.algoritmika.org
@@ -3944,6 +3943,7 @@
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
++.chatgpt.site
 +.chatgptvideo.xyz
 +.chatgptvideob.buzz
 +.chatpdf.com
@@ -7862,7 +7862,6 @@
 +.gonike.com
 +.gonzo-movies.com
 +.gonzo.com
-+.goo
 +.gooblox.com
 +.good-gay.com
 +.gooday.xyz
@@ -9492,7 +9491,6 @@
 +.intagrm.com
 +.intc.com
 +.integral7.com
-+.intel
 +.intel-research.net
 +.intel-university-collaboration.net
 +.intel.cc
@@ -10322,6 +10320,7 @@
 +.kia
 +.kichiku-doujinko.com
 +.kichikuou.com
++.kick.com
 +.kickporn.com
 +.kickshatchannel.com
 +.kicksnike1.com
@@ -10410,7 +10409,6 @@
 +.konachan.com
 +.konachan.net
 +.konachan.wjcodes.com
-+.konami
 +.konami-igaming.online
 +.konami.com
 +.konami.net
@@ -14366,10 +14364,6 @@
 +.pppds.com
 +.pr
 +.practicalbusinessskills.com
-+.practivate.adobe
-+.practivate.adobe.ipp
-+.practivate.adobe.newoa
-+.practivate.adobe.ntp
 +.pramerica
 +.praxi
 +.prayforchina.net
@@ -19215,7 +19209,6 @@
 +.xn--mgb9awbf
 +.xn--mgba3a3ejt
 +.xn--mgba3a4f16a
-+.xn--mgba3a4fra
 +.xn--mgba7c0bbn0a
 +.xn--mgbaam7a8h
 +.xn--mgbah1a3hjkrd
