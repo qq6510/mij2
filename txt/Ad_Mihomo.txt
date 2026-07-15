@@ -37,7 +37,6 @@
 +.analytics.wondershare.cc
 +.bd1.yidu.cc
 +.dm.zjut.cc
-+.focusgarden.cfd
 +.homla.cfd
 +.home-you.click
 +.ldhy.click
@@ -168,6 +167,7 @@
 +.aizipai.cn
 +.smetrics.alfalaval.cn
 +.alimama.cn
++.allcars.cn
 +.allyes.cn
 +.metrics.americanairlines.cn
 +.amerzbj.cn
@@ -301,6 +301,7 @@
 +.daliantong.com.cn
 +.datamaster.com.cn
 +.jc1.dayfund.com.cn
++.dgrj.com.cn
 +.ads.doit.com.cn
 +.ename.com.cn
 +.count.enet.com.cn
@@ -861,6 +862,7 @@
 +.pfqwbqs.cn
 +.vendhelpuous.pgvjmp.cn
 +.phqew.cn
++.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -1588,7 +1590,6 @@
 +.pcookie.aliexpress.com
 +.optimus-ads.amap.com.w.alikunlun.com
 +.alimama.com
-+.alipansou.com
 +.amdc.alipay.com
 +.collect.alipay.com
 +.loggw.alipay.com
@@ -1643,6 +1644,7 @@
 +.appgiftwall.oss-us-west-1.aliyuncs.com
 +.1hlahoc4rpc-sdk.rum.aliyuncs.com
 +.1m9o22qt9lx-sdk.rum.aliyuncs.com
++.axyleu11gz-default-cn.rum.aliyuncs.com
 +.ep2x3kiawg-sdk.rum.aliyuncs.com
 +.f8ds5tkidk-sdk.rum.aliyuncs.com
 +.haa3j9plpi-default-cn.rum.aliyuncs.com
@@ -1895,6 +1897,7 @@
 +.baidustatic.com
 +.baifendian.com
 +.baixing.com
++.baltic-pipe-pl.com
 +.midinfo.baofeng.com
 +.a.baomihua.com
 +.djs.baomihua.com
@@ -1947,6 +1950,7 @@
 +.ai.bioon.com
 +.carstat.bitauto.com
 +.log.bitauto.com
++.bitradex-polska.com
 +.img11.biyan8.com
 +.bj5iodzgyi.com
 +.file.blackint3.com
@@ -1959,6 +1963,7 @@
 +.vstat.borderlessbd.com
 +.noyvyv.bosonshop.com
 +.bpuvuun0xg.com
++.bravonitek-pl.com
 +.s.btime.com
 +.btyou.com
 +.ad.bwton.com
@@ -2120,7 +2125,6 @@
 +.wslog-global-dual.coolacloud.com
 +.detaillog-global-dual.coolbcloud.com
 +.logreport-global-dual.coolbcloud.com
-+.detaillog-global.coolccloud.com
 +.detaillog-global-dual.coolccloud.com
 +.logreport-global-dual.coolccloud.com
 +.wslog-global-dual.coolccloud.com
@@ -2211,6 +2215,7 @@
 +.tracking.ksztone.com.eo.dnse2.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
 +.do-global.com
++.zx.docin.com
 +.dolphinpaper.com
 +.ap.dongdianqiu.com
 +.ap.dongqiudi.com
@@ -2315,7 +2320,6 @@
 +.fiu07090kl.com
 +.catalog.fjwhcbsh.com
 +.flurry.com
-+.pid.fly160.com
 +.www.fm120.com
 +.foisonad.com
 +.metrics.ford.com
@@ -2504,6 +2508,7 @@
 +.vpodv.harpercollins.com
 +.hashnest.com
 +.img1.hblds.com
++.heavly1.com
 +.heheshield.com
 +.heima8.com
 +.fingerprint-upload.hellobike.com
@@ -2524,7 +2529,6 @@
 +.ums-rum-global.heytapimage.com
 +.adm-smc-cn.heytapmobi.com
 +.ads.heytapmobi.com
-+.stat.browser.heytapmobi.com
 +.api-cn.cdo.heytapmobi.com
 +.api-gl.cdo.heytapmobi.com
 +.epoch-id.cdo.heytapmobi.com
@@ -2624,6 +2628,7 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
++.log.homestyler.com
 +.ad.house365.com
 +.adadmin.house365.com
 +.ads.house365.com
@@ -2729,6 +2734,7 @@
 +.igexin.com
 +.appadapi.ihuman.com
 +.ijinshan.com
++.static.ilclock.com
 +.ilkwork.com
 +.imageter.com
 +.img001.com
@@ -2762,7 +2768,6 @@
 +.puma.api.iqiyi.com
 +.apisgame.iqiyi.com
 +.cards-css.iqiyi.com
-+.cs-feige.iqiyi.com
 +.t7z.cupid.iqiyi.com
 +.doh.iqiyi.com
 +.emoticon-sns.iqiyi.com
@@ -3029,6 +3034,7 @@
 +.ssai-ads.api.leiniao.com
 +.ssai2-ads.api.leiniao.com
 +.lejuliang.com
++.lekkirendovikai.com
 +.m2.lelemh.com
 +.analyze.lemurbrowser.com
 +.images.business.lenovo.com
@@ -3311,7 +3317,6 @@
 +.adstore-index-1252524079.file.myqcloud.com
 +.projecta-common-1258344701.file.myqcloud.com
 +.datarangers-event.myrightone.com
-+.hoka-shoes.myshoplaza.com
 +.lowa202606.myshoplaza.com
 +.maoamao.myshoplaza.com
 +.nsabiu.myshoplaza.com
@@ -3442,6 +3447,8 @@
 +.pl53l7tyw.com
 +.placidocn.com
 +.play-analytics.com
++.polunexapro-pl.com
++.polzentraai-pl.com
 +.i.popincdn.com
 +.api.afdback.ppsimg.com
 +.app.aplus.pptv.com
@@ -3644,7 +3651,6 @@
 +.tj.video.qq.com
 +.vpic.video.qq.com
 +.ad.weixin.qq.com
-+.as.weixin.qq.com
 +.dns.weixin.qq.com
 +.httpdns.weixin.qq.com
 +.log.weixin.qq.com
@@ -3763,8 +3769,8 @@
 +.dwtracking.sdo.com
 +.reportsk.web.sdo.com
 +.analytics.apps.seabroadnet.com
-+.trace.seeyouyima.com
 +.sellfox.com
++.selvarytm-pl.com
 +.senbiaojita.com
 +.ads.servebom.com
 +.logstat.t.sfht.com
@@ -4010,7 +4016,7 @@
 +.tdlop7tsme.com
 +.log.tec73.com
 +.1.tecbbs.com
-+.www.tecunonline.com
++.tecunonline.com
 +.data.tempersyi.com
 +.sensors.cloud.tencent.com
 +.galileotelemetry.tencent.com
@@ -4352,7 +4358,6 @@
 +.tab.volces.com
 +.report.voovmeeting.com
 +.vrbrothers.com
-+.n.vs108.com
 +.vungle.com
 +.bu1.vvvdj.com
 +.vwe5pjt0jq.com
@@ -4419,6 +4424,7 @@
 +.statics.woozooo.com
 +.stats.wp.com
 +.api-ad-adapter.wps.com
++.api-ad-adapter-mb.wps.com
 +.api-ad-adapter-sg.wps.com
 +.abroadad.cache.wpscdn.com
 +.wrating.com
@@ -4450,7 +4456,6 @@
 +.ads-i2.xhscdn.com
 +.ads-i3.xhscdn.com
 +.ads-i4.xhscdn.com
-+.ads-i8.xhscdn.com
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
@@ -4845,7 +4850,6 @@
 +.adm.zookingsoft.com
 +.zqmhl8lgj.com
 +.zsjxwj.com
-+.beacon-ad.ztgame.com.ztinfoga.com
 +.zu9srbxg0t.com
 +.ad.zui.com
 +.ad.zuimeitianqi.com
@@ -4864,16 +4868,18 @@
 +.b73223085-49c6-4dca-a2f1-4722014079fb-dpi4fgipupcs.edgeone.dev
 +.b74364238-d49c-4f21-a234-d47e9697ee92-dpowf5bnj9al.edgeone.dev
 +.blanked.edgeone.dev
++.cas-microsoft.edgeone.dev
 +.copyright-case-review.edgeone.dev
 +.cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev
 +.f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev
-+.gdgdcjkklfsgclfgcg-dph9klajknan.edgeone.dev
 +.ggkhhfhhfhflhjdcxcvbthg-dpfmbose3uxq.edgeone.dev
 +.ggsgsgsgdjjczkjgjkggacggc-dpqt3wpkjdo9.edgeone.dev
 +.hdggdhjdhjdgdjjjgcjggjgj-dpt5xisw7bfs.edgeone.dev
 +.intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev
 +.intellectual-property-review-dp8cm75v8j31.edgeone.dev
++.meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
 +.officedeskego-dp8bsedoxuio.edgeone.dev
++.ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 +.reloader-dpffdavrss4p.edgeone.dev
 +.supreme-lavender-t9nd7q0w.edgeone.dev
 +.tdrdwhxxgjzhztwxtxsf-dp9ctcz1v8gi.edgeone.dev
@@ -4913,6 +4919,8 @@
 +.report-europe.agora.io
 +.report-north-america.agora.io
 +.report-oversea.agora.io
++.report-us.agora.io
++.report-us2.agora.io
 +.statscollector-1.agora.io
 +.statscollector-1-asia.agora.io
 +.statscollector-1-europe.agora.io
@@ -4960,7 +4968,6 @@
 +.ads.music.126.net
 +.iadmusicmat.music.126.net
 +.iadmusicmatvideo.music.126.net
-+.imgsize.ph.126.net
 +.stat.ws.126.net
 +.webstat.ws.126.net
 +.yt-adp.ws.126.net
@@ -5002,6 +5009,7 @@
 +.b1.b2b168.net
 +.bd-s.baixing.net
 +.script-bd.baixing.net
++.baltic-pipe.net
 +.dig.bdurl.net
 +.dig-ec.bdurl.net
 +.ali-web-player-tracker.biliapi.net
@@ -5044,6 +5052,7 @@
 +.doubleclick-cn.net
 +.duba.net
 +.wildcard.moatads.com.edgekey.net
++.wangsu-smetrics.redhat.com.edgekey.net
 +.heads-ak.spotify.com.edgesuite.net
 +.k6d.falang.net
 +.fastapi.net
@@ -5138,6 +5147,7 @@
 +.ns2.vicp.net
 +.vnclip.net
 +.mini-prog-drm.vodplayvideo.net
++.wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 +.perfsight.wetest.net
 +.xianshangzixun.net
 +.sentry.d.xiaomi.net
@@ -5206,23 +5216,16 @@
 +.brubeck-pl.shop
 +.brubeck-sports.shop
 +.brubecksports.shop
-+.fight-pl.shop
 +.fighteres.shop
 +.fighterspor.shop
 +.fighterspors.shop
-+.fighterzz.shop
-+.focusgarden-dom.shop
-+.focusgardenes.shop
 +.focusgardenev.shop
 +.focusgardenhome.shop
 +.focusgardenme.shop
-+.focusgardens-pl.shop
 +.focusgardense.shop
-+.focusgardom.shop
 +.garden-home.shop
 +.garden-homes.shop
 +.gardendodomu.shop
-+.gardendom.shop
 +.gardendomowy.shop
 +.gardensztabik.shop
 +.gistalco.shop
@@ -5238,15 +5241,12 @@
 +.hi-mountain.shop
 +.homeyous.shop
 +.homladom.shop
-+.nicesales.shop
++.homlamake.shop
 +.ochnikbags-pl.shop
-+.openpl.shop
 +.pitbull-sklep.shop
 +.pitbullcloths.shop
 +.pitbullwestcoast.shop
-+.pl-stalco.shop
 +.sogardens.shop
-+.sorevolution.shop
 +.sostalcs.shop
 +.staco-shop.shop
 +.stalco24-pl.shop
@@ -5257,9 +5257,9 @@
 +.strausstore.shop
 +.vanaheim.shop
 +.ziaja-pl.shop
++.ziajabeatu.shop
 +.ziajacom.shop
 +.ziajamarket.shop
-+.zwtring.shop
 +.app-posthog.bi-sage.site
 +.api.bytegle.site
 +.errortracking.snapp.site
@@ -5336,4 +5336,3 @@
 +.qcloud-sg-datareceiver.kurogame.xyz
 +.paypa1.xyz
 +.sbird.xyz
-+.vniddlg.xyz
