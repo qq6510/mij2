@@ -58,6 +58,7 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.copilot-stg.com
 +.copilot.cloud.microsoft
 +.copilot.com
 +.copilot.microsoft.com
@@ -88,6 +89,7 @@
 +.envatousercontent.com
 +.events.statsigapi.net
 +.featuregates.org
++.flow.google
 +.gateway.ai.cloudflare.com
 +.gateway.bingviz.microsoft.net
 +.gateway.bingviz.microsoftapp.net

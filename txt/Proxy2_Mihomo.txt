@@ -4485,6 +4485,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot-stg.com
 +.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
@@ -11421,6 +11422,7 @@
 +.mgstage.com
 +.mh
 +.mh4u.org
++.mhgui.com
 +.mhhanman.xyz
 +.mhqwe.xyz
 +.mhradio.org
@@ -16366,6 +16368,7 @@
 +.starfieldtech.com
 +.starfox.com
 +.stargazer-games.com
++.starlink.com
 +.starott.com
 +.starp2p.com
 +.starplus.com
@@ -16873,7 +16876,6 @@
 +.terobox.com
 +.terragraph.com
 +.terrapeak.com
-+.tesla-cdn.thron.com
 +.tesla.com
 +.tesla.services
 +.teslaenergy.services
