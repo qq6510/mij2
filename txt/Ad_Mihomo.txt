@@ -215,7 +215,6 @@
 +.camelee.cn
 +.telemetry.canva.cn
 +.casee.cn
-+.mtrace.ysp.cctv.cn
 +.business-ad.cdn-go.cn
 +.adsimg.kompas.com.0d0007d9.cdnhwc8.cn
 +.ad.cdnjm.cn
@@ -227,7 +226,6 @@
 +.analysis.chatglm.cn
 +.bdasd.chdbook.cn
 +.log.china.cn
-+.feedbackstorage.blob.core.chinacloudapi.cn
 +.pcmactivity.chinacloudsites.cn
 +.cholo215.cn
 +.cholor201115.cn
@@ -885,6 +883,7 @@
 +.qezpjlp.cn
 +.qfcdgy.cn
 +.qguwoq.cn
++.qhkxs.cn
 +.qhonzpl.cn
 +.c.qiandao.cn
 +.qienews.cn
@@ -1198,6 +1197,7 @@
 +.y0764.cn
 +.y4n.cn
 +.yahekby.cn
++.yangshengzu.cn
 +.yatemy.cn
 +.ycsshb.cn
 +.ydgsvls.cn
@@ -1419,7 +1419,6 @@
 +.v16.56.com
 +.www.56.com
 +.57573zubo36833.com
-+.advert.58.com
 +.brandshow.58.com
 +.jing.58.com
 +.poro.58.com
@@ -1525,6 +1524,7 @@
 +.adyun.com
 +.af1tsjdta.com
 +.app.aflink.com
++.ai-nexork.com
 +.aiclk.com
 +.atiws.aipai.com
 +.mlog.aipai.com
@@ -2132,7 +2132,6 @@
 +.logreport-global-dual.coolzcloud.com
 +.wslog-global-dual.coolzcloud.com
 +.cp7iys8fp.com
-+.cpmoz.com
 +.crashlytics.com
 +.gg.cs090.com
 +.csaimall.com
@@ -4235,6 +4234,7 @@
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
++.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
@@ -4409,6 +4409,7 @@
 +.log.wifi.com
 +.a.wifi33.com
 +.winbaicai.com
++.wislazyskor-pl.com
 +.analytics.wiwide.com
 +.wiyun.com
 +.wj8i1rlp2b.com
@@ -4459,6 +4460,7 @@
 +.ads-i10.xhscdn.com
 +.ads-i2.xhscdn.com
 +.ads-i3.xhscdn.com
++.ads-i4.xhscdn.com
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
@@ -4695,7 +4697,6 @@
 +.youxiaoad.com
 +.tj.youzanyun.com
 +.wenxue.youzhicn.com
-+.ad-material.ys7.com
 +.log.ys7.com
 +.ysjwj.com
 +.ytelc.com
@@ -4731,7 +4732,6 @@
 +.tx-p2p-v2.pull.yximgs.com
 +.ws-p2p.pull.yximgs.com
 +.ws-p2p-v2.pull.yximgs.com
-+.tob-tracker.yximgs.com
 +.v1-ad.video.yximgs.com
 +.v2-ad.video.yximgs.com
 +.v3-ad.video.yximgs.com
@@ -4865,6 +4865,7 @@
 +.log-auth.zztfly.com
 +.upc.zztfly.com
 +.digitalsolutions360-dpouvkf7wkw5.edgeone.cool
++.webmail-myaccount-secure-micrsoftnotifications-dpob324t4jqd.zh-cn.edgeone.cool
 +.umami.oyo.cool
 +.homla.cyou
 +.0whw23nd-dpb9te1dacqs.edgeone.dev
@@ -4888,6 +4889,7 @@
 +.intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev
 +.intellectual-property-review-dp8cm75v8j31.edgeone.dev
 +.meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
++.pretty-white-ziekneey.edgeone.dev
 +.ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 +.reloader-dpffdavrss4p.edgeone.dev
 +.supreme-lavender-t9nd7q0w.edgeone.dev
@@ -4895,6 +4897,7 @@
 +.tdrdwhxxgjzhztwxtxsf-dp9ctcz1v8gi.edgeone.dev
 +.troubleshoot-ad-account-issues.edgeone.dev
 +.uefa46-dpimi9v6dp2i.edgeone.dev
++.w6r46g0hb-dpv3acpgp8ta.edgeone.dev
 +.y87f6s34a2qw-dp3fy8azkrz8.edgeone.dev
 +.tradiky.eu
 +.homla.fashion
@@ -5114,6 +5117,7 @@
 +.fp.nanrenwo.net
 +.ngmco.net
 +.ggdm1.nhaidu.net
++.novacapital-ai.net
 +.promotionad.nvcam.net
 +.offerstrack.net
 +.okhan.net
@@ -5122,6 +5126,8 @@
 +.mm.paizi.net
 +.dluat.pokerbros.net
 +.i.pokerbros.net
++.proinvest-pl.net
++.prolnvest-polska.net
 +.analytics.pushgrid.net
 +.m.qiuwu.net
 +.msg.qy.net
