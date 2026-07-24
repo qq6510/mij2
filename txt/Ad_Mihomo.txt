@@ -539,6 +539,7 @@
 +.dnyzbp.cn
 +.domob.cn
 +.donchen501.cn
++.eo.dongdm.cn
 +.monitor-web.dotfashion.cn
 +.download.doumaibiji.cn
 +.bjfesdk.douyucdn.cn
@@ -594,6 +595,7 @@
 +.www.fanwish.cn
 +.fdhvczd.cn
 +.fengyukun03.cn
++.fhitagd.cn
 +.a1.firefoxchina.cn
 +.fiwyjar.cn
 +.fjsytjs.cn
@@ -856,6 +858,7 @@
 +.pfdth.cn
 +.pfqwbqs.cn
 +.vendhelpuous.pgvjmp.cn
++.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -1008,6 +1011,7 @@
 +.soorbka.cn
 +.ad-r.soulapp.cn
 +.roi.soulapp.cn
++.soul-ad.soulapp.cn
 +.srbzw.cn
 +.steam66.cn
 +.app-analysislog.sto.cn
@@ -1130,6 +1134,7 @@
 +.log.voicecloud.cn
 +.vorluic.cn
 +.vpsgu.cn
++.p.vq6nsu.cn
 +.vrrm.cn
 +.vungle.cn
 +.vxcewh.cn
@@ -1406,7 +1411,6 @@
 +.api.52youtu.com
 +.a.52zxw.com
 +.53kf.com
-+.down.54nb.com
 +.55726zubo56686.com
 +.acs.56.com
 +.acs.agent.56.com
@@ -1418,6 +1422,7 @@
 +.uvimage.56.com
 +.v16.56.com
 +.www.56.com
++.dl.1003b.56a.com
 +.57573zubo36833.com
 +.brandshow.58.com
 +.jing.58.com
@@ -1993,6 +1998,7 @@
 +.loacalhttpdns.caiyunapp.com
 +.applog.camera360.com
 +.appres.camera360.com
++.canard-gov.com
 +.count.candou.com
 +.capitalcore-ai.com
 +.baidu1.cardbaobao.com
@@ -2208,6 +2214,7 @@
 +.metrics-picture.dreport.meituan.net.eo.dnse1.com
 +.tracking.ksztone.com.eo.dnse2.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
++.ads-i1.xhscdn.com.cdn.dnsv1.com
 +.do-global.com
 +.zx.docin.com
 +.dolphinpaper.com
@@ -2389,6 +2396,7 @@
 +.ulogvg.gifshow.com
 +.ulog.v6.gifshow.com
 +.zt.gifshow.com
++.gio07250rp.com
 +.giocdn.com
 +.tracker.gitee.com
 +.50m.gkcyc.com
@@ -2646,7 +2654,7 @@
 +.ecommhpi.ext.hp.com
 +.met2.hp.com
 +.support.hqts.com
-+.hseda.com
++.www.hseda.com
 +.hsych.com
 +.www.huabian.com
 +.app-analytics-ru.huami.com
@@ -2859,6 +2867,8 @@
 +.v3.jiathis.com
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
++.ad.open.api.jihuoniao.com
++.ad.report.jihuoniao.com
 +.jikewan.com
 +.wuliao.jingyanben.com
 +.jm3uvitq0.com
@@ -3759,6 +3769,7 @@
 +.dwtracking.sdo.com
 +.reportsk.web.sdo.com
 +.analytics.apps.seabroadnet.com
++.trace.seeyouyima.com
 +.sellfox.com
 +.selvarytm-pl.com
 +.senbiaojita.com
@@ -3898,7 +3909,6 @@
 +.stgowan.com
 +.autotrack.studyquicks.com
 +.stats.studyquicks.com
-+.visevisa-3049940309494994030.mos.ap-southeast-2.sufybkt.com
 +.ssac.suning.com
 +.sums.suning.com
 +.tad.suning.com
@@ -3933,7 +3943,6 @@
 +.p.tanx.com
 +.rdstat.tanx.com
 +.ae-alimelog.taobao.com
-+.alimelog.taobao.com
 +.audid-api.taobao.com
 +.audid-api-sg.taobao.com
 +.baichuan-sdk.taobao.com
@@ -4764,6 +4773,7 @@
 +.slotabrosdev.zharev.com
 +.slotabrosuat.zharev.com
 +.cdnlog.zhenai.com
++.zhigao5191.com
 +.adstatic.zhihu.com
 +.crash2.zhihu.com
 +.event.zhihu.com
@@ -4885,7 +4895,6 @@
 +.educational-blush-ooupnjp2.edgeone.dev
 +.exotic-lime-olunrtbr.edgeone.dev
 +.f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev
-+.hdggdhjdhjdgdjjjgcjggjgj-dpt5xisw7bfs.edgeone.dev
 +.intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev
 +.intellectual-property-review-dp8cm75v8j31.edgeone.dev
 +.meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
@@ -5079,6 +5088,7 @@
 +.getui.net
 +.stats.gioneemobile.net
 +.glaz-kapitonis.net
++.glurvextopin-ai.net
 +.glwxw.net
 +.gtags.net
 +.hnol.net
