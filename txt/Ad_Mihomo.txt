@@ -215,6 +215,7 @@
 +.camelee.cn
 +.telemetry.canva.cn
 +.casee.cn
++.mtrace.ysp.cctv.cn
 +.business-ad.cdn-go.cn
 +.adsimg.kompas.com.0d0007d9.cdnhwc8.cn
 +.ad.cdnjm.cn
@@ -299,6 +300,7 @@
 +.datamaster.com.cn
 +.jc1.dayfund.com.cn
 +.dgrj.com.cn
++.track.sohu.com.dsa.dnsv1.com.cn
 +.ads.doit.com.cn
 +.ename.com.cn
 +.count.enet.com.cn
@@ -2029,6 +2031,7 @@
 +.sgtm.dhgate.com.cdngtm.com
 +.httpdns.c.cdnhwc2.com
 +.httpdns1.cc.cdnhwc5.com
++.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 +.syh-imp.cdnjtzy.com
 +.cdnmaster.com
 +.beacon.cdnpure.com
@@ -2278,6 +2281,7 @@
 +.p2-play.edge4k.com
 +.adguanggao.eee114.com
 +.eeyy.com
++.efangcdn.com
 +.efusc.com
 +.tr.ekatox.com
 +.ekiison.com
@@ -2628,7 +2632,6 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
-+.log.homestyler.com
 +.ad.house365.com
 +.adadmin.house365.com
 +.ads.house365.com
@@ -4247,6 +4250,7 @@
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -4473,6 +4477,7 @@
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
++.ads-leona-s1.xhscdn.com
 +.ads-video-al.xhscdn.com
 +.ads-video-qc.xhscdn.com
 +.ads-vp5.xhscdn.com
