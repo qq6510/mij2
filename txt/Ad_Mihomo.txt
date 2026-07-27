@@ -214,6 +214,7 @@
 +.camelee.cn
 +.telemetry.canva.cn
 +.casee.cn
++.btrace.ysp.cctv.cn
 +.mtrace.ysp.cctv.cn
 +.business-ad.cdn-go.cn
 +.adsimg.kompas.com.0d0007d9.cdnhwc8.cn
@@ -236,6 +237,7 @@
 +.advertise.cloudlinks.cn
 +.cmpxaup.cn
 +.ad.cmvideo.cn
++.ggc.cmvideo.cn
 +.ggx.cmvideo.cn
 +.ad.cnr.cn
 +.cnzz.cn
@@ -255,7 +257,6 @@
 +.admaster.com.cn
 +.adn-plus.com.cn
 +.loggw.alipay.com.cn
-+.an-tonghuashun.com.cn
 +.securemetrics.apple.com.cn
 +.adx.appsdk.com.cn
 +.33.autohome.com.cn
@@ -1097,6 +1098,7 @@
 +.adashx.ut.uc.cn
 +.h-adashx.ut.uc.cn
 +.s-adashx.ut.uc.cn
++.wmedia-track.uc.cn
 +.woodpecker.uc.cn
 +.m.uczzd.cn
 +.udeztrb.cn
@@ -1396,6 +1398,7 @@
 +.scdata.51job.com
 +.51taifu.com
 +.ad.51wnl.com
++.ad.51wnl-cq.com
 +.r.51wnl-cq.com
 +.51yes.com
 +.game.51yund.com
@@ -1480,12 +1483,15 @@
 +.a2pfs5k90i.com
 +.a4xvv2g18l.com
 +.a5wlr2yplf.com
++.aai07280mu.com
 +.aapz.com
 +.jscode.acg68.com
 +.ad-scope.com
 +.ad-survey.com
 +.ad7.com
 +.adcolony.com
++.ads.adfunlink.com
++.adtracker.adfunlink.com
 +.adinall.com
 +.adjust.com
 +.adkwai.com
@@ -1635,6 +1641,7 @@
 +.1hlahoc4rpc-sdk.rum.aliyuncs.com
 +.1m9o22qt9lx-sdk.rum.aliyuncs.com
 +.ep2x3kiawg-sdk.rum.aliyuncs.com
++.f8ds5tkidk-sdk.rum.aliyuncs.com
 +.haa3j9plpi-default-cn.rum.aliyuncs.com
 +.hfwpz4bisq-default-cn.rum.aliyuncs.com
 +.j2c03hoppk-default-cn.rum.aliyuncs.com
@@ -1919,7 +1926,6 @@
 +.sofire.bdstatic.com
 +.su.bdstatic.com
 +.zz.bdstatic.com
-+.ads-i3.xhscdn.com.a.bdydns.com
 +.smetrics.beatsbydre.com
 +.belkakapitura-ai.com
 +.bervonik-pl.com
@@ -2123,11 +2129,13 @@
 +.wslog-global-dual.coolacloud.com
 +.detaillog-global-dual.coolbcloud.com
 +.logreport-global-dual.coolbcloud.com
++.detaillog-global.coolccloud.com
 +.detaillog-global-dual.coolccloud.com
 +.logreport-global-dual.coolccloud.com
 +.wslog-global-dual.coolccloud.com
 +.detaillog-global-dual.coolgcloud.com
 +.logreport-global-dual.coolgcloud.com
++.weblogger-wss.coolgcloud.com
 +.detaillog-global-dual.coolhcloud.com
 +.logreport-global-dual.coolhcloud.com
 +.coolkaba.com
@@ -2345,6 +2353,7 @@
 +.pub.funshion.com
 +.pv.funshion.com
 +.stat.funshion.com
++.vs.funshion.com
 +.down.fwqlt.com
 +.ad.fx168api.com
 +.fx455rrt4b.com
@@ -2528,6 +2537,7 @@
 +.ums-rum-global.heytapimage.com
 +.adm-smc-cn.heytapmobi.com
 +.ads.heytapmobi.com
++.stat.browser.heytapmobi.com
 +.api-cn.cdo.heytapmobi.com
 +.api-gl.cdo.heytapmobi.com
 +.epoch-id.cdo.heytapmobi.com
@@ -2555,10 +2565,12 @@
 +.obus-jssdk-cn.heytapmobi.com
 +.album-sg01a.ocloud.heytapmobi.com
 +.httpdns.ocloud.heytapmobi.com
++.i-cn01a.ocloud.heytapmobi.com
 +.i-sg01a.ocloud.heytapmobi.com
 +.omes-sec.heytapmobi.com
 +.oversea-nebula-in.heytapmobi.com
 +.oversea-nebula-sg.heytapmobi.com
++.dcintl.push.heytapmobi.com
 +.api-id.theme.heytapmobi.com
 +.report.uc.heytapmobi.com
 +.ums-telemetry-cn.heytapmobi.com
@@ -2596,6 +2608,8 @@
 +.hiido.com
 +.analytics.shop.hisense.com
 +.api-4know-em.hismarttv.com
++.api-4know-eu.hismarttv.com
++.api-cloudfalcon.hismarttv.com
 +.api-gps.hismarttv.com
 +.api-gps-eu.hismarttv.com
 +.api-gps-na.hismarttv.com
@@ -2603,6 +2617,7 @@
 +.api-launcher-na.hismarttv.com
 +.auth-em.hismarttv.com
 +.auth-eu.hismarttv.com
++.auth-jp.hismarttv.com
 +.auth-launcher-em.hismarttv.com
 +.auth-launcher-eu.hismarttv.com
 +.auth-launcher-jp.hismarttv.com
@@ -2610,6 +2625,7 @@
 +.auth-launcher-sa.hismarttv.com
 +.auth-na.hismarttv.com
 +.auth-phone-afr.hismarttv.com
++.auth-phone-ap.hismarttv.com
 +.auth-sa.hismarttv.com
 +.cdn-plugin-sync-upgrade-juui.hismarttv.com
 +.msg-na.hismarttv.com
@@ -3221,6 +3237,7 @@
 +.api.accelerator.intl.miui.com
 +.api.aurogon.intl.miui.com
 +.activity.browser.intl.miui.com
++.api.browser.intl.miui.com
 +.api.brs.intl.miui.com
 +.api.calendar.intl.miui.com
 +.abroad.api.comm.intl.miui.com
@@ -3680,6 +3697,8 @@
 +.api-access.pangolin-sdk-toutiao1.com.queniuiq.com
 +.ads3-normal-lf.zijieapi.com.queniuiq.com
 +.ads3-normal-lq.zijieapi.com.queniuiq.com
++.p2-ad.adukwai.com.queniuiy.com
++.ali-ad.a.yximgs.com.queniukr.com
 +.ads3-normal-hl.zijieapi.com.queniurc.com
 +.p3-ad-sign.byteimg.com.queniusy.com
 +.sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com
@@ -3706,8 +3725,10 @@
 +.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
++.v5-se-bjtc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
++.v5-se-wywltc-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
@@ -3828,6 +3849,7 @@
 +.log-hl.snssdk.com
 +.log-lq.snssdk.com
 +.mcs.snssdk.com
++.mercury-sdk.snssdk.com
 +.mon.snssdk.com
 +.open.snssdk.com
 +.pangolin.snssdk.com
@@ -3877,6 +3899,7 @@
 +.qpb1.sohu.com
 +.track.sohu.com
 +.888.tv.sohu.com
++.api.tv.sohu.com
 +.lm.tv.sohu.com
 +.upgrade.m.tv.sohu.com
 +.push.tv.sohu.com
@@ -4248,12 +4271,14 @@
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
 +.eu-ort-stsdk.vivoglobal.com
 +.eu-p.vivoglobal.com
++.eu-pnrt-stsdk.vivoglobal.com
 +.eu-romsp-unifyconfig.vivoglobal.com
 +.eu-st-sl.vivoglobal.com
 +.eu-stsdk.vivoglobal.com
@@ -4296,7 +4321,11 @@
 +.in-vpushonrt-stsdk.vivoglobal.com
 +.in-vpushort-stsdk.vivoglobal.com
 +.kz-onrt-stsdk.vivoglobal.com
++.kz-ort-stsdk.vivoglobal.com
++.kz-st-exappupgrade.vivoglobal.com
++.kz-vcode-api.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
++.kz-vcode-or.vivoglobal.com
 +.mx-cota.vivoglobal.com
 +.mx-domaincfg.vivoglobal.com
 +.mx-err-up.vivoglobal.com
@@ -4439,7 +4468,6 @@
 +.statics.woozooo.com
 +.stats.wp.com
 +.api-ad-adapter.wps.com
-+.api-ad-adapter-mb.wps.com
 +.api-ad-adapter-sg.wps.com
 +.abroadad.cache.wpscdn.com
 +.wrating.com
@@ -4470,7 +4498,6 @@
 +.ads-i10.xhscdn.com
 +.ads-i2.xhscdn.com
 +.ads-i3.xhscdn.com
-+.ads-i4.xhscdn.com
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
@@ -4528,7 +4555,6 @@
 +.in-miuilog.sms.intl.xiaomi.com
 +.a.market.xiaomi.com
 +.xadx.file.market.xiaomi.com
-+.t17.market.xiaomi.com
 +.video.market.xiaomi.com
 +.wtradv.market.xiaomi.com
 +.resolver.mi.xiaomi.com
@@ -4866,6 +4892,7 @@
 +.adm.zookingsoft.com
 +.zqmhl8lgj.com
 +.zsjxwj.com
++.beacon-ad.ztgame.com.ztinfoga.com
 +.zu9srbxg0t.com
 +.ad.zui.com
 +.ad.zuimeitianqi.com
