@@ -215,7 +215,6 @@
 +.telemetry.canva.cn
 +.casee.cn
 +.business-ad.cdn-go.cn
-+.adsimg.kompas.com.0d0007d9.cdnhwc8.cn
 +.ad.cdnjm.cn
 +.cdnmaster.cn
 +.cdxyb.cn
@@ -2623,6 +2622,7 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
++.log.homestyler.com
 +.ad.house365.com
 +.adadmin.house365.com
 +.ads.house365.com
@@ -3016,8 +3016,6 @@
 +.images.newsletter.larksuite.com
 +.amdc.lazada.com
 +.orange-dc.lazada.com
-+.ph-log-emagzal.lazada.com
-+.sg-log-emagzal.lazada.com
 +.adashx.ut.lazada.com
 +.h-adashx.ut.lazada.com
 +.cc.lbesec.com
@@ -3031,7 +3029,6 @@
 +.learnwithnahid.com
 +.ads-api-o.api.leiniao.com
 +.ctv-ads.api.leiniao.com
-+.ssai-ads.api.leiniao.com
 +.ssai2-ads.api.leiniao.com
 +.lejuliang.com
 +.lekkirendovikai.com
@@ -3345,6 +3342,7 @@
 +.marketing.nsfocus.com
 +.c.nuhcpf.com
 +.log.nuomi.com
++.metric.nuonuo.com
 +.anews7.nvwu.com
 +.wt.o.nytimes.com
 +.o5y2zd1lq8.com
@@ -3437,6 +3435,7 @@
 +.pl53l7tyw.com
 +.placidocn.com
 +.play-analytics.com
++.podstcrednex-ai.com
 +.polunexapro-pl.com
 +.polzentraai-pl.com
 +.i.popincdn.com
@@ -3446,6 +3445,8 @@
 +.de.as.pptv.com
 +.jp.as.pptv.com
 +.pp2.pptv.com
++.pro-investpolska.com
++.proinvest-pl.com
 +.przyrost-pl.com
 +.dm.pstatp.com
 +.pb3.pstatp.com
@@ -4186,7 +4187,6 @@
 +.ws-p2p-pull.video-voip.com
 +.vigyn4gpx.com
 +.n-st.vip.com
-+.in.vipliangmei.com
 +.tr.email.virtual-expo.com
 +.bhwkju.vivo.com
 +.alliance-adreq-asia.vivoglobal.com
@@ -4230,7 +4230,6 @@
 +.cname-asia-st-exappupgrade.vivoglobal.com
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
-+.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
@@ -4428,6 +4427,7 @@
 +.statics.woozooo.com
 +.stats.wp.com
 +.api-ad-adapter.wps.com
++.api-ad-adapter-mb.wps.com
 +.api-ad-adapter-sg.wps.com
 +.abroadad.cache.wpscdn.com
 +.wrating.com
@@ -4892,6 +4892,7 @@
 +.ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 +.reloader-dpffdavrss4p.edgeone.dev
 +.supreme-lavender-t9nd7q0w.edgeone.dev
++.symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
 +.tapin.edgeone.dev
 +.troubleshoot-ad-account-issues.edgeone.dev
 +.uefa46-dpimi9v6dp2i.edgeone.dev
@@ -5126,6 +5127,7 @@
 +.dluat.pokerbros.net
 +.i.pokerbros.net
 +.proinvest-pl.net
++.proinvestai.net
 +.prolnvest-polska.net
 +.analytics.pushgrid.net
 +.m.qiuwu.net
