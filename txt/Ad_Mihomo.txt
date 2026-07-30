@@ -107,10 +107,7 @@
 +.www.360anquan.cn
 +.gostat.3g.cn
 +.goupdate.3g.cn
-+.3p4.cn
 +.40017.cn
-+.4a9.cn
-+.4pn.cn
 +.511a.cn
 +.a1.51shiti.cn
 +.52kuwang.cn
@@ -214,7 +211,6 @@
 +.camelee.cn
 +.telemetry.canva.cn
 +.casee.cn
-+.business-ad.cdn-go.cn
 +.ad.cdnjm.cn
 +.cdnmaster.cn
 +.cdxyb.cn
@@ -440,7 +436,6 @@
 +.event.wedobest.com.cn
 +.event.stat.wedobest.com.cn
 +.ad.winrar.com.cn
-+.dm.wo.com.cn
 +.d0.xcar.com.cn
 +.dw.xcar.com.cn
 +.jcmonitor.xcar.com.cn
@@ -853,6 +848,7 @@
 +.pfdth.cn
 +.pfqwbqs.cn
 +.vendhelpuous.pgvjmp.cn
++.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -885,6 +881,7 @@
 +.c.qiandao.cn
 +.qienews.cn
 +.qijpaih.cn
++.qingsj.cn
 +.kbae.qiqqh.cn
 +.qiuxl11.cn
 +.qjiz.cn
@@ -984,14 +981,12 @@
 +.sjoy7rq.cn
 +.skfqxkk.cn
 +.c.sm.cn
-+.content-understand-strategy.sm.cn
 +.hc-ssp.sm.cn
 +.huichuan.sm.cn
 +.huichuan-mc.sm.cn
 +.image-ad.sm.cn
 +.log.m.sm.cn
 +.sugs.m.sm.cn
-+.sdk-log.partner.sm.cn
 +.video-ad.sm.cn
 +.sm-tc.cn
 +.adx-ad.smart-tv.cn
@@ -1003,9 +998,7 @@
 +.adx.sogaha.cn
 +.smetrics.solidigmtechnology.cn
 +.soorbka.cn
-+.ad-r.soulapp.cn
 +.roi.soulapp.cn
-+.soul-ad.soulapp.cn
 +.srbzw.cn
 +.app-analysislog.sto.cn
 +.studylabs.cn
@@ -1064,7 +1057,6 @@
 +.trafficjam.cn
 +.ta.trs.cn
 +.go.tuev.cn
-+.mkt-advertisement.tuhu.cn
 +.tuhzjrr.cn
 +.tuia.cn
 +.tumeite.cn
@@ -1075,7 +1067,6 @@
 +.tvrom.cn
 +.twdjn.cn
 +.ty.cn
-+.u7x.cn
 +.u88.cn
 +.ubxqerc.cn
 +.ads.uc.cn
@@ -1088,7 +1079,6 @@
 +.gjtrack.uc.cn
 +.api.mp.uc.cn
 +.mparticle.uc.cn
-+.partner.uc.cn
 +.t.uc.cn
 +.track.uc.cn
 +.applog.ucdns.uc.cn
@@ -1193,8 +1183,8 @@
 +.xueaaaw.cn
 +.prd-collect-llm.xverse.cn
 +.xyizgh.cn
++.xznkjzx.cn
 +.y0764.cn
-+.y4n.cn
 +.yahekby.cn
 +.yangshengzu.cn
 +.yatemy.cn
@@ -1525,6 +1515,7 @@
 +.af1tsjdta.com
 +.app.aflink.com
 +.ai-nexork.com
++.ai-proinvest-polska.com
 +.aiclk.com
 +.atiws.aipai.com
 +.mlog.aipai.com
@@ -1816,7 +1807,6 @@
 +.ulog.imap.baidu.com
 +.imgstat.baidu.com
 +.kstj.baidu.com
-+.leads.baidu.com
 +.libs.baidu.com
 +.luimg.baidu.com
 +.m1.baidu.com
@@ -1920,6 +1910,7 @@
 +.zz.bdstatic.com
 +.smetrics.beatsbydre.com
 +.belkakapitura-ai.com
++.bervonik-ai.com
 +.bervonik-pl.com
 +.betylife.com
 +.info.bgi.com
@@ -1982,11 +1973,8 @@
 +.p6-ad-sign.byteimg.com
 +.p9-ad-sign.byteimg.com
 +.log.byteoversea.com
-+.apps.bytesfield.com
 +.s.c-ctrip.com
 +.download.caihong.com
-+.adashx.ut.cainiao.com
-+.h-adashx.ut.cainiao.com
 +.gg.caixin.com
 +.ad.caiyunapp.com
 +.loacalhttpdns.caiyunapp.com
@@ -2165,7 +2153,6 @@
 +.pv.datacaciques.com
 +.matomo.datasanalytics.com
 +.images.dayoo.com
-+.wdr160gz.dayugslb.com
 +.dazhantai.com
 +.db8b41ie5.com
 +.cs02-pps-drcn.dbankcdn.com
@@ -2194,8 +2181,6 @@
 +.dianru.com
 +.bea-s.dinghuoche.com
 +.resolver.dingtalk.com
-+.adashx.ut.dingtalk.com
-+.h-adashx.ut.dingtalk.com
 +.stdown.dinju.com
 +.dipan.com
 +.tr.email.directindustry.com
@@ -2208,6 +2193,7 @@
 +.metrics-picture.dreport.meituan.net.eo.dnse1.com
 +.tracking.ksztone.com.eo.dnse2.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
++.ads-i1.xhscdn.com.cdn.dnsv1.com
 +.do-global.com
 +.zx.docin.com
 +.dolphinpaper.com
@@ -2491,7 +2477,6 @@
 +.h6295.com
 +.h7ima6w5k.com
 +.haloapps.com
-+.adx.halomobi.com
 +.hanlanad.com
 +.s1.hanlinzhijia.com
 +.as1.m.hao123.com
@@ -2513,7 +2498,6 @@
 +.itv.hexun.com
 +.utrack.hexun.com
 +.appconf.heytapdownload.com
-+.adsbdfs.heytapimage.com
 +.adsfs.heytapimage.com
 +.adsfs-sdkconfig.heytapimage.com
 +.dhfs-id.heytapimage.com
@@ -2657,7 +2641,6 @@
 +.32.huanqiu.com
 +.boardx.huanqiu.com
 +.ads.huantest.com
-+.ads.huawei.com
 +.hwa.his.huawei.com
 +.httpdns.huaweicloud.com
 +.hubiazhi.com
@@ -2861,6 +2844,7 @@
 +.v3.jiathis.com
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
++.ad.open.api.jihuoniao.com
 +.jikewan.com
 +.wuliao.jingyanben.com
 +.jm3uvitq0.com
@@ -3026,7 +3010,6 @@
 +.banana.le.com
 +.cherry.le.com
 +.stat.le.com
-+.learnwithnahid.com
 +.ads-api-o.api.leiniao.com
 +.ctv-ads.api.leiniao.com
 +.ssai2-ads.api.leiniao.com
@@ -3342,7 +3325,6 @@
 +.marketing.nsfocus.com
 +.c.nuhcpf.com
 +.log.nuomi.com
-+.metric.nuonuo.com
 +.anews7.nvwu.com
 +.wt.o.nytimes.com
 +.o5y2zd1lq8.com
@@ -3663,7 +3645,6 @@
 +.sdk-ab-config.qquanquan.com
 +.tracelog-debug.qquanquan.com
 +.f.qstatic.com
-+.iadsdk.qtlcdn.com
 +.quality-ad.com
 +.quanmama.com
 +.irc.qubiankeji.com
@@ -3777,7 +3758,6 @@
 +.jpaasne.e.shifen.com
 +.httpdns.n.shifen.com
 +.shoppingbox.com
-+.ads-shopping.shouqianba.com
 +.shuiguo.com
 +.umini.shujupie.com
 +.ad.shunchangzhixing.com
@@ -3958,7 +3938,6 @@
 +.c-adash.m.taobao.com
 +.huodong.m.taobao.com
 +.m-adash.m.taobao.com
-+.mos.m.taobao.com
 +.openjmacs.m.taobao.com
 +.re.m.taobao.com
 +.rj.m.taobao.com
@@ -3991,7 +3970,6 @@
 +.adashxgc.ut.taobao.com
 +.h-adashx.ut.taobao.com
 +.h-adashx4ae.ut.taobao.com
-+.h-adashx4bc.ut.taobao.com
 +.h-adashx4id.ut.taobao.com
 +.h-adashx4sg.ut.taobao.com
 +.wcp.taobao.com
@@ -4098,7 +4076,6 @@
 +.in.treasuredata.com
 +.tsvrv.com
 +.ttdbh.com
-+.settings.ttwebview.com
 +.www.ttyyuuoo.com
 +.ad.api.3g.tudou.com
 +.lm1.tuliu.com
@@ -4394,15 +4371,12 @@
 +.datacollection.uve.weibo.com
 +.sdkapp.uve.weibo.com
 +.widget.weibo.com
-+.dm.video.weibocdn.com
 +.api-z.weidian.com
 +.logtake.weidian.com
 +.weidianyuedu.com
 +.1.weiheshidai.com
-+.weilayun.com
 +.badjs.weixinbridge.com
 +.code.wenbanzhu.com
-+.wesiedu.com
 +.count.west263.com
 +.htrace.wetvinfo.com
 +.log.wifi.com
@@ -4428,14 +4402,12 @@
 +.stats.wp.com
 +.api-ad-adapter.wps.com
 +.api-ad-adapter-mb.wps.com
-+.api-ad-adapter-sg.wps.com
 +.abroadad.cache.wpscdn.com
 +.wrating.com
 +.ad.12306.cn.wscdns.com
 +.analytics.95516.com.wscdns.com
 +.mlog.wangsu.com.wswebcdn.com
 +.cdn-ad.wtzw.com
-+.cdn-new-ad.wtzw.com
 +.wukongtongji.com
 +.wumii.com
 +.vhs.wwstat.com
@@ -4450,6 +4422,7 @@
 +.xbtw.com
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
++.analytics.xdiarys.com
 +.analytics1.xdiarys.com
 +.xdrig.com
 +.xegnfwkju.com
@@ -4461,7 +4434,6 @@
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
-+.ads-leona-s1.xhscdn.com
 +.ads-video-al.xhscdn.com
 +.ads-video-qc.xhscdn.com
 +.ads-vp5.xhscdn.com
@@ -4695,6 +4667,7 @@
 +.youxiaoad.com
 +.tj.youzanyun.com
 +.wenxue.youzhicn.com
++.ad-material.ys7.com
 +.log.ys7.com
 +.ysjwj.com
 +.ytelc.com
@@ -4783,12 +4756,10 @@
 +.zhongkaowu.com
 +.zhongsijiacheng.com
 +.jy.zhongxues.com
-+.ad.zhuanzhuan.com
 +.zgsdk.zhugeio.com
 +.fdfda.zhuzhai.com
 +.abtest3-misc-hl.zijieapi.com
 +.abtest3-misc-lf.zijieapi.com
-+.abtest3-misc-lq.zijieapi.com
 +.ad.zijieapi.com
 +.ads3-normal.zijieapi.com
 +.ads3-normal-hl.zijieapi.com
@@ -5029,6 +5000,7 @@
 +.baltic-pipe.net
 +.dig.bdurl.net
 +.dig-ec.bdurl.net
++.bervonik.net
 +.ali-web-player-tracker.biliapi.net
 +.hw-v2-web-player-tracker.biliapi.net
 +.line1-log.biligame.net
@@ -5203,7 +5175,6 @@
 +.zoossoft.net
 +.dump.mewcdn.online
 +.stalco-sklep.online
-+.2girls1finger.org
 +.50bang.org
 +.memelq.acs.org
 +.pubstr.acs.org
