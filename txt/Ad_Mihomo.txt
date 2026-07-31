@@ -1,3 +1,4 @@
++.stats-cdn.polyspeak.ai
 +.dimupdate.edgeone.app
 +.config.ad.falconnet.app
 +.api-ad-callback.falconnet.app
@@ -672,6 +673,7 @@
 +.hzhabei.cn
 +.i-fk.cn
 +.ibozys.cn
++.moon.ibytecdn.cn
 +.ads.icloseli.cn
 +.idubwz.cn
 +.iefmvk.cn
@@ -680,6 +682,7 @@
 +.metrics.ilovematlab.cn
 +.smetrics.ilovematlab.cn
 +.immob.cn
++.pyk.in-neo.cn
 +.link.infineon.cn
 +.inmobi.cn
 +.inmobicdn.cn
@@ -2844,7 +2847,6 @@
 +.v3.jiathis.com
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
-+.ad.open.api.jihuoniao.com
 +.jikewan.com
 +.wuliao.jingyanben.com
 +.jm3uvitq0.com
@@ -3323,6 +3325,8 @@
 +.a.nowscore.com
 +.z.nowscore.com
 +.marketing.nsfocus.com
++.nug08010lu.com
++.nug08011lu.com
 +.c.nuhcpf.com
 +.log.nuomi.com
 +.anews7.nvwu.com
@@ -3686,7 +3690,6 @@
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
-+.v95-aw-reading-ad.qznovelvod.com
 +.v95-se-zjwztc-reading-ad.qznovelvod.com
 +.v95-zjjx2tc-reading-ad.qznovelvod.com
 +.v96-reading-ad.qznovelvod.com
@@ -4667,7 +4670,6 @@
 +.youxiaoad.com
 +.tj.youzanyun.com
 +.wenxue.youzhicn.com
-+.ad-material.ys7.com
 +.log.ys7.com
 +.ysjwj.com
 +.ytelc.com
@@ -4797,9 +4799,12 @@
 +.polaris3-normal-hl.zijieapi.com
 +.polaris3-normal-lf.zijieapi.com
 +.polaris3-normal-lq.zijieapi.com
++.polaris5-normal-gl2.zijieapi.com
 +.polaris5-normal-hl.zijieapi.com
 +.polaris5-normal-lf.zijieapi.com
 +.polaris5-normal-lq.zijieapi.com
++.polaris5-normal-xh.zijieapi.com
++.polaris5-normal-zb.zijieapi.com
 +.saveu5-normal-lq.zijieapi.com
 +.starkgame.zijieapi.com
 +.timon.zijieapi.com
