@@ -660,6 +660,7 @@
 +.hgpbhuj.cn
 +.hivecn.cn
 +.resu8.hjfile.cn
++.hjgen.cn
 +.hjpqt.cn
 +.hkkeafj.cn
 +.metrics.hollisterco.cn
@@ -1423,6 +1424,7 @@
 +.abcd.5lu.com
 +.efgh.5lu.com
 +.adjb.5nd.com
++.5pub.com
 +.644446.com
 +.bj.ad.track.66mobi.com
 +.kl.67it.com
@@ -1880,6 +1882,7 @@
 +.httpdns.baidubce.com
 +.baidustatic.com
 +.baifendian.com
++.ad.baihemob.com
 +.baixing.com
 +.baltic-pipe-pl.com
 +.midinfo.baofeng.com
@@ -2196,7 +2199,6 @@
 +.metrics-picture.dreport.meituan.net.eo.dnse1.com
 +.tracking.ksztone.com.eo.dnse2.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
-+.ads-i1.xhscdn.com.cdn.dnsv1.com
 +.do-global.com
 +.zx.docin.com
 +.dolphinpaper.com
@@ -3685,6 +3687,7 @@
 +.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
++.v5-se-bjtc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
@@ -3983,6 +3986,7 @@
 +.tb4gv2cp5z.com
 +.all.cnzz.com.danuoyi.tbcache.com
 +.httpdns.danuoyi.tbcache.com
++.gwrtdp-tn690bfadt.tclclouds.com
 +.sg.tdatamaster.com
 +.tdlop7tsme.com
 +.log.tec73.com
@@ -4426,7 +4430,6 @@
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
 +.analytics.xdiarys.com
-+.analytics1.xdiarys.com
 +.xdrig.com
 +.xegnfwkju.com
 +.xhcdn.com
@@ -4721,7 +4724,9 @@
 +.zazhipu.com
 +.p3.zbjimg.com
 +.zelamtron-pl.com
++.zeldrunek-pl.com
 +.zelorprime-ai.com
++.zelorprimeai.com
 +.api-analytics.zepp.com
 +.api-analytics-cn3.zepp.com
 +.api-analytics-de.zepp.com
