@@ -2413,7 +2413,6 @@
 +.g.sst.godaddy.com
 +.goforandroid.com
 +.gongxifc.com
-+.cdn.file6.goodid.com
 +.adservice.google.com
 +.analytics.google.com
 +.ogads-pa.clients6.google.com
@@ -2805,7 +2804,6 @@
 +.adstat.izuiyou.com
 +.jab88.com
 +.jaccsz.com
-+.jbzj.com
 +.addata.jd.com
 +.ads-union.jd.com
 +.c-nfa.jd.com
@@ -4753,7 +4751,6 @@
 +.udd1i5.zhihu.com
 +.zhihu-web-analytics.zhihu.com
 +.collector2c.zhihuishu.com
-+.www.zhikey.com
 +.logapi.zhipin.com
 +.logapi-and.zhipin.com
 +.logapi-ios.zhipin.com
@@ -4872,7 +4869,6 @@
 +.pretty-white-ziekneey.edgeone.dev
 +.ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 +.reloader-dpffdavrss4p.edgeone.dev
-+.supreme-lavender-t9nd7q0w.edgeone.dev
 +.symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
 +.tapin.edgeone.dev
 +.troubleshoot-ad-account-issues.edgeone.dev
@@ -5102,7 +5098,6 @@
 +.novacapital-ai.net
 +.promotionad.nvcam.net
 +.offerstrack.net
-+.okhan.net
 +.visit.oschina.net
 +.pagechoice.net
 +.mm.paizi.net
@@ -5240,10 +5235,8 @@
 +.fighterboks.shop
 +.fighteres.shop
 +.fighterspor.shop
-+.fighterspors.shop
 +.fightersport.shop
 +.focusgardenev.shop
-+.focusgardenhome.shop
 +.focusgardenme.shop
 +.focusgardense.shop
 +.forfizjo.shop
@@ -5265,7 +5258,6 @@
 +.gostalcos.shop
 +.gryxx.shop
 +.gstalco.shop
-+.gym-glamour.shop
 +.gym-glamours.shop
 +.gymyogapl.shop
 +.hi-mountain.shop
@@ -5279,9 +5271,7 @@
 +.ochnikbags-pl.shop
 +.pitbull-sklep.shop
 +.pitbullcloths.shop
-+.pitbullwestcoast.shop
 +.sofizjo.shop
-+.sogardens.shop
 +.sonaoko.shop
 +.sostalcs.shop
 +.staco-shop.shop
