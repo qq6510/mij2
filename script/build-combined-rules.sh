@@ -29,7 +29,6 @@ declare -A RULES=(
         https://github.com/QuixoticHeart/rule-set/raw/ruleset/meta/domain/onedrive.list
     "
     [Proxy2]="sort-clash.py
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
     "
