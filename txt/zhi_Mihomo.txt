@@ -3,9 +3,6 @@
 +.126.net
 +.1drv.com
 +.3gppnetwork.org
-+.DC._msDCS.*.*
-+.GC._msDCS.*.*
-+.PDC._msDCS.*.*
 +.adguardteam.github.io
 +.adrules.top
 +.anti-ad.net
@@ -25,6 +22,7 @@
 +.cmpassport.com
 +.cnmobile.net
 +.crossref.org
++.dc._msdcs.*.*
 +.detectportal.firefox.com
 +.direct
 +.duckdns.org
@@ -35,6 +33,7 @@
 +.ff14.sdo.com
 +.ffxiv.com
 +.finalfantasyxiv.com
++.gc._msdcs.*.*
 +.gcloudcs.com
 +.gcloudsdk.com
 +.heartbeat.belkin.com
@@ -99,6 +98,7 @@
 +.opencloud.wostore.cn
 +.oray.com
 +.orayimg.com
++.pdc._msdcs.*.*
 +.photos.live.com
 +.pingan.com.cn
 +.pool.ntp.org
