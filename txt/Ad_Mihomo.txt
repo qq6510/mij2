@@ -368,6 +368,7 @@
 +.beacon.sina.com.cn
 +.counter.sina.com.cn
 +.d0.sina.com.cn
++.d00.sina.com.cn
 +.d1.sina.com.cn
 +.d2.sina.com.cn
 +.d3.sina.com.cn
@@ -683,7 +684,6 @@
 +.metrics.ilovematlab.cn
 +.smetrics.ilovematlab.cn
 +.immob.cn
-+.pyk.in-neo.cn
 +.link.infineon.cn
 +.inmobi.cn
 +.inmobicdn.cn
@@ -852,7 +852,6 @@
 +.pfdth.cn
 +.pfqwbqs.cn
 +.vendhelpuous.pgvjmp.cn
-+.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -1043,7 +1042,6 @@
 +.sstats.thermoscientific.cn
 +.thinkingdata.cn
 +.trail.thomsonreuters.cn
-+.ad.thsi.cn
 +.fz.tiansys.cn
 +.smetrics.tiffany.cn
 +.tikz.cn
@@ -1398,6 +1396,7 @@
 +.api.52youtu.com
 +.a.52zxw.com
 +.53kf.com
++.down.54nb.com
 +.55726zubo56686.com
 +.acs.56.com
 +.acs.agent.56.com
@@ -1914,6 +1913,7 @@
 +.sofire.bdstatic.com
 +.su.bdstatic.com
 +.zz.bdstatic.com
++.ads-i3.xhscdn.com.a.bdydns.com
 +.smetrics.beatsbydre.com
 +.belkakapitura-ai.com
 +.bervonik-ai.com
@@ -1954,6 +1954,7 @@
 +.bpuvuun0xg.com
 +.bravikzen-ai.com
 +.bravonitek-pl.com
++.bruvanek-pl.com
 +.s.btime.com
 +.btyou.com
 +.ad.bwton.com
@@ -2017,11 +2018,13 @@
 +.sgtm.dhgate.com.cdngtm.com
 +.httpdns.c.cdnhwc2.com
 +.httpdns1.cc.cdnhwc5.com
++.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 +.syh-imp.cdnjtzy.com
 +.cdnmaster.com
 +.beacon.cdnpure.com
 +.report.cdnpure.com
 +.tvuser-ch.cedock.com
++.cedrinwestekai.com
 +.sdk.cferw.com
 +.update.cg100iii.com
 +.ads.adagent.chacha.com
@@ -2141,6 +2144,7 @@
 +.cv3qb5813.com
 +.z1.cwbaike.com
 +.cyq8vqq9s.com
++.cytadela-fundanis.com
 +.a1.cyyangqiguan.com
 +.bd.czxuexi.com
 +.d48paxyhx.com
@@ -2157,7 +2161,6 @@
 +.dashet.com
 +.gate.datacaciques.com
 +.pv.datacaciques.com
-+.matomo.datasanalytics.com
 +.images.dayoo.com
 +.dazhantai.com
 +.db8b41ie5.com
@@ -2200,6 +2203,7 @@
 +.tracking.ksztone.com.eo.dnse2.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
 +.do-global.com
++.dobra-aktywolnia-pl.com
 +.zx.docin.com
 +.dolphinpaper.com
 +.ap.dongdianqiu.com
@@ -2311,6 +2315,7 @@
 +.metrics.ford.com
 +.smetrics.sandbox.ford.com
 +.smetrics.ford.com
++.fortnawertis-pl.com
 +.fotao9.com
 +.frontier100-toutiao-lf.fqnovel.com
 +.log0-applog-lf.fqnovel.com
@@ -2610,7 +2615,6 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
-+.log.homestyler.com
 +.ad.house365.com
 +.adadmin.house365.com
 +.ads.house365.com
@@ -2847,6 +2851,8 @@
 +.v3.jiathis.com
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
++.ad.open.api.jihuoniao.com
++.ad.report.jihuoniao.com
 +.jikewan.com
 +.wuliao.jingyanben.com
 +.jm3uvitq0.com
@@ -2891,6 +2897,7 @@
 +.knie8wmsk.com
 +.ofkqiy.knowfashionstyle.com
 +.knowsafe.com
++.kokojia.com
 +.dpi.networkorder.komect.com
 +.adsmart.konka.com
 +.sdkapi.kookong.com
@@ -3164,6 +3171,7 @@
 +.ggx03.miguvideo.com
 +.ggxwb.miguvideo.com
 +.v.miguvideo.com
++.abtest-api-data.mihoyo.com
 +.ad-log-upload.mihoyo.com
 +.apm-api.mihoyo.com
 +.apm-log-upload.mihoyo.com
@@ -3730,6 +3738,7 @@
 +.rumt-zh.com
 +.abc.ruodian360.com
 +.ryd626moj.com
++.rytm-inwestek.com
 +.s0p6s02x28.com
 +.s1gr2198h.com
 +.s4y6lhotaw.com
@@ -3740,6 +3749,7 @@
 +.active.sangfor.com
 +.sanghuangvip.com
 +.ta.sanook.com
++.sarnadochomir-ai.com
 +.saxysec.com
 +.statscollector.sd-rtn.com
 +.adrs.sdo.com
@@ -4213,12 +4223,14 @@
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-domaincfg.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
 +.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -4292,6 +4304,7 @@
 +.ru-onrt-stsdk.vivoglobal.com
 +.ru-os-config-appstore.vivoglobal.com
 +.ru-p.vivoglobal.com
++.ru-pnrt-stsdk.vivoglobal.com
 +.ru-romsp-unifyconfig.vivoglobal.com
 +.ru-st-exappupgrade.vivoglobal.com
 +.ru-st-sl.vivoglobal.com
@@ -4427,7 +4440,6 @@
 +.xbtw.com
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
-+.analytics.xdiarys.com
 +.xdrig.com
 +.xegnfwkju.com
 +.xhcdn.com
@@ -4435,6 +4447,7 @@
 +.ads-i10.xhscdn.com
 +.ads-i2.xhscdn.com
 +.ads-i3.xhscdn.com
++.ads-i4.xhscdn.com
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
@@ -4586,7 +4599,6 @@
 +.img.yangshengtang123.com
 +.ca.yangshengtv.com
 +.ydmob.com
-+.adpublish.ydstatic.com
 +.oimagea2.ydstatic.com
 +.store.yeelight.com
 +.yeql3hzbd.com
@@ -4827,6 +4839,7 @@
 +.zmg15qfvi.com
 +.zonst.com
 +.adm.zookingsoft.com
++.zorza-rentura.com
 +.zqmhl8lgj.com
 +.zsjxwj.com
 +.zu9srbxg0t.com
@@ -4845,8 +4858,10 @@
 +.webmail-myaccount-secure-micrsoftnotifications-dpob324t4jqd.zh-cn.edgeone.cool
 +.umami.oyo.cool
 +.homla.cyou
++.00bfd200-dpnb2uqcmx3g.edgeone.dev
 +.05gdfi007-dpm2gawaoxpl.edgeone.dev
 +.0whw23nd-dpb9te1dacqs.edgeone.dev
++.alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
 +.awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev
 +.b48411138-0326-4a61-9b6e-51b0d590d944.edgeone.dev
 +.b73223085-49c6-4dca-a2f1-4722014079bf.edgeone.dev
@@ -4860,11 +4875,14 @@
 +.cautious-parakeet-dp8m7ealq3k4.edgeone.dev
 +.copyright-case-review.edgeone.dev
 +.cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev
++.doc-fcms.edgeone.dev
 +.educational-blush-ooupnjp2.edgeone.dev
 +.exotic-lime-olunrtbr.edgeone.dev
 +.f40914238-3da7-4de7-8dee-307e6692cfb8.edgeone.dev
++.ffsre-dpzou3ijaxzb.edgeone.dev
 +.intellectual-property-appeal-dp16ue7mh0wc.edgeone.dev
 +.intellectual-property-review-dp8cm75v8j31.edgeone.dev
++.loginpages0000-dpf0869el7ik.edgeone.dev
 +.meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
 +.pretty-white-ziekneey.edgeone.dev
 +.ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
@@ -4875,6 +4893,7 @@
 +.uefa46-dpimi9v6dp2i.edgeone.dev
 +.w6r46g0hb-dpv3acpgp8ta.edgeone.dev
 +.well-aquamarine-psata8ej.edgeone.dev
++.ytterbic-amber-qilwigl2.edgeone.dev
 +.tradiky.eu
 +.homla.fashion
 +.ad.qingting.fm
@@ -4905,6 +4924,7 @@
 +.stalco.ink
 +.data-reporting.agora.io
 +.logservice.agora.io
++.logservice-asia.agora.io
 +.logservice-rtm.agora.io
 +.report-america.agora.io
 +.report-asia.agora.io
@@ -5019,6 +5039,7 @@
 +.ads5-normal-hl.zijieapi.com.c.dsa.cdnbuild.net
 +.ads5-normal-lf.zijieapi.com.c.dsa.cdnbuild.net
 +.ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
++.cedrinwestek.net
 +.chshcms.net
 +.pl.cp31.ott.cibntv.net
 +.vali-g1.cp31.ott.cibntv.net
@@ -5051,6 +5072,8 @@
 +.k6d.falang.net
 +.fastapi.net
 +.img.ferlie.net
++.fortna-wertis.net
++.fortnawertis.net
 +.stat.funshion.net
 +.fyvexlab-fin.net
 +.getui.net
@@ -5271,6 +5294,7 @@
 +.ochnikbags-pl.shop
 +.pitbull-sklep.shop
 +.pitbullcloths.shop
++.resevpl.shop
 +.sofizjo.shop
 +.sonaoko.shop
 +.sostalcs.shop
