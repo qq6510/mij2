@@ -1,5 +1,6 @@
 +.agentclientprotocol.com
 +.ai.azure.com
++.ai.com
 +.ai.google.dev
 +.ai.studio
 +.aicode.googleapis.com
@@ -9,7 +10,9 @@
 +.algolia.net
 +.alkalicore-pa.clients6.google.com
 +.alkalimakersuite-pa.clients6.google.com
++.anthropic-com.ghost.io
 +.anthropic.com
++.anthropic.com.cdn.cloudflare.net
 +.antigravity-pa.googleapis.com
 +.antigravity-unleash.goog
 +.antigravity.google
@@ -19,6 +22,11 @@
 +.api.msn.com
 +.api.statsig.com
 +.api.together.xyz
++.apple-relay.apple.com
++.apple-relay.cloudflare.com
++.apple-relay.fastly-edge.com
++.apple-relay.mask.apple-dns.net
++.apps.mzstatic.com
 +.appsdowonders.com
 +.arena.ai
 +.assets.msn.com
@@ -27,11 +35,11 @@
 +.bard.google.com
 +.bing-shopping.microsoft-falcon.io
 +.browser-intake-datadoghq.com
++.byteoversea.com
 +.cerebras.ai
 +.challenges.cloudflare.com
 +.chat.com
 +.chatgpt.com
-+.chatgpt.livekit.cloud
 +.chatgpt.site
 +.chutes.ai
 +.cici.com
@@ -64,6 +72,7 @@
 +.copilot.microsoft.com
 +.copilotprodattachments.blob.core.windows.net
 +.coze.com
++.cp4.cloudflare.com
 +.crewai.com
 +.crixet.com
 +.cursor-cdn.com
@@ -90,9 +99,11 @@
 +.events.statsigapi.net
 +.featuregates.org
 +.flow.google
++.g.ai
 +.gateway.ai.cloudflare.com
 +.gateway.bingviz.microsoft.net
 +.gateway.bingviz.microsoftapp.net
++.gateway.icloud.com
 +.geller-pa.googleapis.com
 +.gemini.google
 +.gemini.google.com
@@ -133,12 +144,14 @@
 +.grok.x.com
 +.grokipedia.com
 +.groq.com
++.gspe1-ssl.ls.apple.com
++.guzzoni.apple.com
 +.h2o.ai
 +.hf.co
 +.hf.space
-+.host.livekit.cloud
 +.huggingface.co
 +.identrust.com
++.imagine.meta.com
 +.in.appcenter.ms
 +.intercom.io
 +.intercomcdn.com
@@ -152,6 +165,7 @@
 +.labs.google.com
 +.langchain.com
 +.launchdarkly.com
++.livekit.cloud
 +.liveperson.net
 +.lmstudio.ai
 +.location.microsoft.com
@@ -187,6 +201,7 @@
 +.openai-api.arkoselabs.com
 +.openai.com
 +.openai.com.cdn.cloudflare.net
++.openai.qualtrics.com
 +.openaiapi-site.azureedge.net
 +.openaiassets.blob.core.windows.net
 +.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -237,6 +252,7 @@
 +.servd-anthropic-website.b-cdn.net
 +.services.bingapis.com
 +.sider.ai
++.smoot.apple.com
 +.sora.com
 +.spicywriter.com
 +.static.cloudflareinsights.com
@@ -248,11 +264,12 @@
 +.themeforest.net
 +.trae.ai
 +.tripo3d.ai
-+.turn.livekit.cloud
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.windsurf.build
 +.windsurf.com
++.www.bing.com
 +.x.ai
 +.youmind.ai
 +.youmind.com
 +.youmind.site
++.zed.dev
