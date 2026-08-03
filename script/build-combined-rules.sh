@@ -41,7 +41,7 @@ declare -A RULES=(
         https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/meta/domain/fake-ip-filter.list
         https://github.com/QuixoticHeart/rule-set/raw/ruleset/meta/domain/onedrive.list
     "
-    [Proxy2]="sort-clash.py
+    [Proxy]="sort-clash.py
         https://raw.githubusercontent.com/DustinWin/ruleset_geodata/mihomo-ruleset/gfw.list
         https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/meta/domain/gfw.list
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
