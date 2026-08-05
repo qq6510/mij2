@@ -855,6 +855,7 @@
 +.pfdth.cn
 +.pfqwbqs.cn
 +.vendhelpuous.pgvjmp.cn
++.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -1391,7 +1392,6 @@
 +.51mitu.com
 +.51taifu.com
 +.ad.51wnl.com
-+.ad.51wnl-cq.com
 +.r.51wnl-cq.com
 +.51yes.com
 +.game.51yund.com
@@ -2167,6 +2167,7 @@
 +.dashet.com
 +.gate.datacaciques.com
 +.pv.datacaciques.com
++.matomo.datasanalytics.com
 +.images.dayoo.com
 +.dazhantai.com
 +.db8b41ie5.com
@@ -2519,7 +2520,6 @@
 +.dhfs-id.heytapimage.com
 +.dhfs-in.heytapimage.com
 +.dhfs-my.heytapimage.com
-+.dhfs-ph.heytapimage.com
 +.img-c.heytapimage.com
 +.ums-rum-cn.heytapimage.com
 +.ums-rum-global.heytapimage.com
@@ -2623,6 +2623,7 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
++.log.homestyler.com
 +.ad.house365.com
 +.adadmin.house365.com
 +.ads.house365.com
@@ -3177,7 +3178,6 @@
 +.ggx03.miguvideo.com
 +.ggxwb.miguvideo.com
 +.v.miguvideo.com
-+.abtest-api-data.mihoyo.com
 +.ad-log-upload.mihoyo.com
 +.apm-api.mihoyo.com
 +.apm-log-upload.mihoyo.com
@@ -4228,7 +4228,6 @@
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
-+.co-domaincfg.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
 +.co-timesync.vivoglobal.com
@@ -4319,7 +4318,6 @@
 +.sg-cfg-stsdk.vivoglobal.com
 +.stsdk.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
-+.tr-err-up.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
 +.tr-p.vivoglobal.com
@@ -4421,6 +4419,7 @@
 +.statics.woozooo.com
 +.stats.wp.com
 +.api-ad-adapter.wps.com
++.api-ad-adapter-mb.wps.com
 +.abroadad.cache.wpscdn.com
 +.wrating.com
 +.ad.12306.cn.wscdns.com
@@ -4770,7 +4769,6 @@
 +.t.zhipin.com
 +.zhiziyun.com
 +.w11.zhongkaohelp.com
-+.zhongkaowu.com
 +.zhongsijiacheng.com
 +.jy.zhongxues.com
 +.zgsdk.zhugeio.com

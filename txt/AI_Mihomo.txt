@@ -82,6 +82,8 @@
 +.daily-cloudcode-pa.googleapis.com
 +.deepmind.com
 +.deepmind.google
++.deepwiki.com
++.deepwiki.org
 +.dependabot.com
 +.devin.ai
 +.diabrowser.com
