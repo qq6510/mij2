@@ -67,6 +67,7 @@
 +.24smile.org
 +.25u.com
 +.2du5.com
++.2dust.link
 +.2lipstube.com
 +.2shared.com
 +.2waky.com
@@ -317,6 +318,7 @@
 +.amnesty.org.hk
 +.amnesty.tw
 +.amnestyusa.org
++.amnezia.org
 +.amnyemachen.org
 +.amoiist.com
 +.ampproject.com
@@ -1232,6 +1234,9 @@
 +.ck101.com
 +.cl.ly
 +.clarionproject.org
++.clashmi.app
++.clashparty.org
++.clashverge.dev
 +.clashyun.com
 +.classicalguitarblog.net
 +.claude.ai
@@ -2066,6 +2071,7 @@
 +.fish.audio
 +.fizzik.com
 +.flagsonline.it
++.flclashx.app
 +.flecheinthepeche.fr
 +.fleshbot.com
 +.fleursdeslettres.com
@@ -2085,6 +2091,7 @@
 +.flog.tw
 +.flowgpt.com
 +.flowhongkong.net
++.flowvy.io
 +.flypool.org
 +.flyvpn.com
 +.flyzy2005.com
@@ -3247,6 +3254,7 @@
 +.incapdns.net
 +.incloak.com
 +.incredibox.fr
++.incy.cc
 +.independent.co.uk
 +.india.com
 +.indiablooms.com
@@ -3540,6 +3548,7 @@
 +.kaotic.com
 +.karayou.com
 +.kards.com
++.karing.app
 +.karkhung.com
 +.karmapa-teachings.org
 +.karmapa.org
@@ -4438,6 +4447,7 @@
 +.ns1.name
 +.ns2.name
 +.ns3.name
++.nsloon.com
 +.nssurge.com
 +.ntc.party
 +.ntd.tv
@@ -4548,6 +4558,7 @@
 +.onesto.re
 +.onestore.co.kr
 +.onevps.com
++.onexray.com
 +.onion.city
 +.onion.ly
 +.onionshare.org
@@ -4913,6 +4924,7 @@
 +.privatetunnel.com
 +.privatevpn.com
 +.privoxy.org
++.prizrak.app
 +.procopytips.com
 +.project-syndicate.org
 +.prompthero.com
@@ -5325,6 +5337,7 @@
 +.sgzhan.com
 +.shadeyouvpn.com
 +.shadow.ma
++.shadowlaunch.com
 +.shadowsky.xyz
 +.shadowsocks-r.com
 +.shadowsocks.asia
@@ -5624,6 +5637,8 @@
 +.starp2p.com
 +.startpage.com
 +.startuplivingchina.com
++.stash.wiki
++.stash.ws
 +.state.gov
 +.static-economist.com
 +.static.pocketcasts.com
@@ -6785,6 +6800,7 @@
 +.wezhiyong.org
 +.wezone.net
 +.wforum.com
++.wgtunnel.com
 +.wha.la
 +.whatblocked.com
 +.whatbrowser.org
@@ -6851,6 +6867,7 @@
 +.wiredbytes.com
 +.wiredpen.com
 +.wireguard.com
++.wiresock.net
 +.wisdompubs.org
 +.wisevid.com
 +.wispbyte.com
