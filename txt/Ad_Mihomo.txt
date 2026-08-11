@@ -139,6 +139,7 @@
 +.adjust.cn
 +.adlive.cn
 +.admon.cn
++.adreal.cn
 +.ads360.cn
 +.adsage.cn
 +.adtx2.cn
@@ -634,6 +635,7 @@
 +.resu8.hjfile.cn
 +.hjgen.cn
 +.hkkeafj.cn
++.ho521.cn
 +.metrics.hollisterco.cn
 +.om.hotels.cn
 +.hpiekt.cn
@@ -1133,6 +1135,7 @@
 +.tongji.xinmin.cn
 +.xkmwxwy.cn
 +.xmywlyh.cn
++.xn--m7r781dz66a.cn
 +.xpcwrgy.cn
 +.xryrylt.cn
 +.xueaaaw.cn
@@ -1578,15 +1581,6 @@
 +.ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 +.ad-host-backup-america.oss-us-west-1.aliyuncs.com
 +.appgiftwall.oss-us-west-1.aliyuncs.com
-+.1fw35mn5y7h-sdk.rum.aliyuncs.com
-+.1hlahoc4rpc-sdk.rum.aliyuncs.com
-+.1hqput7vfyl-sdk.rum.aliyuncs.com
-+.1m9o22qt9lx-sdk.rum.aliyuncs.com
-+.ep2x3kiawg-sdk.rum.aliyuncs.com
-+.f8ds5tkidk-sdk.rum.aliyuncs.com
-+.haa3j9plpi-default-cn.rum.aliyuncs.com
-+.hfwpz4bisq-default-cn.rum.aliyuncs.com
-+.j2c03hoppk-default-cn.rum.aliyuncs.com
 +.conn-service-gl-01.allawntech.com
 +.amap-aos-info-nogw.amap.com
 +.apsrgeo.amap.com
@@ -1840,9 +1834,7 @@
 +.baixing.com
 +.baltic-pipe-pl.com
 +.midinfo.baofeng.com
-+.a.baomihua.com
 +.djs.baomihua.com
-+.resource.baomihua.com
 +.bayescom.com
 +.event.bblmw.com
 +.perf.bblmw.com
@@ -2147,7 +2139,6 @@
 +.dianru.com
 +.bea-s.dinghuoche.com
 +.resolver.dingtalk.com
-+.stdown.dinju.com
 +.dipan.com
 +.tr.email.directindustry.com
 +.img16.diyifanwen.com
@@ -2531,6 +2522,7 @@
 +.events-dre.op.hicloud.com
 +.events-drru.op.hicloud.com
 +.logservice-dra.platform.hicloud.com
++.logservice-dre.platform.hicloud.com
 +.honorsearch-dra.hiboard.hihonorcloud.com
 +.honorsearch-drcn.hiboard.hihonorcloud.com
 +.honorsearch-dre.hiboard.hihonorcloud.com
@@ -2875,6 +2867,7 @@
 +.log-sdk.ksapisrv.com
 +.multi-az-ulog.ksapisrv.com
 +.ulog.ksapisrv.com
++.ulog-sdk.ksapisrv.com
 +.ulogjs.ksapisrv.com
 +.ulogs1.ksapisrv.com
 +.ulogs2.ksapisrv.com
@@ -3649,6 +3642,7 @@
 +.ad.qyer.com
 +.hades.qyer.com
 +.qypaizhuo.com
++.qyxiangr.com
 +.qyxrwl.com
 +.u1.qyxxpd.com
 +.v11-reading-ad.qznovelvod.com
@@ -3772,6 +3766,7 @@
 +.ib.snssdk.com
 +.log.snssdk.com
 +.log-hl.snssdk.com
++.log-lf.snssdk.com
 +.log-lq.snssdk.com
 +.mcs.snssdk.com
 +.mercury-sdk.snssdk.com
@@ -4144,6 +4139,7 @@
 +.vigyn4gpx.com
 +.n-st.vip.com
 +.in.vipliangmei.com
++.tr.email.virtual-expo.com
 +.bhwkju.vivo.com
 +.alliance-adreq-asia.vivoglobal.com
 +.asia-abeacdataonrt-stsdk.vivoglobal.com
@@ -4893,6 +4889,7 @@
 +.stalco.ink
 +.data-reporting.agora.io
 +.logservice.agora.io
++.logservice-asia.agora.io
 +.logservice-rtm.agora.io
 +.report-america.agora.io
 +.report-asia.agora.io
