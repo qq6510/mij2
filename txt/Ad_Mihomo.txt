@@ -2544,7 +2544,6 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
-+.log.homestyler.com
 +.ad.house365.com
 +.adadmin.house365.com
 +.ads.house365.com
@@ -3106,7 +3105,6 @@
 +.ggx03.miguvideo.com
 +.ggxwb.miguvideo.com
 +.v.miguvideo.com
-+.abtest-api-data.mihoyo.com
 +.ad-log-upload.mihoyo.com
 +.apm-log-upload.mihoyo.com
 +.data-abtest-api.mihoyo.com
@@ -4165,7 +4163,6 @@
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
-+.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -4392,7 +4389,6 @@
 +.cdn.xianchengyou.com
 +.xianshangzixun.com
 +.xianzhice.com
-+.xiaobaixitong.com
 +.xiaodongrui.com
 +.adx.xiaodutv.com
 +.nsclickvideo.xiaodutv.com

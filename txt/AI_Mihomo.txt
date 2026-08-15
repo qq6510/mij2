@@ -185,6 +185,7 @@
 +.mistral.ai
 +.mozilla.ai
 +.myoctocat.com
++.notebook.google
 +.notebook.google.com
 +.notebooklm-pa.googleapis.com
 +.notebooklm.google
