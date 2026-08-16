@@ -1,5 +1,3 @@
-+.*.cloud.microsoft
-+.*.sharepointonline.com
 +.7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 +.agentclientprotocol.com
 +.ai.azure.com
@@ -35,7 +33,6 @@
 +.arena.ai
 +.assets.msn.com
 +.atom.io
-+.augloop.svc.cloud.microsoft
 +.auth0.com
 +.bard.google.com
 +.bing-shopping.microsoft-falcon.io
@@ -60,6 +57,7 @@
 +.clawhub.ai
 +.client-api.arkoselabs.com
 +.clipdrop.co
++.cloud.microsoft
 +.cloudaicompanion.googleapis.com
 +.cloudcode-pa.googleapis.com
 +.codeium.com
@@ -72,7 +70,6 @@
 +.comfyci.org
 +.comfyregistry.org
 +.copilot-stg.com
-+.copilot.cloud.microsoft
 +.copilot.com
 +.copilot.microsoft.com
 +.copilotprodattachments.blob.core.windows.net
@@ -179,8 +176,6 @@
 +.login.live.com
 +.lovart.ai
 +.lpsnmedia.net
-+.m365.cloud.microsoft
-+.m365copilotapp.svc.cloud.microsoft
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
@@ -262,6 +257,7 @@
 +.sentry.io
 +.servd-anthropic-website.b-cdn.net
 +.services.bingapis.com
++.sharepointonline.com
 +.sider.ai
 +.smoot.apple.com
 +.sora.com
@@ -269,7 +265,6 @@
 +.static.cloudflareinsights.com
 +.stitch.withgoogle.com
 +.stripe.com
-+.substrate.svc.cloud.microsoft
 +.sydney.bing.com
 +.tapnow.ai
 +.thegithubshop.com
