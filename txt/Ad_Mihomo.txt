@@ -2954,7 +2954,6 @@
 +.storeen.ldmnq.com
 +.rainbow-prod-jdlog.ldoverseas.com
 +.ldspdf.com
-+.ld-analytics.ldycdn.com
 +.banana.le.com
 +.cherry.le.com
 +.stat.le.com
@@ -4546,7 +4545,6 @@
 +.img.yangshengtang123.com
 +.ca.yangshengtv.com
 +.ydmob.com
-+.adpublish.ydstatic.com
 +.oimagea2.ydstatic.com
 +.store.yeelight.com
 +.yeql3hzbd.com
