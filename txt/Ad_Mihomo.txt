@@ -89,6 +89,7 @@
 +.40017.cn
 +.511a.cn
 +.a1.51shiti.cn
++.52jiao.cn
 +.52kuwang.cn
 +.3.5646.cn
 +.56fba.cn
@@ -542,7 +543,6 @@
 +.exevcl.cn
 +.veepai-device-log.eye4.cn
 +.z2.fakutownee.cn
-+.fakxqq.cn
 +.falal.cn
 +.fengyukun03.cn
 +.fhitagd.cn
@@ -674,6 +674,7 @@
 +.juzi.cn
 +.jyhengyi.cn
 +.jzdwl4.cn
++.k2n0f.cn
 +.js.kalvinbg.cn
 +.smetrics.karcher.cn
 +.kekop.cn
@@ -1457,6 +1458,7 @@
 +.ai-polarisx.com
 +.ai-proinvest-polska.com
 +.aiclk.com
++.aifiversity.com
 +.atiws.aipai.com
 +.mlog.aipai.com
 +.metrics.airasia.com
@@ -1860,6 +1862,7 @@
 +.bigwww.com
 +.bihaipack.com
 +.dataflow.biliapi.com
++.tracker.chat.bilibili.com
 +.data.bilibili.com
 +.interface.bilibili.com
 +.miniapp.bilibili.com
@@ -1945,6 +1948,7 @@
 +.sgtm.dhgate.com.cdngtm.com
 +.httpdns.c.cdnhwc2.com
 +.httpdns1.cc.cdnhwc5.com
++.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 +.ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 +.syh-imp.cdnjtzy.com
 +.cdnmaster.com
@@ -2135,6 +2139,7 @@
 +.posthog.casinoplus.top.eo.dnse3.com
 +.stats-cdn.polyspeak.ai.cdn.dnsv1.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
++.ads-i1.xhscdn.com.cdn.dnsv1.com
 +.do-global.com
 +.dobra-aktywolnia-pl.com
 +.dobraaktywolnia-ai.com
@@ -2456,6 +2461,7 @@
 +.ads.heytapmobi.com
 +.api-cn.cdo.heytapmobi.com
 +.api-gl.cdo.heytapmobi.com
++.epoch-id.cdo.heytapmobi.com
 +.conf-cn.dc.heytapmobi.com
 +.conf-eu.dc.heytapmobi.com
 +.conf-in.dc.heytapmobi.com
@@ -2788,6 +2794,7 @@
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
 +.ad.open.api.jihuoniao.com
++.ad.report.jihuoniao.com
 +.jikewan.com
 +.wuliao.jingyanben.com
 +.jm3uvitq0.com
@@ -2818,6 +2825,7 @@
 +.kb894lngt.com
 +.kf4kwomxhl.com
 +.p1-play.kgslb.com
++.telemetry-logs.kimi.com
 +.up.wps.kingsoft.com
 +.abroad-ad.kingsoft-office-service.com
 +.cloudservice14.kingsoft-office-service.com
@@ -3113,6 +3121,7 @@
 +.ggx03.miguvideo.com
 +.ggxwb.miguvideo.com
 +.v.miguvideo.com
++.abtest-api-data.mihoyo.com
 +.ad-log-upload.mihoyo.com
 +.apm-api.mihoyo.com
 +.apm-log-upload.mihoyo.com
@@ -3644,10 +3653,12 @@
 +.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
++.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
++.v95-aw-reading-ad.qznovelvod.com
 +.v95-se-zjwztc-reading-ad.qznovelvod.com
 +.v95-zjjx2tc-reading-ad.qznovelvod.com
 +.v96-reading-ad.qznovelvod.com
@@ -3747,6 +3758,7 @@
 +.data.ajo-stage.srv.smart.com
 +.form-submission-workspace.ajo-stage.srv.smart.com
 +.smucdn.com
++.ad.snappea.com
 +.sensors.snappea.com
 +.abtest-ch.snssdk.com
 +.applog.snssdk.com
@@ -3874,6 +3886,7 @@
 +.p.tanx.com
 +.rdstat.tanx.com
 +.ae-alimelog.taobao.com
++.alimelog.taobao.com
 +.audid-api.taobao.com
 +.audid-api-sg.taobao.com
 +.baichuan-sdk.taobao.com
@@ -4170,6 +4183,7 @@
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-domaincfg.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
 +.co-timesync.vivoglobal.com
@@ -4223,6 +4237,7 @@
 +.in-vpushonrt-stsdk.vivoglobal.com
 +.in-vpushort-stsdk.vivoglobal.com
 +.kz-onrt-stsdk.vivoglobal.com
++.kz-ort-stsdk.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.mx-cota.vivoglobal.com
 +.mx-domaincfg.vivoglobal.com
@@ -4397,6 +4412,8 @@
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
++.ads-splash-i1.xhscdn.com
++.ads-splash-i2.xhscdn.com
 +.ads-video-al.xhscdn.com
 +.ads-video-qc.xhscdn.com
 +.ads-vp5.xhscdn.com
@@ -4563,6 +4580,7 @@
 +.yijifen.com
 +.yijirecovery.com
 +.data-track.yingxiong.com
++.data-track-global.yingxiong.com
 +.yingyankantu.com
 +.analytics.yinxiang.com
 +.yiqifa.com
