@@ -51,7 +51,6 @@
 +.1wkg.cn
 +.2144.cn
 +.2345.cn
-+.24klm.cn
 +.2607.cn
 +.2pogg4c.cn
 +.ad.3.cn
@@ -183,8 +182,8 @@
 +.c4d4.cn
 +.smetrics.calvinklein.cn
 +.camelee.cn
-+.telemetry.canva.cn
 +.casee.cn
++.mtrace.ysp.cctv.cn
 +.ad.cdnjm.cn
 +.cdnmaster.cn
 +.adimg.ce.cn
@@ -260,7 +259,6 @@
 +.datamaster.com.cn
 +.jc1.dayfund.com.cn
 +.dgrj.com.cn
-+.track.sohu.com.dsa.dnsv1.com.cn
 +.ads.doit.com.cn
 +.ename.com.cn
 +.count.enet.com.cn
@@ -291,6 +289,7 @@
 +.iy.com.cn
 +.cookies.joneslanglasalle.com.cn
 +.email-ap.joneslanglasalle.com.cn
++.log.jtexpress.com.cn
 +.ad.jxnews.com.cn
 +.elq.keysight.com.cn
 +.sandbox-elq.keysight.com.cn
@@ -529,9 +528,11 @@
 +.pdns.nudt.edu.cn
 +.ns2.xidian.edu.cn
 +.eexlgyn.cn
++.efxh.cn
 +.metrics.egencia.cn
 +.eheb8.cn
 +.ekdky.cn
++.ekzf.cn
 +.trk.elmorietschle.cn
 +.eoyqzzk.cn
 +.m.ercos.cn
@@ -633,6 +634,7 @@
 +.metrics.ilovematlab.cn
 +.smetrics.ilovematlab.cn
 +.immob.cn
++.pyk.in-neo.cn
 +.link.infineon.cn
 +.inmobi.cn
 +.inmobicdn.cn
@@ -704,6 +706,7 @@
 +.lop.lamimi.cn
 +.un1.lawyernet.cn
 +.lbprjdi.cn
++.lgygy.cn
 +.lhippac.cn
 +.track.libii.cn
 +.lichunxiao.cn
@@ -761,6 +764,7 @@
 +.mxevdii.cn
 +.myhug.cn
 +.dl.natgo.cn
++.cart.net.cn
 +.fanzhuang.net.cn
 +.t.home.news.cn
 +.nfvj.cn
@@ -816,6 +820,7 @@
 +.ptmabek.cn
 +.pzkrgcp.cn
 +.qawxpzm.cn
++.log.qcast.cn
 +.qchannel04.cn
 +.news.qcyz.cn
 +.qdlzj.cn
@@ -980,7 +985,6 @@
 +.sstats.thermoscientific.cn
 +.thinkingdata.cn
 +.trail.thomsonreuters.cn
-+.ad.thsi.cn
 +.fz.tiansys.cn
 +.smetrics.tiffany.cn
 +.tikz.cn
@@ -1027,6 +1031,7 @@
 +.adashx.ut.uc.cn
 +.h-adashx.ut.uc.cn
 +.s-adashx.ut.uc.cn
++.wmedia-track.uc.cn
 +.woodpecker.uc.cn
 +.m.uczzd.cn
 +.udeztrb.cn
@@ -1119,6 +1124,7 @@
 +.xpcwrgy.cn
 +.www.xpdyqax.cn
 +.xryrylt.cn
++.xtjpdfr.cn
 +.xueaaaw.cn
 +.prd-collect-llm.xverse.cn
 +.xyizgh.cn
@@ -1322,6 +1328,7 @@
 +.51mitu.com
 +.51taifu.com
 +.ad.51wnl.com
++.ad.51wnl-cq.com
 +.r.51wnl-cq.com
 +.51yes.com
 +.game.51yund.com
@@ -1844,7 +1851,6 @@
 +.sofire.bdstatic.com
 +.su.bdstatic.com
 +.zz.bdstatic.com
-+.ads-i3.xhscdn.com.a.bdydns.com
 +.smetrics.beatsbydre.com
 +.belkakapitura-ai.com
 +.bervonik-ai.com
@@ -1998,13 +2004,6 @@
 +.www.claiks.com
 +.cloooud.com
 +.bkt.clouddn.com
-+.7u2gej.com1.z0.glb.clouddn.com
-+.7u2ss1.com1.z0.glb.clouddn.com
-+.7vzmoi.com1.z0.glb.clouddn.com
-+.7xi9g1.com1.z0.glb.clouddn.com
-+.7xjob4.com1.z0.glb.clouddn.com
-+.7xo4q8.com1.z0.glb.clouddn.com
-+.7xsqvb.com1.z0.glb.clouddn.com
 +.log.cmbchina.com
 +.lcf.cmplay.cmcm.com
 +.cmgadx.com
@@ -2047,11 +2046,14 @@
 +.wslog-global-dual.coolacloud.com
 +.detaillog-global-dual.coolbcloud.com
 +.logreport-global-dual.coolbcloud.com
++.detaillog-global.coolccloud.com
 +.detaillog-global-dual.coolccloud.com
 +.logreport-global-dual.coolccloud.com
++.weblogger-wss.coolccloud.com
 +.wslog-global-dual.coolccloud.com
 +.detaillog-global-dual.coolgcloud.com
 +.logreport-global-dual.coolgcloud.com
++.weblogger-wss.coolgcloud.com
 +.detaillog-global-dual.coolhcloud.com
 +.logreport-global-dual.coolhcloud.com
 +.coolkaba.com
@@ -2092,7 +2094,6 @@
 +.dashet.com
 +.gate.datacaciques.com
 +.pv.datacaciques.com
-+.matomo.datasanalytics.com
 +.images.dayoo.com
 +.dazhantai.com
 +.db8b41ie5.com
@@ -2276,6 +2277,7 @@
 +.pub.funshion.com
 +.pv.funshion.com
 +.stat.funshion.com
++.vs.funshion.com
 +.down.fwqlt.com
 +.ad.fx168api.com
 +.fx455rrt4b.com
@@ -2486,6 +2488,7 @@
 +.obus-jssdk-cn.heytapmobi.com
 +.album-sg01a.ocloud.heytapmobi.com
 +.httpdns.ocloud.heytapmobi.com
++.i-cn01a.ocloud.heytapmobi.com
 +.i-sg01a.ocloud.heytapmobi.com
 +.omes-sec.heytapmobi.com
 +.oversea-nebula-in.heytapmobi.com
@@ -2534,6 +2537,7 @@
 +.api-launcher-na.hismarttv.com
 +.auth-em.hismarttv.com
 +.auth-eu.hismarttv.com
++.auth-jp.hismarttv.com
 +.auth-launcher-em.hismarttv.com
 +.auth-launcher-eu.hismarttv.com
 +.auth-launcher-jp.hismarttv.com
@@ -2541,6 +2545,7 @@
 +.auth-launcher-sa.hismarttv.com
 +.auth-na.hismarttv.com
 +.auth-phone-afr.hismarttv.com
++.auth-phone-ap.hismarttv.com
 +.auth-sa.hismarttv.com
 +.cdn-plugin-sync-upgrade-juui.hismarttv.com
 +.msg-na.hismarttv.com
@@ -3717,6 +3722,7 @@
 +.dwtracking.sdo.com
 +.reportsk.web.sdo.com
 +.analytics.apps.seabroadnet.com
++.trace.seeyouyima.com
 +.sellfox.com
 +.senbiaojita.com
 +.ads.servebom.com
@@ -3770,6 +3776,7 @@
 +.ib.snssdk.com
 +.log.snssdk.com
 +.log-hl.snssdk.com
++.log-lf.snssdk.com
 +.log-lq.snssdk.com
 +.mcs.snssdk.com
 +.mon.snssdk.com
@@ -3958,6 +3965,7 @@
 +.tdlop7tsme.com
 +.log.tec73.com
 +.tecunonline.com
++.data.tempersyi.com
 +.beacon.tencent.com
 +.android.bugly.tencent.com
 +.ios.bugly.tencent.com
@@ -4139,6 +4147,7 @@
 +.ws-p2p-pull.video-voip.com
 +.vigyn4gpx.com
 +.n-st.vip.com
++.in.vipliangmei.com
 +.tr.email.virtual-expo.com
 +.bhwkju.vivo.com
 +.alliance-adreq-asia.vivoglobal.com
@@ -4190,11 +4199,14 @@
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.eu-album-api.vivoglobal.com
++.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
 +.eu-ort-stsdk.vivoglobal.com
 +.eu-p.vivoglobal.com
++.eu-pnrt-stsdk.vivoglobal.com
 +.eu-romsp-unifyconfig.vivoglobal.com
 +.eu-st-sl.vivoglobal.com
 +.eu-stsdk.vivoglobal.com
@@ -4379,7 +4391,6 @@
 +.statics.woozooo.com
 +.stats.wp.com
 +.api-ad-adapter.wps.com
-+.api-ad-adapter-mb.wps.com
 +.abroadad.cache.wpscdn.com
 +.wrating.com
 +.ad.12306.cn.wscdns.com
@@ -4400,7 +4411,6 @@
 +.xbtw.com
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
-+.analytics.xdiarys.com
 +.xdrig.com
 +.xegnfwkju.com
 +.xhcdn.com
@@ -4465,6 +4475,7 @@
 +.in-miuilog.sms.intl.xiaomi.com
 +.a.market.xiaomi.com
 +.xadx.file.market.xiaomi.com
++.t17.market.xiaomi.com
 +.video.market.xiaomi.com
 +.wtradv.market.xiaomi.com
 +.resolver.mi.xiaomi.com
@@ -4478,6 +4489,7 @@
 +.dvb.pandora.xiaomi.com
 +.milink.pandora.xiaomi.com
 +.misc.pandora.xiaomi.com
++.ottl7-l2.pandora.xiaomi.com
 +.redirect.pandora.xiaomi.com
 +.stat.pandora.xiaomi.com
 +.preload.xiaomi.com
@@ -4646,6 +4658,7 @@
 +.youxiaoad.com
 +.tj.youzanyun.com
 +.wenxue.youzhicn.com
++.ad-material.ys7.com
 +.log.ys7.com
 +.ysjwj.com
 +.ytelc.com
@@ -5142,7 +5155,6 @@
 +.ns1.vicp.net
 +.ns2.vicp.net
 +.mini-prog-drm.vodplayvideo.net
-+.wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 +.perfsight.wetest.net
 +.xianshangzixun.net
 +.sentry.d.xiaomi.net
@@ -5272,6 +5284,7 @@
 +.policy.video.ptqy.gitv.tv
 +.sdk-cache.video.ptqy.gitv.tv
 +.time.video.ptqy.gitv.tv
++.openapi.vip.ptqy.gitv.tv
 +.adlink-api.huan.tv
 +.ads.huan.tv
 +.log.appstore3.huan.tv
