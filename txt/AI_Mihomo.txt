@@ -93,6 +93,7 @@
 +.dify.ai
 +.dola.com
 +.drcantik.eu.org
++.dreamgen.com
 +.duck.ai
 +.edgeservices.bing.com
 +.elevenlabs.com
@@ -164,6 +165,7 @@
 +.jules.google
 +.jules.google.com
 +.keeflys.com
++.kimi.ai
 +.kiro.dev
 +.labs.google
 +.labs.google.com
@@ -184,6 +186,7 @@
 +.midjourney.com
 +.minimax.io
 +.mistral.ai
++.moonshot.ai
 +.mozilla.ai
 +.myoctocat.com
 +.notebook.google
@@ -192,6 +195,8 @@
 +.notebooklm.google
 +.notebooklm.google.com
 +.notebooklm.googleapis.com
++.notegpt.io
++.novelai.net
 +.npm.community
 +.npmjs.com
 +.npmjs.org
@@ -266,6 +271,7 @@
 +.stitch.withgoogle.com
 +.stripe.com
 +.sydney.bing.com
++.talkai.info
 +.tapnow.ai
 +.thegithubshop.com
 +.themeforest.net
