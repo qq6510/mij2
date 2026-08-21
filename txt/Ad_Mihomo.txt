@@ -70,7 +70,9 @@
 +.papi.look.360.cn
 +.stat.m.360.cn
 +.openbox.mobilem.360.cn
-+.s.360.cn
++.eul.s.360.cn
++.g.s.360.cn
++.p.s.360.cn
 +.c.sayhi.360.cn
 +.stat.sd.360.cn
 +.pub.se.360.cn
@@ -400,6 +402,7 @@
 +.tracking-adnet.vivo.com.cn
 +.vcardsdkservice.vivo.com.cn
 +.w8.com.cn
++.analytics.med.wanfangdata.com.cn
 +.medad.med.wanfangdata.com.cn
 +.analyse.weather.com.cn
 +.ctc.weather.com.cn
@@ -653,6 +656,7 @@
 +.cane.intel.cn
 +.dogo.intel.cn
 +.intely.cn
++.ads.inteyun.cn
 +.ioiksw.cn
 +.iplogger.cn
 +.a1.itc.cn
@@ -999,6 +1003,7 @@
 +.telecome.cn
 +.tengfeidn.cn
 +.tepusi888.cn
++.teue.cn
 +.th7.cn
 +.adpai.thepaper.cn
 +.somni.mapac.thermofisher.cn
@@ -1229,7 +1234,6 @@
 +.ad.10010.com
 +.smartad.10010.com
 +.1.1010pic.com
-+.soft.110route.com
 +.1.11467.com
 +.114la.com
 +.bdwmhz.120askimages.com
@@ -1278,6 +1282,7 @@
 +.match.p4p.1688.com
 +.cvda.17173.com
 +.log1.17173.com
++.scollect.17173.com
 +.stat.v.17173.com
 +.vda.17173.com
 +.s.17173cdn.com
@@ -1490,7 +1495,6 @@
 +.af1tsjdta.com
 +.app.aflink.com
 +.ai-fiversity.com
-+.ai-nexork.com
 +.ai-polarisx.com
 +.ai-proinvest-polska.com
 +.aiclk.com
@@ -1915,7 +1919,6 @@
 +.vstat.borderlessbd.com
 +.noyvyv.bosonshop.com
 +.bpuvuun0xg.com
-+.bravikzen-ai.com
 +.bruvanek-pl.com
 +.s.btime.com
 +.btyou.com
@@ -2154,6 +2157,7 @@
 +.dianru.com
 +.bea-s.dinghuoche.com
 +.resolver.dingtalk.com
++.stdown.dinju.com
 +.dipan.com
 +.tr.email.directindustry.com
 +.img16.diyifanwen.com
@@ -2170,7 +2174,6 @@
 +.do-global.com
 +.dobra-aktywolnia-pl.com
 +.dobraaktywolnia-ai.com
-+.stat.doc88.com
 +.zx.docin.com
 +.dolphinpaper.com
 +.ap.dongdianqiu.com
@@ -2178,6 +2181,7 @@
 +.sensors-log.dongqiudi.com
 +.stat.dongqiudi.com
 +.cloudcdn.dopa.com
++.www.dopa.com
 +.doubleclick.com
 +.abc.douguo.com
 +.kpshx.douguo.com
@@ -2469,7 +2473,6 @@
 +.hapying.com
 +.hashnest.com
 +.img1.hblds.com
-+.heavly1.com
 +.heheshield.com
 +.heima8.com
 +.fingerprint-upload.hellobike.com
@@ -2609,7 +2612,7 @@
 +.ecommhpi.ext.hp.com
 +.met2.hp.com
 +.support.hqts.com
-+.hseda.com
++.www.hseda.com
 +.hsych.com
 +.www.huabian.com
 +.app-analytics-ru.huami.com
@@ -2818,6 +2821,8 @@
 +.v3.jiathis.com
 +.api.jietuhb.com
 +.target.ads.jihuoniao.com
++.ad.open.api.jihuoniao.com
++.ad.report.jihuoniao.com
 +.jikewan.com
 +.wuliao.jingyanben.com
 +.jm3uvitq0.com
@@ -3352,6 +3357,7 @@
 +.at-af.outfit7.com
 +.bidder.dsp.outfit7.com
 +.hb-af-us-central1.outfit7.com
++.ouyaoxiazai.com
 +.oyz61nhz8.com
 +.p0yixb3wfv.com
 +.p2cdn.com
@@ -3921,6 +3927,7 @@
 +.adashbc.m.taobao.com
 +.adashx.m.taobao.com
 +.adashx4yt.m.taobao.com
++.agoodm.m.taobao.com
 +.ai.m.taobao.com
 +.amdc.m.taobao.com
 +.amdcopen.m.taobao.com
@@ -4031,6 +4038,7 @@
 +.ato.tooopen.com
 +.toponad.com
 +.topsem.com
++.static.topxgun.com
 +.touch-moblie.com
 +.touclick.com
 +.toushibao.com
@@ -4203,6 +4211,7 @@
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
++.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
@@ -4287,6 +4296,7 @@
 +.sg-cfg-stsdk.vivoglobal.com
 +.stsdk.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
++.tr-err-up.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
 +.tr-p.vivoglobal.com
@@ -4457,9 +4467,8 @@
 +.api.d.xiaomi.com
 +.sdkconfig.ad.eu.xiaomi.com
 +.cdn.exp.xiaomi.com
++.data.game.xiaomi.com
 +.notice.game.xiaomi.com
-+.api.xmpush.global.xiaomi.com
-+.register.xmpush.global.xiaomi.com
 +.hybrid.xiaomi.com
 +.pi.ias.xiaomi.com
 +.data.mistat.india.xiaomi.com
@@ -4494,7 +4503,6 @@
 +.api.miui.security.xiaomi.com
 +.ssp.xiaomi.com
 +.p.www.xiaomi.com
-+.api.xmpush.xiaomi.com
 +.xiaoxiuapp.com
 +.log.us.xiaoyi.com
 +.xiaozhen.com
@@ -4834,13 +4842,12 @@
 +.05gdfi007-dpm2gawaoxpl.edgeone.dev
 +.098yjuio-dpwxvxwxcuwy.edgeone.dev
 +.alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
-+.awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev
-+.b48411138-0326-4a61-9b6e-51b0d590d944.edgeone.dev
-+.bottom-coral-l4ei8f1s.edgeone.dev
++.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 +.cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev
 +.combined-silver-0x5s9uu5.edgeone.dev
 +.copyright-claim-review-request-form.edgeone.dev
 +.copyright-policy-troubleshooting-request-form.edgeone.dev
++.d7522e2c-c5f7-4dc8-b83f-9f9dacd15c4d.edgeone.dev
 +.doc-fcms.edgeone.dev
 +.exotic-lime-olunrtbr.edgeone.dev
 +.ffsre-dpzou3ijaxzb.edgeone.dev
@@ -4850,15 +4857,14 @@
 +.khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 +.loginpages0000-dpf0869el7ik.edgeone.dev
 +.no2body7-dpyijatuyl2q.edgeone.dev
-+.pretty-white-ziekneey.edgeone.dev
 +.request-copyright-policy-review.edgeone.dev
 +.review-copyright-infringement-reports.edgeone.dev
 +.review-copyright-policy-violations.edgeone.dev
 +.srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 +.symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
 +.upgrade-dp2c1xqj8ejo.edgeone.dev
-+.w6r46g0hb-dpv3acpgp8ta.edgeone.dev
 +.well-aquamarine-psata8ej.edgeone.dev
++.xminesserversaqwq.edgeone.dev
 +.ytterbic-amber-qilwigl2.edgeone.dev
 +.dark-brook-fd40.astotgpqlekgiky.workers.dev
 +.static-cloudflare.workers.dev
@@ -4874,7 +4880,6 @@
 +.kivo.fun
 +.mediation.goog
 +.sdk.yolanda.hk
-+.gymsports.homes
 +.jmacs-m.lazada.co.id
 +.msgacs-m.lazada.co.id
 +.log-api.cli.im
@@ -5039,7 +5044,6 @@
 +.stat.funshion.net
 +.getui.net
 +.stats.gioneemobile.net
-+.glurvextopin-ai.net
 +.glwxw.net
 +.gtags.net
 +.odd-onead.cdn.hinet.net
@@ -5078,7 +5082,6 @@
 +.mobilephonelocator.net
 +.fp.nanrenwo.net
 +.ggdm1.nhaidu.net
-+.novacapital-ai.net
 +.nurtowinpl.net
 +.promotionad.nvcam.net
 +.offerstrack.net
@@ -5117,7 +5120,6 @@
 +.hub5pn.wap.sandai.net
 +.etl.xlmc.sandai.net
 +.dm.sanwen.net
-+.sila-finoblia-pl.net
 +.s3.pfp.sina.net
 +.1.sj33.net
 +.ad.smaato.net
@@ -5167,7 +5169,6 @@
 +.daima.yggk.net
 +.youmi.net
 +.123.ywxww.net
-+.zeltix-ai.net
 +.zgisp.net
 +.saad.ms.zhangyue.net
 +.smad.ms.zhangyue.net
@@ -5208,6 +5209,7 @@
 +.ifs.lazada.sg
 +.jmacs-m.lazada.sg
 +.msgacs-m.lazada.sg
++.66mh.shop
 +.centralhomeoffers.shop
 +.dailyvalueoffers.shop
 +.fighter-shop.shop
