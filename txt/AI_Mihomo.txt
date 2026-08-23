@@ -19,8 +19,6 @@
 +.antigravity.google
 +.antigravity.googleapis.com
 +.anythingllm.com
-+.api.microsoftapp.net
-+.api.msn.com
 +.api.statsig.com
 +.api.together.xyz
 +.apple-relay.apple.com
@@ -29,9 +27,7 @@
 +.apple-relay.mask.apple-dns.net
 +.apps.mzstatic.com
 +.appsdowonders.com
-+.arc.msn.com
 +.arena.ai
-+.assets.msn.com
 +.atom.io
 +.auth0.com
 +.bard.google.com
@@ -50,7 +46,6 @@
 +.ciciai.com
 +.ciciaicdn.com
 +.cjy.me
-+.clarity.ms
 +.clau.de
 +.claude.ai
 +.claude.com
@@ -163,7 +158,6 @@
 +.huggingface.co
 +.identrust.com
 +.imagine.meta.com
-+.in.appcenter.ms
 +.intercom.io
 +.intercomcdn.com
 +.jasper.ai
@@ -180,7 +174,6 @@
 +.livekit.cloud
 +.liveperson.net
 +.lmstudio.ai
-+.location.microsoft.com
 +.login.live.com
 +.login.microsoft.com
 +.login.microsoftonline.com
@@ -273,7 +266,6 @@
 +.repo.new
 +.robinfrontend-pa.googleapis.com
 +.segment.io
-+.self.events.data.microsoft.com
 +.sentry.io
 +.servd-anthropic-website.b-cdn.net
 +.sharepointonline.com
@@ -282,7 +274,6 @@
 +.sora.com
 +.spicywriter.com
 +.static.cloudflareinsights.com
-+.static.microsoft
 +.stitch.withgoogle.com
 +.stripe.com
 +.sts.windows.net
@@ -292,7 +283,6 @@
 +.themeforest.net
 +.trae.ai
 +.tripo3d.ai
-+.usercontent.microsoft
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.windsurf.build
 +.windsurf.com
