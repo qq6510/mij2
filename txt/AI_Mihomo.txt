@@ -69,6 +69,7 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.config.edge.skype.com
 +.copilot-stg.com
 +.copilot.com
 +.copilot.microsoft.com
@@ -109,6 +110,7 @@
 +.gateway.bingviz.microsoft.net
 +.gateway.bingviz.microsoftapp.net
 +.gateway.icloud.com
++.gateway.prod.island.powerapps.com
 +.geller-pa.googleapis.com
 +.gemini.google
 +.gemini.google.com
@@ -143,6 +145,7 @@
 +.githubsupport.com
 +.githubuniverse.com
 +.githubusercontent.com
++.graph.microsoft.com
 +.grazie.ai
 +.grazie.aws.intellij.net
 +.grok.com
@@ -176,8 +179,12 @@
 +.lmstudio.ai
 +.location.microsoft.com
 +.login.live.com
++.login.microsoft.com
++.login.microsoftonline.com
++.login.windows.net
 +.lovart.ai
 +.lpsnmedia.net
++.m365.cloud.microsoft.com
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
