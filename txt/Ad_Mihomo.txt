@@ -744,7 +744,6 @@
 +.webstat.kuwo.cn
 +.kuxkddg.cn
 +.kwdgudw.cn
-+.kychq.cn
 +.kzchyhr.cn
 +.go.eml.l-com.cn
 +.data.adobe.l-god.cn
@@ -1476,7 +1475,6 @@
 +.a2pfs5k90i.com
 +.a4xvv2g18l.com
 +.a5wlr2yplf.com
-+.aai07280mu.com
 +.aapz.com
 +.jscode.acg68.com
 +.ad-scope.com
@@ -1721,12 +1719,6 @@
 +.t.atpanel.com
 +.ad.api.attribuly.com
 +.tr.attribuly.com
-+.auy07170km.com
-+.auy07180km.com
-+.auy07190km.com
-+.auy07200km.com
-+.auy07201km.com
-+.auy07211km.com
 +.ixav-cse.avlyun.com
 +.log.avlyun.com
 +.miav-cse.avlyun.com
@@ -1821,6 +1813,7 @@
 +.miao.baidu.com
 +.miaowu.baidu.com
 +.mime.baidu.com
++.mo.baidu.com
 +.mobads.baidu.com
 +.mobads-logs.baidu.com
 +.plugin.mobopay.baidu.com
@@ -1929,6 +1922,7 @@
 +.bigwww.com
 +.bihaipack.com
 +.dataflow.biliapi.com
++.tracker.chat.bilibili.com
 +.data.bilibili.com
 +.interface.bilibili.com
 +.miniapp.bilibili.com
@@ -2012,6 +2006,7 @@
 +.sgtm.dhgate.com.cdngtm.com
 +.httpdns.c.cdnhwc2.com
 +.httpdns1.cc.cdnhwc5.com
++.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 +.syh-imp.cdnjtzy.com
 +.cdnmaster.com
 +.beacon.cdnpure.com
@@ -2389,7 +2384,6 @@
 +.ulogvg.gifshow.com
 +.ulog.v6.gifshow.com
 +.zt.gifshow.com
-+.gio07250rp.com
 +.giocdn.com
 +.tracker.gitee.com
 +.50m.gkcyc.com
@@ -2722,6 +2716,7 @@
 +.piccdn.igetget.com
 +.seeder.igetget.com
 +.igexin.com
++.appadapi.ihuman.com
 +.ijinshan.com
 +.ilkwork.com
 +.imageter.com
@@ -2868,7 +2863,6 @@
 +.jusha.com
 +.1.jushtong.com
 +.jxdown.com
-+.jxdyk65ay.com
 +.jy135.com
 +.jygdb.com
 +.k69wes8q8.com
@@ -3042,6 +3036,7 @@
 +.images.smbdirect.lenovo.com
 +.app.update.lenovo.com
 +.fsr.lenovomm.com
++.prw.lenovomm.com
 +.pushapi.lenovomm.com
 +.susapi.lenovomm.com
 +.uss-pid.lenovomm.com
@@ -3344,8 +3339,6 @@
 +.web.novogene.com
 +.a.nowscore.com
 +.z.nowscore.com
-+.nug08010lu.com
-+.nug08011lu.com
 +.nug08030lu.com
 +.nug08031lu.com
 +.c.nuhcpf.com
@@ -3426,7 +3419,6 @@
 +.perkozwartelinai.com
 +.pglstatp-toutiao.com
 +.phr3qfcmb.com
-+.pimormebwf.com
 +.adim.pinduoduo.com
 +.dspsdk.pinduoduo.com
 +.images.pinduoduo.com
@@ -3711,6 +3703,7 @@
 +.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
++.v5-se-bjtc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
@@ -3964,6 +3957,7 @@
 +.adashbc.m.taobao.com
 +.adashx.m.taobao.com
 +.adashx4yt.m.taobao.com
++.agoodm.m.taobao.com
 +.ai.m.taobao.com
 +.amdc.m.taobao.com
 +.amdcopen.m.taobao.com
@@ -4018,6 +4012,7 @@
 +.tdlop7tsme.com
 +.log.tec73.com
 +.tecunonline.com
++.beacon.tencent.com
 +.android.bugly.tencent.com
 +.ios.bugly.tencent.com
 +.sensors.cloud.tencent.com
@@ -4328,6 +4323,7 @@
 +.ru-err-up.vivoglobal.com
 +.ru-exstsdk.vivoglobal.com
 +.ru-onrt-stsdk.vivoglobal.com
++.ru-os-config-appstore.vivoglobal.com
 +.ru-p.vivoglobal.com
 +.ru-romsp-unifyconfig.vivoglobal.com
 +.ru-st-exappupgrade.vivoglobal.com
@@ -4340,6 +4336,7 @@
 +.sg-cfg-stsdk.vivoglobal.com
 +.stsdk.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
++.tr-err-up.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
 +.tr-p.vivoglobal.com
@@ -4382,7 +4379,6 @@
 +.bu1.vvvdj.com
 +.vwe5pjt0jq.com
 +.vx2tbw9xin.com
-+.w3cfba6ufr.com
 +.w97nv5ibv4.com
 +.mlog.wangsu.com
 +.analytics.wanmei.com
@@ -4463,7 +4459,6 @@
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
 +.analytics.xdiarys.com
-+.analytics2.xdiarys.com
 +.xdrig.com
 +.xegnfwkju.com
 +.xhcdn.com
@@ -4476,7 +4471,6 @@
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
-+.ads-leona-s1.xhscdn.com
 +.ads-video-al.xhscdn.com
 +.ads-video-qc.xhscdn.com
 +.ads-vp5.xhscdn.com
@@ -4512,7 +4506,9 @@
 +.api.d.xiaomi.com
 +.sdkconfig.ad.eu.xiaomi.com
 +.cdn.exp.xiaomi.com
++.data.game.xiaomi.com
 +.notice.game.xiaomi.com
++.api.hybrid.xiaomi.com
 +.pi.ias.xiaomi.com
 +.data.mistat.india.xiaomi.com
 +.sys.tv.india.xiaomi.com
@@ -4900,6 +4896,7 @@
 +.khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 +.loginpages0000-dpf0869el7ik.edgeone.dev
 +.no2body7-dpyijatuyl2q.edgeone.dev
++.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 +.request-copyright-policy-review.edgeone.dev
 +.review-copyright-infringement-reports.edgeone.dev
 +.review-copyright-policy-violations.edgeone.dev
