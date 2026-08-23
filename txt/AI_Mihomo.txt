@@ -277,6 +277,7 @@
 +.static.cloudflareinsights.com
 +.stitch.withgoogle.com
 +.stripe.com
++.substrate.office.com
 +.sydney.bing.com
 +.talkai.info
 +.tapnow.ai
