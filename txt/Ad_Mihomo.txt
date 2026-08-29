@@ -8,6 +8,7 @@
 +.api-event.falconnet.app
 +.misc.api.snaptube.app
 +.sensors.snaptube.app
++.aabokllq.vercel.app
 +.grs.dbankcloud.asia
 +.optimix.asia
 +.kbkb.bet
@@ -523,6 +524,7 @@
 +.metrics-dre.dt.dbankcloud.cn
 +.metrics1-drcn.dt.dbankcloud.cn
 +.grs.dbankcloud.cn
++.connect-drru.hispace.dbankcloud.cn
 +.recommend-drcn.hms.dbankcloud.cn
 +.logservice.dbankcloud.cn
 +.logservice1.dbankcloud.cn
@@ -531,6 +533,7 @@
 +.events-drcn.op.dbankcloud.cn
 +.dnkeeper.platform.dbankcloud.cn
 +.dtm-dre.platform.dbankcloud.cn
++.grs-iot.platform.dbankcloud.cn
 +.grs-pub.platform.dbankcloud.cn
 +.httpdns.platform.dbankcloud.cn
 +.httpdns-browser.platform.dbankcloud.cn
@@ -697,6 +700,7 @@
 +.resu8.hjfile.cn
 +.hjgen.cn
 +.hkkeafj.cn
++.file-whatsappn.hl.cn
 +.metrics.hollisterco.cn
 +.smetrics.hollisterco.cn
 +.om.hotels.cn
@@ -1447,7 +1451,6 @@
 +.scdata.51job.com
 +.51taifu.com
 +.ad.51wnl.com
-+.ad.51wnl-cq.com
 +.r.51wnl-cq.com
 +.51yes.com
 +.game.51yund.com
@@ -1695,6 +1698,7 @@
 +.cdn-ads.oss-cn-shanghai.aliyuncs.com
 +.first-hufu.oss-cn-shanghai.aliyuncs.com
 +.free-cdn.oss-cn-shanghai.aliyuncs.com
++.o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 +.sz88.oss-cn-shenzhen.aliyuncs.com
 +.shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 +.ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -1972,6 +1976,7 @@
 +.global-staticplat.cdn.bcebos.com
 +.mobads-pre-config.cdn.bcebos.com
 +.httpdns.bcelive.com
++.ad.bczcdn.com
 +.ecma.bdimg.com
 +.ecmb.bdimg.com
 +.ecmc.bdimg.com
@@ -2081,6 +2086,7 @@
 +.api-access.pangolin-sdk-toutiao-b.com.w.cdngslb.com
 +.api-access.pangolin-sdk-toutiao1.com.w.cdngslb.com
 +.ads-img-al.xhscdn.com.w.cdngslb.com
++.ads-video-al.xhscdn.com.w.cdngslb.com
 +.ads3-normal-hl.zijieapi.com.w.cdngslb.com
 +.ads3-normal-lf.zijieapi.com.w.cdngslb.com
 +.ads3-normal-lq.zijieapi.com.w.cdngslb.com
@@ -2138,7 +2144,6 @@
 +.www.claiks.com
 +.cloooud.com
 +.bkt.clouddn.com
-+.7xi9g1.com1.z0.glb.clouddn.com
 +.log.cmbchina.com
 +.lcf.cmplay.cmcm.com
 +.dubapkg.cmcmcdn.com
@@ -2754,7 +2759,6 @@
 +.hly.com
 +.hnltcw.com
 +.online.hnoexpo.com
-+.log.homestyler.com
 +.ads.honor.com
 +.wxmini-log.hortorgames.com
 +.ad.house365.com
@@ -2821,6 +2825,7 @@
 +.udblog.huya.com
 +.va.huya.com
 +.l.web.huya.com
++.stat.wup.huya.com
 +.ylog.huya.com
 +.trackingprd.hwwt8.com
 +.xuexi.hydcd.com
@@ -2867,6 +2872,7 @@
 +.seeder.igetget.com
 +.igexin.com
 +.ijinshan.com
++.static.ilclock.com
 +.ilkwork.com
 +.imageter.com
 +.img001.com
@@ -3172,7 +3178,6 @@
 +.storeen.ldmnq.com
 +.rainbow-prod-jdlog.ldoverseas.com
 +.ldspdf.com
-+.ld-analytics.ldycdn.com
 +.banana.le.com
 +.cherry.le.com
 +.stat.le.com
@@ -3306,7 +3311,6 @@
 +.tongji-res1.meizu.com
 +.uxip.meizu.com
 +.metaversemolecule.com
-+.mgs123.com
 +.da.mgtv.com
 +.ott-v0-al.data.mgtv.com
 +.ott.v1.data.mgtv.com
@@ -3935,6 +3939,7 @@
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
++.v95-aw-reading-ad.qznovelvod.com
 +.v95-se-zjwztc-reading-ad.qznovelvod.com
 +.v95-zjjx2tc-reading-ad.qznovelvod.com
 +.v96-reading-ad.qznovelvod.com
@@ -4017,7 +4022,6 @@
 +.umini.shujupie.com
 +.ad.shunchangzhixing.com
 +.js.shunqi.com
-+.ads-monitoring.shziyi.com
 +.sigmob.com
 +.simicloud.com
 +.ads.sina.com
@@ -4140,6 +4144,7 @@
 +.stgowan.com
 +.autotrack.studyquicks.com
 +.stats.studyquicks.com
++.sentry-oversea.sunborngame.com
 +.ssac.suning.com
 +.sums.suning.com
 +.tad.suning.com
@@ -4713,7 +4718,6 @@
 +.xegnfwkju.com
 +.xhcdn.com
 +.ad-server.xhgamesdk.com
-+.ads-hera-s1.xhscdn.com
 +.ads-i1.xhscdn.com
 +.ads-i10.xhscdn.com
 +.ads-i2.xhscdn.com
@@ -4902,7 +4906,6 @@
 +.yhz18.com
 +.analytics.yicai.com
 +.applog.yiche.com
-+.d2.yiche.com
 +.log.ycapp.yiche.com
 +.mb.yidianzixun.com
 +.static-ssp.yidianzixun.com
@@ -5037,7 +5040,6 @@
 +.api-analytics-us.zepp.com
 +.api-analytics-us3.zepp.com
 +.clarity.zepp.com
-+.ssp.zf313.com
 +.yin1.zgpingshu.com
 +.ad.zhangyue.com
 +.push.zhangyue.com
@@ -5161,6 +5163,7 @@
 +.00bfd200-dpnb2uqcmx3g.edgeone.dev
 +.098yjuio-dpwxvxwxcuwy.edgeone.dev
 +.alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
++.arrogant-magenta-2yqmtzc8.edgeone.dev
 +.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 +.cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev
 +.combined-silver-0x5s9uu5.edgeone.dev
@@ -5180,6 +5183,7 @@
 +.mailwilling-dp9gqao71lzl.edgeone.dev
 +.musical-octo-robot-dptlf6z6tv2g.edgeone.dev
 +.no2body7-dpyijatuyl2q.edgeone.dev
++.ordinary-silver-rkbwyw06.edgeone.dev
 +.prior-jade-yjoyvniu.edgeone.dev
 +.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 +.request-copyright-policy-review.edgeone.dev
@@ -5283,7 +5287,6 @@
 +.pg-ad-b1.nosdn.127.net
 +.yt-adp.nosdn.127.net
 +.wanproxy.127.net
-+.ads.17track.net
 +.1rtb.net
 +.2mdn-cn.net
 +.samsung-com.112.2o7.net
@@ -5531,7 +5534,6 @@
 +.umdc.aliapp.org
 +.cdn.ynuf.aliapp.org
 +.pro.autojs.org
-+.www.digitalfiles.org
 +.statistical-report.djiservice.org
 +.ad.exyws.org
 +.gg86.pinggu.org
@@ -5559,6 +5561,7 @@
 +.jmacs-m.lazada.sg
 +.msgacs-m.lazada.sg
 +.66mh.shop
++.alicemolly.shop
 +.centralhomeoffers.shop
 +.dailyvalueoffers.shop
 +.fighter-shop.shop
