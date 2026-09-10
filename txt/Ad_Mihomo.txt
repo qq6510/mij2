@@ -24,6 +24,7 @@
 +.brc.languageclass.cc
 +.lkme.cc
 +.ny.lshdw.cc
++.pasco.cc
 +.log.popin.cc
 +.rlog.popin.cc
 +.ssur.cc
@@ -104,6 +105,7 @@
 +.union.360.cn
 +.wan.360.cn
 +.soft.data.weather.360.cn
++.wot.360.cn
 +.yasuo.360.cn
 +.www.360anquan.cn
 +.gostat.3g.cn
@@ -374,6 +376,7 @@
 +.qishui-vip.com.cn
 +.dns.weixin.qq.com.cn
 +.wxaintpcos.wxqcloud.qq.com.cn
++.down.qqfarmer.com.cn
 +.qufu.com.cn
 +.ad.rayli.com.cn
 +.news.reedexpo.com.cn
@@ -667,7 +670,6 @@
 +.googleadsserving.cn
 +.gostats.cn
 +.statistics.gd.gov.cn
-+.stat.shanghai.gov.cn
 +.stats.tj.gov.cn
 +.govkunming.cn
 +.gpxxbyf.cn
@@ -842,6 +844,7 @@
 +.miam4.cn
 +.app.log.nf.migu.cn
 +.uem.migu.cn
++.mixinnet.cn
 +.mkue.cn
 +.mlstx.cn
 +.mngjrn.cn
@@ -1088,7 +1091,6 @@
 +.tracking.tdk.cn
 +.teddymobile.cn
 +.telecome.cn
-+.tengfeidn.cn
 +.tepusi888.cn
 +.akamai-apigateway-gio-analytics.tesla.cn
 +.akamai-apigateway-sentry.tesla.cn
@@ -1757,6 +1759,7 @@
 +.app-analytics-services.com
 +.app-analytics-services-att.com
 +.app-measurement.com
++.app-measurement-cn.com
 +.mobile.appchina.com
 +.ads.apple.com
 +.advertising.apple.com
@@ -1839,6 +1842,8 @@
 +.dl-vip.bav.baidu.com
 +.dl2.bav.baidu.com
 +.download.bav.baidu.com
++.aisuda.bce.baidu.com
++.console.bce.baidu.com
 +.click.bes.baidu.com
 +.bes-mtj.baidu.com
 +.bgg.baidu.com
@@ -2065,6 +2070,7 @@
 +.p9-ad-sign.byteimg.com
 +.log.byteoversea.com
 +.s.c-ctrip.com
++.download.caihong.com
 +.gg.caixin.com
 +.ad.caiyunapp.com
 +.loacalhttpdns.caiyunapp.com
@@ -2287,8 +2293,6 @@
 +.d1.dhgate.com
 +.sentry.dhgate.com
 +.sgtm.dhgate.com
-+.diament-zyskura.com
-+.diamentzyskura-pl.com
 +.diannaodian.com
 +.catfront.dianping.com
 +.dianru.com
@@ -2314,7 +2318,6 @@
 +.posthog.casinoplus.top.eo.dnse3.com
 +.akamai-apigateway-gio-analytics.tesla.cn.eo.dnse4.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
-+.ads-i1.xhscdn.com.cdn.dnsv1.com
 +.do-global.com
 +.zx.docin.com
 +.dolphinpaper.com
@@ -2322,6 +2325,8 @@
 +.ap.dongqiudi.com
 +.sensors-log.dongqiudi.com
 +.stat.dongqiudi.com
++.cloudcdn.dopa.com
++.www.dopa.com
 +.push.douban.com
 +.log.doubao.com
 +.doubleclick.com
@@ -2392,8 +2397,6 @@
 +.tr.ekatox.com
 +.ekpsn3kja.com
 +.metrics.ellechina.com
-+.etapcorelix-ai.com
-+.etapcorelix-pl.com
 +.c.evidon.com
 +.ewrrpuquc1.com
 +.a.exam58.com
@@ -2558,6 +2561,7 @@
 +.goi08130kh.com
 +.goi08160kh.com
 +.gongxifc.com
++.cdn.file6.goodid.com
 +.adservice.google.com
 +.analytics.google.com
 +.ogads-pa.clients6.google.com
@@ -2882,6 +2886,7 @@
 +.seeder.igetget.com
 +.igexin.com
 +.ijinshan.com
++.static.ilclock.com
 +.imageter.com
 +.img001.com
 +.tj.img4399.com
@@ -3607,7 +3612,6 @@
 +.api-access.pangolin-sdk-toutiao4.com
 +.api-access.pangolin-sdk-toutiao5.com
 +.pangolinbutlerlounge.com
-+.ads-impression.papegames.com
 +.ads-monitoring.papegames.com
 +.analytics.partnerboost.com
 +.app.partnerboost.com
@@ -3636,7 +3640,6 @@
 +.log.pinterest.com
 +.widgets.pinterest.com
 +.bd1.pipaw.com
-+.pixnot.com
 +.pkoplink.com
 +.pl53l7tyw.com
 +.placidocn.com
@@ -3851,6 +3854,7 @@
 +.trace.qq.com
 +.xmaterial.tu.qq.com
 +.updatecenter.qq.com
++.safebrowsing.urlsec.qq.com
 +.uu.qq.com
 +.appcfg.v.qq.com
 +.commdata.v.qq.com
@@ -3938,9 +3942,7 @@
 +.v5-se-bjtc-reading-ad.qznovelvod.com
 +.v5-se-ex-mc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
-+.v5-se-jltc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
-+.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
 +.v95-aw-reading-ad.qznovelvod.com
@@ -4205,7 +4207,6 @@
 +.adashbc.m.taobao.com
 +.adashx.m.taobao.com
 +.adashx4yt.m.taobao.com
-+.agoodm.m.taobao.com
 +.ai.m.taobao.com
 +.amdc.m.taobao.com
 +.amdcopen.m.taobao.com
@@ -4504,7 +4505,6 @@
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
-+.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -4577,7 +4577,6 @@
 +.ru-err-up.vivoglobal.com
 +.ru-exstsdk.vivoglobal.com
 +.ru-onrt-stsdk.vivoglobal.com
-+.ru-os-config-appstore.vivoglobal.com
 +.ru-p.vivoglobal.com
 +.ru-romsp-unifyconfig.vivoglobal.com
 +.ru-st-exappupgrade.vivoglobal.com
@@ -4625,8 +4624,8 @@
 +.mssdk.volces.com
 +.tab.volces.com
 +.report.voovmeeting.com
++.www.vrbrothers.com
 +.n.vs108.com
-+.error.vsszan.com
 +.vungle.com
 +.bu1.vvvdj.com
 +.vwe5pjt0jq.com
@@ -4699,7 +4698,6 @@
 +.ad.12306.cn.wscdns.com
 +.analytics.95516.com.wscdns.com
 +.cdn-ad.wtzw.com
-+.cdn-new-ad.wtzw.com
 +.wukongtongji.com
 +.wumii.com
 +.vhs.wwstat.com
@@ -5030,7 +5028,6 @@
 +.zantainet.com
 +.zazhipu.com
 +.p3.zbjimg.com
-+.api-analytics.zepp.com
 +.api-analytics-cn3.zepp.com
 +.api-analytics-de.zepp.com
 +.api-analytics-us.zepp.com
@@ -5172,6 +5169,7 @@
 +.loginsecurde4-dpqom26teqv9.edgeone.dev
 +.mailwilling-dp9gqao71lzl.edgeone.dev
 +.musical-octo-robot-dptlf6z6tv2g.edgeone.dev
++.officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev
 +.ordinary-silver-rkbwyw06.edgeone.dev
 +.prior-jade-yjoyvniu.edgeone.dev
 +.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
@@ -5199,6 +5197,7 @@
 +.kivo.fun
 +.mediation.goog
 +.sdk.yolanda.hk
++.zakladybolslkzs.homes
 +.jmacs-m.lazada.co.id
 +.msgacs-m.lazada.co.id
 +.log-api.cli.im
@@ -5406,6 +5405,7 @@
 +.nurtowinpl.net
 +.promotionad.nvcam.net
 +.offerstrack.net
++.okhan.net
 +.sl-log.oray.net
 +.visit.oschina.net
 +.pagechoice.net
@@ -5444,6 +5444,7 @@
 +.silna-notownica.net
 +.s3.pfp.sina.net
 +.1.sj33.net
++.sjds.net
 +.ad.smaato.net
 +.bd1.sosg.net
 +.staticfile.net
@@ -5535,9 +5536,15 @@
 +.ifs.lazada.sg
 +.jmacs-m.lazada.sg
 +.msgacs-m.lazada.sg
++.4-fizjos.shop
++.4fiz-jo.shop
++.4fiz-jos.shop
 +.4fizjoslp.shop
++.4fizjosolp.shop
++.4fizjosport.shop
 +.66mh.shop
 +.alicemolly.shop
++.biedronka-outlet.shop
 +.centralhomeoffers.shop
 +.dailyvalueoffers.shop
 +.fighterfan.shop
@@ -5546,9 +5553,14 @@
 +.furniture-store.shop
 +.gardendomes.shop
 +.homebargainmarket.shop
++.homespl.shop
 +.imagiraffe.shop
++.neosportsklep.shop
++.noteonline-pt.shop
 +.ochvik.shop
 +.pl-fighter.shop
++.zaklady-ceramiczne.shop
++.zakladykspl.shop
 +.zakladyspl.shop
 +.app-posthog.bi-sage.site
 +.api.bytegle.site
@@ -5577,7 +5589,6 @@
 +.cupid.ptqy.gitv.tv
 +.doh.ptqy.gitv.tv
 +.msg.ptqy.gitv.tv
-+.ota.ptqy.gitv.tv
 +.puma-api.ptqy.gitv.tv
 +.sdk.ptqy.gitv.tv
 +.static.ptqy.gitv.tv
@@ -5604,6 +5615,7 @@
 +.adsc.wasu.tv
 +.yoyi.tv
 +.sensorsdata.glowapp.vip
++.phoenixe.vip
 +.jmacs-m.lazada.vn
 +.msgacs-m.lazada.vn
 +.log.tv360.vn
