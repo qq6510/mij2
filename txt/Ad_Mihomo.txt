@@ -796,7 +796,6 @@
 +.webstat.kuwo.cn
 +.kuxkddg.cn
 +.kwdgudw.cn
-+.log.kyread.cn
 +.kzchyhr.cn
 +.go.eml.l-com.cn
 +.data.adobe.l-god.cn
@@ -992,6 +991,7 @@
 +.smetrics.schindler.cn
 +.scjpqut.cn
 +.sckexing.cn
++.sckfcn.cn
 +.sd6hon.cn
 +.sdhuawen.cn
 +.sensorsdata.cn
@@ -1106,6 +1106,7 @@
 +.trk.thomas-pump.cn
 +.trail.thomsonreuters.cn
 +.ad.thsi.cn
++.fz.tiansys.cn
 +.smetrics.tiffany.cn
 +.tikz.cn
 +.tisszhb.cn
@@ -1255,6 +1256,7 @@
 +.xyyiyuan.cn
 +.y0764.cn
 +.yahekby.cn
++.yangshengzu.cn
 +.yatemy.cn
 +.ycsshb.cn
 +.ydgsvls.cn
@@ -1416,7 +1418,6 @@
 +.mclean.uk.cloud.360safe.com
 +.mvconf.uk.cloud.360safe.com
 +.kuaikan.netmon.360safe.com
-+.crash.pcsafe.360safe.com
 +.stat.360safe.com
 +.ini.update.360safe.com
 +.360shuke.com
@@ -1551,6 +1552,7 @@
 +.a2pfs5k90i.com
 +.a4xvv2g18l.com
 +.a5wlr2yplf.com
++.securemetrics-cn.v.aaplimg.com
 +.aapz.com
 +.jscode.acg68.com
 +.ad-scope.com
@@ -1635,7 +1637,9 @@
 +.mum.alibabachengdun.com
 +.images.info.alibabacloud.com
 +.beacon-api.aliyuncs.com.gds.alibabadns.com
++.cn-beijing-c.dualstack.log.usd.alibabadns.com
 +.cn-hangzhou-c.dualstack.log.usd.alibabadns.com
++.cn-qingdao.dualstack.log.usd.alibabadns.com
 +.afp.alicdn.com
 +.alimama.alicdn.com
 +.asearch.alicdn.com
@@ -1906,6 +1910,7 @@
 +.miao.baidu.com
 +.miaowu.baidu.com
 +.mime.baidu.com
++.mo.baidu.com
 +.mobads.baidu.com
 +.mobads-logs.baidu.com
 +.plugin.mobopay.baidu.com
@@ -2106,7 +2111,7 @@
 +.sgtm.dhgate.com.cdngtm.com
 +.httpdns.c.cdnhwc2.com
 +.httpdns1.cc.cdnhwc5.com
-+.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
++.ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 +.syh-imp.cdnjtzy.com
 +.cdnmaster.com
 +.beacon.cdnpure.com
@@ -2509,7 +2514,6 @@
 +.gepush.com
 +.getui.com
 +.biz.gexing.com
-+.safebrowsing.urlsec.gg.com
 +.shqdown.ggzuhao.com
 +.gdfp.gifshow.com
 +.log-sdk.gifshow.com
@@ -2667,7 +2671,6 @@
 +.api-cn.cdo.heytapmobi.com
 +.api-gl.cdo.heytapmobi.com
 +.conf-cn.dc.heytapmobi.com
-+.conf-eu.dc.heytapmobi.com
 +.conf-in.dc.heytapmobi.com
 +.conf-sg.dc.heytapmobi.com
 +.dragate-sg.dc.heytapmobi.com
@@ -3247,7 +3250,6 @@
 +.hw-p2p-pull.live-voip.com
 +.tx-p2p-pull.live-voip.com
 +.ws-p2p-pull.live-voip.com
-+.sentry.lkcoffee.com
 +.lkmhn.com
 +.lnk0.com
 +.lnme1q1qa.com
@@ -3672,6 +3674,7 @@
 +.cp.qbaobei.com
 +.apilog.qbb6.com
 +.statistics.qcc.com
++.qcjslm.com
 +.bugly.qcloud.com
 +.log.qvb.qcloud.com
 +.tracker-00.qvb.qcloud.com
@@ -3939,7 +3942,6 @@
 +.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
-+.v5-se-bjtc-reading-ad.qznovelvod.com
 +.v5-se-ex-mc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
@@ -4719,12 +4721,12 @@
 +.xegnfwkju.com
 +.xhcdn.com
 +.ad-server.xhgamesdk.com
++.ads-hera-s1.xhscdn.com
 +.ads-i1.xhscdn.com
 +.ads-i10.xhscdn.com
 +.ads-i2.xhscdn.com
 +.ads-i3.xhscdn.com
 +.ads-i4.xhscdn.com
-+.ads-i8.xhscdn.com
 +.ads-img-al.xhscdn.com
 +.ads-img-bak.xhscdn.com
 +.ads-img-qc.xhscdn.com
@@ -4862,6 +4864,7 @@
 +.stat-download-ssl.xunlei.com
 +.upgrade.xl9.xunlei.com
 +.xvhttu3c9.com
++.cc.xwscg.com
 +.xxmh456.com
 +.p2p-punch.xxpkg.com
 +.xy.com
@@ -4991,6 +4994,8 @@
 +.httpdns.yunxindns.com
 +.statistic-overseas.yunxinfw.com
 +.yunxish.com
++.yur09130og.com
++.yur09140og.com
 +.qiniuyunxz.yxflzs.com
 +.ad.a.yximgs.com
 +.ali-ad.a.yximgs.com
@@ -5358,6 +5363,7 @@
 +.fiversitypl.net
 +.fundelaris-ai.net
 +.stat.funshion.net
++.fynvax-ai.net
 +.getui.net
 +.stats.gioneemobile.net
 +.glwxw.net
@@ -5632,9 +5638,11 @@
 +.xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 +.609999.xyz
 +.bbphonix.xyz
++.bsyrimw.xyz
 +.caomeixz7.xyz
 +.fileh.xyz
 +.jpush0b.xyz
 +.kfyg.xyz
 +.qcloud-sg-datareceiver.kurogame.xyz
++.sentry1.lingkou.xyz
 +.sbird.xyz
