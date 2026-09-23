@@ -1,5 +1,4 @@
 +.sentry.lovart.ai
-+.stats.skywork.ai
 +.edgeone.app
 +.config.ad.falconnet.app
 +.api-ad-callback.falconnet.app
@@ -344,7 +343,6 @@
 +.gzdata.com.cn
 +.images.newsletter.hach.com.cn
 +.go.hangzhou.com.cn
-+.w88.hongkongdisneyland.com.cn
 +.hpplay.com.cn
 +.hy.huangye88.com.cn
 +.hubcloud.com.cn
@@ -553,7 +551,6 @@
 +.metrics-dre.dt.dbankcloud.cn
 +.metrics1-drcn.dt.dbankcloud.cn
 +.grs.dbankcloud.cn
-+.connect-drru.hispace.dbankcloud.cn
 +.recommend-drcn.hms.dbankcloud.cn
 +.logservice.dbankcloud.cn
 +.logservice1.dbankcloud.cn
@@ -673,6 +670,7 @@
 +.adv-sv-stat.focus.cn
 +.bdu.focus.cn
 +.fopsl.cn
++.ad.foxitreader.cn
 +.fqxkj.cn
 +.trk.futureelectronics.cn
 +.fwmbjrl.cn
@@ -1098,7 +1096,6 @@
 +.roi.soulapp.cn
 +.spinexpo.cn
 +.srbzw.cn
-+.trackmarketing.staubli.cn
 +.app-analysislog.sto.cn
 +.studylabs.cn
 +.dcbpm.suning.cn
@@ -1142,7 +1139,6 @@
 +.sstats.thermoscientific.cn
 +.stats.thermoscientific.cn
 +.thinkingdata.cn
-+.trk.thomas-pump.cn
 +.trail.thomsonreuters.cn
 +.ad.thsi.cn
 +.tianji520.cn
@@ -1888,6 +1884,8 @@
 +.dl-vip.bav.baidu.com
 +.dl2.bav.baidu.com
 +.download.bav.baidu.com
++.aisuda.bce.baidu.com
++.console.bce.baidu.com
 +.click.bes.baidu.com
 +.bes-mtj.baidu.com
 +.bgg.baidu.com
@@ -2080,6 +2078,7 @@
 +.www.bobo.com
 +.click.bokecc.com
 +.p.bokecc.com
++.firefly.bol.com
 +.bootcss.com
 +.vstat.borderlessbd.com
 +.noyvyv.bosonshop.com
@@ -2199,7 +2198,6 @@
 +.www.claiks.com
 +.cloooud.com
 +.bkt.clouddn.com
-+.7xi9g1.com1.z0.glb.clouddn.com
 +.log.cmbchina.com
 +.lcf.cmplay.cmcm.com
 +.dubapkg.cmcmcdn.com
@@ -2770,7 +2768,6 @@
 +.api-4know-em.hismarttv.com
 +.api-gps.hismarttv.com
 +.api-gps-eu.hismarttv.com
-+.api-gps-na.hismarttv.com
 +.api-launcher-eu.hismarttv.com
 +.api-launcher-na.hismarttv.com
 +.auth-em.hismarttv.com
@@ -3219,6 +3216,7 @@
 +.banana.le.com
 +.cherry.le.com
 +.stat.le.com
++.ld-analytics.leadongcdn.com
 +.ads-api-o.api.leiniao.com
 +.ctv-ads.api.leiniao.com
 +.euads-o.api.leiniao.com
@@ -3270,7 +3268,6 @@
 +.hw-p2p-pull.live-voip.com
 +.tx-p2p-pull.live-voip.com
 +.ws-p2p-pull.live-voip.com
-+.sentry.lkcoffee.com
 +.lkmhn.com
 +.lnk0.com
 +.lnme1q1qa.com
@@ -3312,7 +3309,6 @@
 +.message.meitu.com
 +.adui.tg.meitu.com
 +.tuiguang.meitu.com
-+.sentry.meitu-int.com
 +.hreport.meituan.com
 +.httpdns.meituan.com
 +.impdsp.meituan.com
@@ -3378,6 +3374,7 @@
 +.watson.microsoft.com
 +.stat.microvirt.com
 +.pylon.micstatic.com
++.ld-analytics.micyjz.com
 +.report.migufun.com
 +.clog.miguvideo.com
 +.ggx01.miguvideo.com
@@ -3485,7 +3482,6 @@
 +.ugc.moji001.com
 +.cdn.moji002.com
 +.cdn2.moji002.com
-+.sentry-fe.mokahr.com
 +.m.moomoo.com
 +.moquanad.com
 +.ads.morefreegame.com
@@ -3633,7 +3629,6 @@
 +.api-access.pangolin-sdk-toutiao5.com
 +.pangolinbutlerlounge.com
 +.papa91.com
-+.ads-impression.papegames.com
 +.ads-monitoring.papegames.com
 +.analytics.partnerboost.com
 +.app.partnerboost.com
@@ -4050,7 +4045,6 @@
 +.umini.shujupie.com
 +.ad.shunchangzhixing.com
 +.js.shunqi.com
-+.ads-monitoring.shziyi.com
 +.sigmob.com
 +.simicloud.com
 +.ads.sina.com
@@ -4403,7 +4397,6 @@
 +.u7u9.com
 +.log.ubianet.com
 +.ubixioe.com
-+.images.info.ubmsinoexpo.com
 +.images.service.ubmsinoexpo.com
 +.u.uc123.com
 +.adtrack.ucweb.com
@@ -4478,7 +4471,6 @@
 +.viet-lotte.com
 +.vigyn4gpx.com
 +.n-st.vip.com
-+.stat.vipstatic.com
 +.tr.email.virtual-expo.com
 +.bhwkju.vivo.com
 +.alliance-adreq-asia.vivoglobal.com
@@ -4621,7 +4613,6 @@
 +.tr-timesync.vivoglobal.com
 +.tr-vcode-api.vivoglobal.com
 +.tr-vcode-od.vivoglobal.com
-+.tr-vcode-or.vivoglobal.com
 +.uk-timesync.vivoglobal.com
 +.za-p.vivoglobal.com
 +.zasc-cota.vivoglobal.com
@@ -4736,6 +4727,7 @@
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
 +.analytics.xdiarys.com
++.analytics2.xdiarys.com
 +.stat.xdplt.com
 +.xdrig.com
 +.collector1.xhamster.com
@@ -4911,7 +4903,6 @@
 +.ca.yangshengtv.com
 +.yd126.com
 +.ydmob.com
-+.adpublish.ydstatic.com
 +.oimagea2.ydstatic.com
 +.abc.yebaike.com
 +.store.yeelight.com
@@ -4935,7 +4926,6 @@
 +.yingyankantu.com
 +.analytics.yinxiang.com
 +.yiqifa.com
-+.pamzqm.yitechnology.com
 +.yiwk.com
 +.logs.yiworld.com
 +.wr.yiyouliao.com
@@ -5276,6 +5266,7 @@
 +.vrr.name
 +.img.0279.net
 +.h5.analytics.126.net
++.cstaticdun.126.net
 +.img1.126.net
 +.img3.126.net
 +.statistic.live.126.net
@@ -5541,6 +5532,8 @@
 +.fisios3-est7.sbs
 +.fisios3-et25.sbs
 +.fisios5-omnis94.sbs
++.fisios6-atque41.sbs
++.fisios6-est61.sbs
 +.fisios9-nisi75.sbs
 +.fisios9-quaerat31.sbs
 +.ifs.lazada.sg
