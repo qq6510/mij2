@@ -114,6 +114,8 @@
 +.gemini.google
 +.gemini.google.com
 +.gemini.gstatic.com
++.geminiweb-pa.clients.google.com
++.geminiweb-pa.clients6.google.com
 +.generativeai.google
 +.generativelanguage.googleapis.com
 +.gh.io
@@ -170,6 +172,7 @@
 +.kiro.dev
 +.labs.google
 +.labs.google.com
++.labstailwind.pa.googleapis.com
 +.langchain.com
 +.launchdarkly.com
 +.livekit.cloud
@@ -187,12 +190,14 @@
 +.manuscdn.com
 +.marscode.com
 +.meta.ai
++.metaaivm.com
 +.midjourney.com
 +.minimax.io
 +.mistral.ai
 +.moonshot.ai
 +.mozilla.ai
 +.msftauth.net
++.muse.ai
 +.myoctocat.com
 +.nexus.officeapps.live.com
 +.notebook.google
@@ -229,6 +234,7 @@
 +.openaicomproductionae4b.blob.core.windows.net
 +.openart.ai
 +.openclaw.ai
++.opencode.ai
 +.openrouter.ai
 +.opensource.guide
 +.openspec.dev
