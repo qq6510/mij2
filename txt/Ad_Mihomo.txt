@@ -185,6 +185,7 @@
 +.amerzbj.cn
 +.user-event-log.aminer.cn
 +.analysys.cn
++.aoqinglv.cn
 +.apdfmhp.cn
 +.appdriver.cn
 +.applk.cn
@@ -229,7 +230,7 @@
 +.smetrics.calvinklein.cn
 +.telemetry.canva.cn
 +.casee.cn
-+.btrace.ysp.cctv.cn
++.www.cc4008001935.cn
 +.mtrace.ysp.cctv.cn
 +.ad.cdnjm.cn
 +.cdnmaster.cn
@@ -324,7 +325,6 @@
 +.daliantong.com.cn
 +.datamaster.com.cn
 +.jc1.dayfund.com.cn
-+.dgrj.com.cn
 +.ads.doit.com.cn
 +.count.enet.com.cn
 +.eap.big5.enorth.com.cn
@@ -530,6 +530,7 @@
 +.dadzz.cn
 +.dageyuan.cn
 +.dagwi.cn
++.darm.cn
 +.dashantechan.cn
 +.adsmartget.datads.cn
 +.bdjs.daziba.cn
@@ -644,7 +645,6 @@
 +.iqiyim.adtrack.enlightent.cn
 +.eoyqzzk.cn
 +.m.ercos.cn
-+.esudrp.cn
 +.etoolads.cn
 +.euuh.cn
 +.duologinsupersdk.ewan.cn
@@ -1055,6 +1055,7 @@
 +.shuzilm.cn
 +.adservice.sigmob.cn
 +.dc.sigmob.cn
++.siguatv.cn
 +.adblock.sina.cn
 +.ad.cj.sina.cn
 +.statistic.cj.sina.cn
@@ -1139,7 +1140,6 @@
 +.tepusi888.cn
 +.akamai-apigateway-gio-analytics.tesla.cn
 +.akamai-apigateway-sentry.tesla.cn
-+.testin.cn
 +.tgymhwt.cn
 +.th7.cn
 +.adpai.thepaper.cn
@@ -1266,6 +1266,7 @@
 +.minfo.wps.cn
 +.pcfg.wps.cn
 +.push.wps.cn
++.spinfo.wps.cn
 +.update.wps.cn
 +.wpsweb-dc.wps.cn
 +.wps-online.cn
@@ -1342,6 +1343,7 @@
 +.yznwyng.cn
 +.yktj.yzz.cn
 +.cdnjs.z-face.cn
++.zaixianvip.cn
 +.xue.zbyw.cn
 +.zhangyuyidong.cn
 +.zhaohainan.cn
@@ -1984,6 +1986,7 @@
 +.miaowu.baidu.com
 +.mime.baidu.com
 +.mipengine.baidu.com
++.r6.mo.baidu.com
 +.mobads.baidu.com
 +.mobads-logs.baidu.com
 +.plugin.mobopay.baidu.com
@@ -2242,7 +2245,6 @@
 +.www.claiks.com
 +.cloooud.com
 +.bkt.clouddn.com
-+.7xi9g1.com1.z0.glb.clouddn.com
 +.log.cmbchina.com
 +.lcf.cmplay.cmcm.com
 +.cmgadx.com
@@ -2361,9 +2363,11 @@
 +.connect-dra.map.dbankcloud.com
 +.adx-dra.op.dbankcloud.com
 +.adx-dre.op.dbankcloud.com
++.adx-drru.op.dbankcloud.com
 +.events-dra.op.dbankcloud.com
 +.events-drcn.op.dbankcloud.com
 +.events-dre.op.dbankcloud.com
++.events-drru.op.dbankcloud.com
 +.dnkeeper.platform.dbankcloud.com
 +.grs-iot.platform.dbankcloud.com
 +.grs-pub.platform.dbankcloud.com
@@ -2587,6 +2591,8 @@
 +.ad.gameley.com
 +.ab3de9.gamersky.com
 +.click.gamersky.com
++.ja.gamersky.com
++.ja1.gamersky.com
 +.ja2.gamersky.com
 +.pc-util.gamersky.com
 +.wmbd.gamersky.com
@@ -2843,14 +2849,12 @@
 +.api-4know-em.hismarttv.com
 +.api-gps.hismarttv.com
 +.api-gps-eu.hismarttv.com
-+.api-gps-na.hismarttv.com
 +.api-launcher-eu.hismarttv.com
 +.api-launcher-na.hismarttv.com
 +.auth-em.hismarttv.com
 +.auth-eu.hismarttv.com
 +.auth-launcher-em.hismarttv.com
 +.auth-launcher-eu.hismarttv.com
-+.auth-launcher-jp.hismarttv.com
 +.auth-launcher-na.hismarttv.com
 +.auth-launcher-sa.hismarttv.com
 +.auth-na.hismarttv.com
@@ -3566,6 +3570,7 @@
 +.emjs.mkzhan.com
 +.da.mmarket.com
 +.mmda-mayhulika-ph.com
++.mmdamayhulikaph.com
 +.mmkkiivv.com
 +.mmstat.com
 +.tc.mnbvcxzq.com
@@ -4046,7 +4051,6 @@
 +.ads3-normal-hl.zijieapi.com.queniurc.com
 +.p3-ad-sign.byteimg.com.queniusy.com
 +.ads3-normal.zijieapi.com.queniusz.com
-+.lf3-analytics.bytescm.com.queniuuf.com
 +.sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com
 +.api-access.pangolin-sdk-toutiao.com.queniuyk.com
 +.log-api.pangolin-sdk-toutiao.com.queniuyk.com
@@ -4078,7 +4082,6 @@
 +.v5-reading-ad.qznovelvod.com
 +.v5-se-bjtc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
-+.v5-se-jltc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
@@ -4654,12 +4657,16 @@
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-domaincfg.vivoglobal.com
 +.co-onrt-stsdk.vivoglobal.com
 +.co-ort-stsdk.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
++.co-stsdk.vivoglobal.com
++.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
++.co-vcode-or.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
 +.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
@@ -4712,7 +4719,6 @@
 +.in-vcode-or.vivoglobal.com
 +.in-vpushonrt-stsdk.vivoglobal.com
 +.in-vpushort-stsdk.vivoglobal.com
-+.kz-onrt-stsdk.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.mx-album-api.vivoglobal.com
 +.mx-cota.vivoglobal.com
@@ -4862,6 +4868,7 @@
 +.stats.wp.com
 +.api-ad-adapter.wps.com
 +.api-ad-adapter-ff.wps.com
++.api-ad-adapter-mb.wps.com
 +.api-ad-adapter-sg.wps.com
 +.api-ad-adapter-us.wps.com
 +.abroadad.cache.wpscdn.com
@@ -4885,6 +4892,8 @@
 +.xbtw.com
 +.api.fu.xcultur.com
 +.api.ssp.xcultur.com
++.analytics.xdiarys.com
++.analytics2.xdiarys.com
 +.stat.xdplt.com
 +.xdrig.com
 +.collector1.xhamster.com
@@ -5375,6 +5384,7 @@
 +.sdk.yolanda.hk
 +.zakladybolslkzs.homes
 +.zakladybolslkzw.homes
++.jqfuser.icu
 +.jmacs-m.lazada.co.id
 +.msgacs-m.lazada.co.id
 +.log-api.cli.im
@@ -5494,6 +5504,7 @@
 +.l16-prod-all-sentry-trickcal-sgp.bilibiligame.net
 +.l17-dev-all-sentry-ghost-sgp.bilibiligame.net
 +.line1-log.biligame.net
++.line3-adscore-api.biligame.net
 +.bjmantis.net
 +.adimage.blm.net
 +.bsccdn.net
@@ -5532,6 +5543,7 @@
 +.duba.net
 +.sentry.duozhuayu.net
 +.wildcard.moatads.com.edgekey.net
++.wangsu-smetrics.redhat.com.edgekey.net
 +.heads-ak.spotify.com.edgesuite.net
 +.k6d.falang.net
 +.fastapi.net
@@ -5637,6 +5649,7 @@
 +.ns1.vicp.net
 +.ns2.vicp.net
 +.mini-prog-drm.vodplayvideo.net
++.wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 +.crashsight.wetest.net
 +.perfsight.wetest.net
 +.xianshangzixun.net
@@ -5687,6 +5700,7 @@
 +.fumiad.dxys.pro
 +.httpdns.pro
 +.adsco.re
++.noone.ren
 +.aemetrics.aliexpress.ru
 +.connect-drru.hispace.dbankcloud.ru
 +.adx-drru.op.dbankcloud.ru
@@ -5757,6 +5771,7 @@
 +.app-posthog.bi-sage.site
 +.api.bytegle.site
 +.api.firwinds.site
++.lbank.site
 +.nexgrids.site
 +.errortracking.snapp.site
 +.api.youngle.site
