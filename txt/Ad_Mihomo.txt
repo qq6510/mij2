@@ -47,7 +47,8 @@
 +.analytics.wondershare.cc
 +.bd1.yidu.cc
 +.dm.zjut.cc
-+.canjearppuntos.click
++.canjepuntostotal.click
++.canjepuntosvip.click
 +.consultarenvio.click
 +.ldhy.click
 +.misecanjesbac.click
@@ -65,7 +66,6 @@
 +.ad.12306.cn
 +.bdad.123pan.cn
 +.ent1.12584.cn
-+.126.cn
 +.16aq.cn
 +.vstlog.17u.cn
 +.1rtb.cn
@@ -149,7 +149,6 @@
 +.aaoffice.cn
 +.smetrics.abercrombie.cn
 +.mail.siom.ac.cn
-+.disk.accord1key.cn
 +.apilog-web.acfun.cn
 +.acgshenshicha.cn
 +.ad-plus.cn
@@ -314,10 +313,6 @@
 +.metrics.citibank.com.cn
 +.clarins.com.cn
 +.bd1.click.com.cn
-+.cn-feed-whatsapp.com.cn
-+.cn-gui-whatsapp.com.cn
-+.cn-peer-whatsapp.com.cn
-+.cn-ping-whatsapp.com.cn
 +.hmjs.cnmo-img.com.cn
 +.phpstat.cntcm.com.cn
 +.trk.compair.com.cn
@@ -396,7 +391,6 @@
 +.qishui-vip.com.cn
 +.dns.weixin.qq.com.cn
 +.wxaintpcos.wxqcloud.qq.com.cn
-+.down.qqfarmer.com.cn
 +.quanrunze.com.cn
 +.news.reedexpo.com.cn
 +.images.response.reedexpo.com.cn
@@ -448,6 +442,7 @@
 +.sensors.umetrip.com.cn
 +.adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 +.1.v-x.com.cn
++.uu.v2raynapps.com.cn
 +.collect.vans.com.cn
 +.smetrics.visitsingapore.com.cn
 +.adlog.vivo.com.cn
@@ -576,6 +571,7 @@
 +.events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 +.events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 +.grs-dbankcloud-com-dra.appacc.dbankedge.cn
++.hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 +.grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
 +.adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 +.events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
@@ -1207,6 +1203,7 @@
 +.uerzyr.cn
 +.bdjs.uimg.cn
 +.cdp.cloud.unity.cn
++.metrics2.unity.cn
 +.cdn.iads.unitychina.cn
 +.unityads.unitychina.cn
 +.unypud.cn
@@ -1376,7 +1373,6 @@
 +.0dy3evz6x.com
 +.0otmh22aj2.com
 +.0wk6gdkg8r.com
-+.0x2beace.com
 +.0xr7ii3df.com
 +.1717.1000uc.com
 +.ad.10010.com
@@ -1540,7 +1536,6 @@
 +.api.52youtu.com
 +.a.52zxw.com
 +.53kf.com
-+.down.54nb.com
 +.55726zubo56686.com
 +.acs.56.com
 +.acs.agent.56.com
@@ -2245,6 +2240,7 @@
 +.www.claiks.com
 +.cloooud.com
 +.bkt.clouddn.com
++.7xi9g1.com1.z0.glb.clouddn.com
 +.log.cmbchina.com
 +.lcf.cmplay.cmcm.com
 +.cmgadx.com
@@ -2459,6 +2455,7 @@
 +.stats.v.duowan.com
 +.vupload.duowan.com
 +.dutils.com
++.adsmis.duxiaoman.com
 +.untitled.dwstatic.com
 +.dxpmedia.com
 +.2021.dxsbb.com
@@ -2848,6 +2845,7 @@
 +.analytics.shop.hisense.com
 +.api-4know-em.hismarttv.com
 +.api-gps.hismarttv.com
++.api-gps-em.hismarttv.com
 +.api-gps-eu.hismarttv.com
 +.api-launcher-eu.hismarttv.com
 +.api-launcher-na.hismarttv.com
@@ -3401,6 +3399,8 @@
 +.ad.maoyan.com
 +.markmedia.com
 +.mbaobao.com
++.matomo.mdjpxw.com
++.umami.mdjpxw.com
 +.bidder.mdspinc.com
 +.lepodownload.mediatek.com
 +.mepodownload.mediatek.com
@@ -3569,7 +3569,6 @@
 +.mk0d5qbdj.com
 +.emjs.mkzhan.com
 +.da.mmarket.com
-+.mmda-mayhulika-ph.com
 +.mmdamayhulikaph.com
 +.mmkkiivv.com
 +.mmstat.com
@@ -4080,7 +4079,7 @@
 +.v5-bd-daily-reading-ad.qznovelvod.com
 +.v5-ex-reading-ad.qznovelvod.com
 +.v5-reading-ad.qznovelvod.com
-+.v5-se-bjtc-reading-ad.qznovelvod.com
++.v5-se-ex-mc-reading-ad.qznovelvod.com
 +.v5-se-gddgtc-reading-ad.qznovelvod.com
 +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 +.v6-daily-reading-ad.qznovelvod.com
@@ -4214,7 +4213,9 @@
 +.mon.snssdk.com
 +.open.snssdk.com
 +.pangolin.snssdk.com
++.sdfp.snssdk.com
 +.stream.snssdk.com
++.tbm.snssdk.com
 +.tnc3-aliec2.snssdk.com
 +.tnc3-alisc1.snssdk.com
 +.tnc3-bjlgy.snssdk.com
@@ -4241,6 +4242,7 @@
 +.reke.at.sohu.com
 +.agn.aty.sohu.com
 +.vstat.v.blog.sohu.com
++.changyan.sohu.com
 +.fpb.sohu.com
 +.i.go.sohu.com
 +.imp.go.sohu.com
@@ -4657,6 +4659,7 @@
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-cota.vivoglobal.com
 +.co-domaincfg.vivoglobal.com
 +.co-onrt-stsdk.vivoglobal.com
 +.co-ort-stsdk.vivoglobal.com
@@ -5004,6 +5007,7 @@
 +.adbehavior.ximalaya.com
 +.adse.ximalaya.com
 +.adsebs.ximalaya.com
++.adwbs.ximalaya.com
 +.ad.c.ximalaya.com
 +.ad.c4.ximalaya.com
 +.linkeye.ximalaya.com
@@ -5063,6 +5067,7 @@
 +.xzswn87hm.com
 +.bmjs.xzw.com
 +.y6a7ap3io3.com
++.adserver.yaboo.com
 +.adspecs.yahoo.com
 +.advertising.yahoo.com
 +.ads.auctions.yahoo.com
@@ -5186,6 +5191,7 @@
 +.yunxish.com
 +.yur09130og.com
 +.yur09140og.com
++.qiniuyunxz.yxflzs.com
 +.ad.a.yximgs.com
 +.ali-ad.a.yximgs.com
 +.ali2.a.yximgs.com
@@ -5238,6 +5244,7 @@
 +.slotabrosdev.zharev.com
 +.slotabrosuat.zharev.com
 +.cdnlog.zhenai.com
++.zhigao5191.com
 +.adstatic.zhihu.com
 +.crash2.zhihu.com
 +.event.zhihu.com
@@ -5355,6 +5362,7 @@
 +.log-auth.zztfly.com
 +.upc.zztfly.com
 +.2kij3uhj3.cyou
++.8ieu7ue.cyou
 +.balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 +.congenial-goggles-dpuw9y8aky56.edgeone.dev
 +.copyright-policy-review-form.edgeone.dev
@@ -5367,6 +5375,7 @@
 +.officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev
 +.ofornaogu-dpzv6dife1hh.edgeone.dev
 +.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
++.sriramnwar-dpoae04723lz.edgeone.dev
 +.webmaprocessinh-dpbehei5spwx.edgeone.dev
 +.wwwww-dpe7gpnooou7.edgeone.dev
 +.umami.mao.fan
@@ -5444,7 +5453,6 @@
 +.vrr.name
 +.img.0279.net
 +.h5.analytics.126.net
-+.cstaticdun.126.net
 +.img1.126.net
 +.img3.126.net
 +.statistic.live.126.net
@@ -5619,6 +5627,7 @@
 +.hub5emu.sandai.net
 +.hub5pnc.sandai.net
 +.hub5u.sandai.net
++.hubstat.sandai.net
 +.mcfg.sandai.net
 +.hub5pn.wap.sandai.net
 +.etl.xlmc.sandai.net
@@ -5671,7 +5680,6 @@
 +.ir.mail.yeah.net
 +.daima.yggk.net
 +.youmi.net
-+.123.ywxww.net
 +.star.zcnet.net
 +.zgisp.net
 +.saad.ms.zhangyue.net
@@ -5731,7 +5739,6 @@
 +.4-fizjos.shop
 +.4fiz-jo.shop
 +.4fiz-jos.shop
-+.4fizjoslp.shop
 +.4fizjosolp.shop
 +.4fizjosport.shop
 +.4fsportspl.shop
@@ -5741,12 +5748,14 @@
 +.favimeble.shop
 +.favipl.shop
 +.fighter-shop.shop
-+.furniture-store.shop
 +.gardenmarket.shop
++.gorituals.shop
++.halloweencostumes-ie.shop
 +.homespl.shop
 +.homeyoupl.shop
 +.homlaes.shop
 +.homlaspl.shop
++.housedeal-eu.shop
 +.imagiraffe.shop
 +.lindabella.shop
 +.meobsogu.shop
@@ -5758,6 +5767,7 @@
 +.plrituals.shop
 +.qntezlhu.shop
 +.ritualspl.shop
++.sorituals.shop
 +.spitishops.shop
 +.tr-suwen.shop
 +.tylerfoster.shop
@@ -5767,7 +5777,6 @@
 +.zakladyboleslawieconsale-pl.shop
 +.zakladyboleslawieczone-pl.shop
 +.zakladykspl.shop
-+.zakladyspl.shop
 +.app-posthog.bi-sage.site
 +.api.bytegle.site
 +.api.firwinds.site
