@@ -285,6 +285,7 @@
 +.stitch.withgoogle.com
 +.stripe.com
 +.sts.windows.net
++.syntx.ai
 +.talkai.info
 +.tapnow.ai
 +.thegithubshop.com
