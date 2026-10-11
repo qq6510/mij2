@@ -73,6 +73,7 @@
 +.ad.12306.cn
 +.bdad.123pan.cn
 +.ent1.12584.cn
++.126.cn
 +.16aq.cn
 +.vstlog.17u.cn
 +.1rtb.cn
@@ -235,6 +236,7 @@
 +.telemetry.canva.cn
 +.casee.cn
 +.www.cc4008001935.cn
++.btrace.ysp.cctv.cn
 +.mtrace.ysp.cctv.cn
 +.ad.cdnjm.cn
 +.cdnmaster.cn
@@ -325,7 +327,6 @@
 +.daliantong.com.cn
 +.datamaster.com.cn
 +.jc1.dayfund.com.cn
-+.dgrj.com.cn
 +.ads.doit.com.cn
 +.count.enet.com.cn
 +.eap.big5.enorth.com.cn
@@ -433,7 +434,6 @@
 +.saxn.sina.com.cn
 +.sbeacon.sina.com.cn
 +.slog.sina.com.cn
-+.woocall.sina.com.cn
 +.log.skyroam.com.cn
 +.smetrics.solidigmtech.com.cn
 +.sc.sonystyle.com.cn
@@ -895,6 +895,7 @@
 +.a.munters.cn
 +.mvamnng.cn
 +.mxevdii.cn
++.my-hr.cn
 +.myhug.cn
 +.analytics.api.myqnapcloud.cn
 +.qcenter-metrics-device.api.myqnapcloud.cn
@@ -920,6 +921,7 @@
 +.oaclrst.cn
 +.ojmv.cn
 +.oldulgk.cn
++.statistics.one-all.cn
 +.click.oneplus.cn
 +.scs.openspeech.cn
 +.oqyiapj.cn
@@ -940,6 +942,7 @@
 +.pexnjio.cn
 +.pfdth.cn
 +.pfqwbqs.cn
++.stat2.pixpin.cn
 +.load.tbyvvwvv.plasmatreatment.cn
 +.bdx.playnext.cn
 +.pmensrl.cn
@@ -950,7 +953,6 @@
 +.poqwua.cn
 +.fp-it-acc.portal101.cn
 +.webtrack.pospal.cn
-+.postut.cn
 +.log.cs.pp.cn
 +.patriot.cs.pp.cn
 +.server.m.pp.cn
@@ -1089,6 +1091,7 @@
 +.wct.softonic.cn
 +.adx.sogaha.cn
 +.smetrics.solidigmtechnology.cn
++.songlaoban.cn
 +.soorbka.cn
 +.ad-r.soulapp.cn
 +.data-collector.soulapp.cn
@@ -1141,7 +1144,6 @@
 +.thinkingdata.cn
 +.trk.thomas-pump.cn
 +.trail.thomsonreuters.cn
-+.ad.thsi.cn
 +.fz.tiansys.cn
 +.smetrics.tiffany.cn
 +.tisszhb.cn
@@ -1355,6 +1357,7 @@
 +.5mm.zxfw5.cn
 +.zygkzytb.cn
 +.zykwnj.cn
++.zzisnvb.cn
 +.zztxr.cn
 +.kwflvcdn.000dn.com
 +.00k456wyh.com
@@ -1413,6 +1416,7 @@
 +.0oi1ej7mo.com
 +.0oo9j37xp.com
 +.0otmh22aj2.com
++.0qry58i9es.com
 +.0qxfxqif0.com
 +.0s1wclct6.com
 +.0s5qb3rfz.com
@@ -1447,7 +1451,6 @@
 +.121xpp689.com
 +.121yscfk5e.com
 +.123cha.com
-+.124to81tc.com
 +.analytics.126.com
 +.ir.mail.126.com
 +.129esrd5q5.com
@@ -1838,6 +1841,7 @@
 +.51mitu.com
 +.51taifu.com
 +.ad.51wnl.com
++.ad.51wnl-cq.com
 +.r.51wnl-cq.com
 +.51yes.com
 +.51ympuu7y.com
@@ -2071,6 +2075,7 @@
 +.7gp33kffg6.com
 +.7ho8oc3svg.com
 +.7imz0d5nay.com
++.7istqn6fh.com
 +.7iwxojx1s.com
 +.7jf3kxi6bq.com
 +.7jqi6um1g.com
@@ -2687,7 +2692,6 @@
 +.miaowu.baidu.com
 +.mime.baidu.com
 +.mipengine.baidu.com
-+.r6.mo.baidu.com
 +.mobads.baidu.com
 +.mobads-logs.baidu.com
 +.plugin.mobopay.baidu.com
@@ -3065,6 +3069,7 @@
 +.cloooud.com
 +.appsentry-eu-ali.closeli.com
 +.bkt.clouddn.com
++.7xi9g1.com1.z0.glb.clouddn.com
 +.cm30oc1du.com
 +.log.cmbchina.com
 +.lcf.cmplay.cmcm.com
@@ -3631,6 +3636,7 @@
 +.mon11-misc-lf.fqnovel.com
 +.mon11-misc-lq.fqnovel.com
 +.mon3-misc-lf.fqnovel.com
++.rtlog3-applog.fqnovel.com
 +.rtlog3-applog-hl.fqnovel.com
 +.rtlog3-applog-lf.fqnovel.com
 +.rtlog3-applog-lq.fqnovel.com
@@ -3735,6 +3741,7 @@
 +.geav5man0.com
 +.log.geetest.com
 +.gef153x1u.com
++.gefxhyby9.com
 +.g.gegeyingshi.com
 +.image.gentags.com
 +.code.geonamebase.com
@@ -3755,6 +3762,12 @@
 +.ggo10111lq.com
 +.ggo10120lq.com
 +.ggo10121lq.com
++.ggo10130lq.com
++.ggo10131lq.com
++.ggo10140lq.com
++.ggo10141lq.com
++.ggo10150lq.com
++.ggo10151lq.com
 +.shqdown.ggzuhao.com
 +.ghjyw4h23.com
 +.giaumusnsj.com
@@ -4219,6 +4232,7 @@
 +.u8.hujiang.com
 +.log.hunantv.com
 +.log.v2.hunantv.com
++.hungfei.com
 +.huoying666.com
 +.collect.hupu.com
 +.e-goblin.hupu.com
@@ -5197,6 +5211,7 @@
 +.child.sec.miui.com
 +.data.sec.miui.com
 +.flash.sec.miui.com
++.gamebox.sec.miui.com
 +.mazu.sec.miui.com
 +.notify.sec.miui.com
 +.port.sec.miui.com
@@ -5222,6 +5237,7 @@
 +.mly5hvbae.com
 +.da.mmarket.com
 +.mmes30jla.com
++.mmftdt.com
 +.mmkkiivv.com
 +.mmstat.com
 +.tc.mnbvcxzq.com
@@ -5347,6 +5363,7 @@
 +.n906n29tm.com
 +.nahg4lhbr.com
 +.nalook.com
++.nar17stuqf.com
 +.nasimobi.com
 +.tr.email.nauticexpo.com
 +.nb4ds7c13d.com
@@ -5713,6 +5730,7 @@
 +.q6zikgclq9.com
 +.q7vnwa1ma7.com
 +.q8pmxabng9.com
++.q9cu7eok92.com
 +.q9ss0yqwa.com
 +.qa2bdtwm7h.com
 +.qab0m5irus.com
@@ -6047,7 +6065,6 @@
 +.v6-daily-reading-ad.qznovelvod.com
 +.v6-reading-ad.qznovelvod.com
 +.v9-reading-ad.qznovelvod.com
-+.v95-aw-reading-ad.qznovelvod.com
 +.v95-se-zjwztc-reading-ad.qznovelvod.com
 +.v95-ynkmtc-reading-ad.qznovelvod.com
 +.v95-zjjx2tc-reading-ad.qznovelvod.com
@@ -6421,7 +6438,6 @@
 +.szjbo9a13.com
 +.collector.szlcsc.com
 +.szqwzosxn3.com
-+.www.szrongt.com
 +.sztd75fntp.com
 +.t19olm6fd.com
 +.t298jlqqf.com
@@ -6434,6 +6450,7 @@
 +.t7fv5mjt8i.com
 +.t7h2otlhd.com
 +.t7ywa5ai3.com
++.t8yctltd8s.com
 +.t9x2gu6it3.com
 +.ta7088hrd.com
 +.ta7tfk0o2h.com
@@ -6492,6 +6509,7 @@
 +.adashbc.m.taobao.com
 +.adashx.m.taobao.com
 +.adashx4yt.m.taobao.com
++.agoodm.m.taobao.com
 +.ai.m.taobao.com
 +.amdc.m.taobao.com
 +.amdcopen.m.taobao.com
@@ -8109,6 +8127,7 @@
 +.sentry.mab.co.id
 +.sentry.easycash.id
 +.log-api.cli.im
++.5166.info
 +.sentry.classup.info
 +.busuanzi.ibruce.info
 +.yumao.puata.info
@@ -8116,6 +8135,7 @@
 +.logservice.agora.io
 +.logservice-rtm.agora.io
 +.report-america.agora.io
++.report-america2.agora.io
 +.report-asia.agora.io
 +.report-edge.agora.io
 +.report-europe.agora.io
@@ -8160,6 +8180,7 @@
 +.h-adashx.ut.ele.me
 +.sentry.eventbus.me
 +.id6.me
++.dn-growing.qbox.me
 +.uplog.qbox.me
 +.sentry.touchchat.me
 +.wkzw.me
@@ -8632,7 +8653,6 @@
 +.ethan.wang
 +.6v4.work
 +.6v6.work
-+.sentry.dreambig.work
 +.g2.ganjing.world
 +.toutiao.xn--fiqs8s
 +.xn--2qu92fhtxsxexqab.xn--fiqs8s
