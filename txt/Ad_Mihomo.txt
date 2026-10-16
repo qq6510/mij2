@@ -239,6 +239,7 @@
 +.telemetry.canva.cn
 +.casee.cn
 +.www.cc4008001935.cn
++.btrace.ysp.cctv.cn
 +.mtrace.ysp.cctv.cn
 +.ad.cdnjm.cn
 +.cdnmaster.cn
@@ -311,6 +312,7 @@
 +.telemetry-in.battlenet.com.cn
 +.smetrics.beatsbydre.com.cn
 +.smetrics.benefitcosmetics.com.cn
++.bjhjw.com.cn
 +.stratus.campaign-image.com.cn
 +.zc1.campaign-view.com.cn
 +.cctvgb.com.cn
@@ -533,7 +535,6 @@
 +.daccp.cn
 +.dadde.cn
 +.dadzz.cn
-+.dageyuan.cn
 +.dagwi.cn
 +.darm.cn
 +.adsmartget.datads.cn
@@ -672,6 +673,7 @@
 +.cfgc.flysleep.cn
 +.log-auth.flysleep.cn
 +.upc.flysleep.cn
++.flyye.cn
 +.adv-sv-show.focus.cn
 +.adv-sv-stat.focus.cn
 +.bdu.focus.cn
@@ -689,6 +691,7 @@
 +.gdtqq.cn
 +.getui.cn
 +.ghsnhjk.cn
++.gi.cn
 +.gjfzpt.cn
 +.1.glook.cn
 +.l.glrcy.cn
@@ -902,6 +905,7 @@
 +.mzwzo.cn
 +.dl.natgo.cn
 +.nejmqianyan.cn
++.cart.net.cn
 +.logs.chelaile.net.cn
 +.fanzhuang.net.cn
 +.telemetry.farfetch.net.cn
@@ -1075,6 +1079,7 @@
 +.analytics.sixt.cn
 +.sjoy7rq.cn
 +.skfqxkk.cn
++.analytics.skywt.cn
 +.c.sm.cn
 +.hc-ssp.sm.cn
 +.huichuan.sm.cn
@@ -1134,6 +1139,7 @@
 +.tepusi888.cn
 +.akamai-apigateway-gio-analytics.tesla.cn
 +.akamai-apigateway-sentry.tesla.cn
++.testin.cn
 +.tgymhwt.cn
 +.th7.cn
 +.adpai.thepaper.cn
@@ -1356,6 +1362,7 @@
 +.zwlpdo.cn
 +.sentry.zwoastro.cn
 +.5mm.zxfw5.cn
++.zxzs365.cn
 +.zygkzytb.cn
 +.zykwnj.cn
 +.zzisnvb.cn
@@ -2129,6 +2136,7 @@
 +.8h7j79qxm.com
 +.8hvq8jskh.com
 +.8hx7k0211.com
++.8icep0mqi.com
 +.8j7tu8vtxx.com
 +.8k69vb6421.com
 +.8k9ynfczfd.com
@@ -2173,6 +2181,7 @@
 +.9377.com
 +.93gtx4pc2w.com
 +.93txjw4rt2.com
++.94gjh3cedn.com
 +.ads.95516.com
 +.analytics.95516.com
 +.95d684gnf.com
@@ -2415,7 +2424,6 @@
 +.video231.oss-cn-beijing.aliyuncs.com
 +.chaoku.oss-cn-chengdu.aliyuncs.com
 +.dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
-+.alime-pic.oss-cn-hangzhou.aliyuncs.com
 +.commondata.oss-cn-hangzhou.aliyuncs.com
 +.fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 +.mobantong.oss-cn-hangzhou.aliyuncs.com
@@ -3292,6 +3300,7 @@
 +.posthog.casinoplus.top.eo.dnse3.com
 +.akamai-apigateway-gio-analytics.tesla.cn.eo.dnse4.com
 +.beacon.cdn.qq.com.cdn.dnsv1.com
++.ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com
 +.do-global.com
 +.stat.doc88.com
 +.zx.docin.com
@@ -3569,6 +3578,7 @@
 +.formysql.com
 +.sentry-web.fosunhanig.com
 +.fotao9.com
++.fp0ao2bav.com
 +.fp2nn4zxlp.com
 +.fp9gvw5ber.com
 +.fpgxyjv3h.com
@@ -3629,6 +3639,7 @@
 +.fxab9iuprt.com
 +.a.fxltsbl.com
 +.fy1vifdn5.com
++.fz1j7l8n2.com
 +.fzddxwb7y3.com
 +.fziydh0npy.com
 +.g0e7184ro.com
@@ -4011,6 +4022,7 @@
 +.omes-sec.heytapmobile.com
 +.slb-apisnd-in.heytapmobile.com
 +.report-sg.uc.heytapmobile.com
++.video-api-gl.heytapmobile.com
 +.hffxc.com
 +.hfr8l4ebdt.com
 +.hg237nbher.com
@@ -4874,6 +4886,7 @@
 +.lo42y56tmy.com
 +.lobhvxlikxbjju.com
 +.adx.locknewslab.com
++.lodgeaclaim.com
 +.lodipq3zb.com
 +.ad.lofter.com
 +.log-report.com
@@ -5145,6 +5158,7 @@
 +.mks8vq5qfu.com
 +.mkyc81u6je.com
 +.emjs.mkzhan.com
++.mlkbjce.com
 +.mly5hvbae.com
 +.da.mmarket.com
 +.mmes30jla.com
@@ -5219,7 +5233,6 @@
 +.nsp-logservice-hiview-p07-dra.obs.ap-southeast-3.myhuaweicloud.com
 +.nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com
 +.hmdev.obs.cn-east-2.myhuaweicloud.com
-+.teslaamg.obs.cn-east-3.myhuaweicloud.com
 +.ceshi127722.obs.cn-north-4.myhuaweicloud.com
 +.myiqvn5w3.com
 +.metrics-picture-hk.d.mykeeta.com
@@ -5410,7 +5423,6 @@
 +.ok3o5s3xi.com
 +.analytics.okorder.com
 +.okq2b5zjft.com
-+.crash-reporting.olaparty.com
 +.om1aq1t27.com
 +.ombrelatika.com
 +.oneapm.com
@@ -5427,6 +5439,7 @@
 +.oot59rxrwm.com
 +.oozushirp.com
 +.op1z5h5171.com
++.statistic.openlabelplus.com
 +.opev2lhm7h.com
 +.opg4g472vl.com
 +.ads.oppomobile.com
@@ -5471,6 +5484,7 @@
 +.p43c4oysmb.com
 +.p4dc8ve6i.com
 +.p5doaulee2.com
++.p5jrngqnp.com
 +.p5si0mu8u7.com
 +.p66jed4iv.com
 +.p6q6qpze3f.com
@@ -5892,6 +5906,7 @@
 +.qs2zdat2pi.com
 +.qsjdi1vyq.com
 +.f.qstatic.com
++.qt4wieces3.com
 +.qtqv3cy43w.com
 +.api.qttunion.com
 +.quality-ad.com
@@ -6488,7 +6503,6 @@
 +.tg0val4vb.com
 +.tgdlqeqpbh.com
 +.advert.api.thejoyrun.com
-+.thetechnofreaks.com
 +.thgh902ny.com
 +.sentry.things-x.com
 +.thj36m3dm.com
@@ -6753,7 +6767,6 @@
 +.v8j1rkai1.com
 +.va3yq7si6w.com
 +.vamaker.com
-+.sea-log-rcv.vansound.com
 +.vauu8z77p.com
 +.vb5gi1zp5.com
 +.vbc08111op.com
@@ -7032,6 +7045,7 @@
 +.w4b52osbr5.com
 +.w4nw434j7n.com
 +.w5eep9esa.com
++.w6n00vtw6.com
 +.w75zr9nfj.com
 +.w766ewvx75.com
 +.w7gx7y9wk.com
@@ -7059,6 +7073,7 @@
 +.phputils.wc-os.com
 +.wc6y3nrv7g.com
 +.wc74aa875.com
++.wccvvpt7c.com
 +.wcu79k85a.com
 +.wde0a1qrm.com
 +.wdp5rczwlp.com
@@ -7242,6 +7257,8 @@
 +.ads-leona-s1.xhscdn.com
 +.ads-splash-i1.xhscdn.com
 +.ads-splash-i2.xhscdn.com
++.ads-splash-v1.xhscdn.com
++.ads-splash-v2.xhscdn.com
 +.ads-video-al.xhscdn.com
 +.ads-video-qc.xhscdn.com
 +.ads-vp5.xhscdn.com
@@ -7499,6 +7516,7 @@
 +.yhgqxkjz9.com
 +.data.yhydl.com
 +.yhz18.com
++.ad.yicai.com
 +.analytics.yicai.com
 +.applog.yiche.com
 +.log.ycapp.yiche.com
@@ -7759,6 +7777,7 @@
 +.ads5-normal-hl.zijieapi.com
 +.ads5-normal-lf.zijieapi.com
 +.ads5-normal-lq.zijieapi.com
++.ads5-normal-xh.zijieapi.com
 +.applog.zijieapi.com
 +.feedback-c.zijieapi.com
 +.gecko3-lf.zijieapi.com
@@ -7990,7 +8009,6 @@
 +.zwxtfp.icu
 +.zxwfcwm.icu
 +.sentry.bankneo.co.id
-+.sentry.findaya.co.id
 +.jmacs-m.lazada.co.id
 +.msgacs-m.lazada.co.id
 +.sentry.mab.co.id
@@ -8132,7 +8150,6 @@
 +.ali-web-player-tracker.biliapi.net
 +.hw-v2-web-player-tracker.biliapi.net
 +.l16-prod-all-sentry-trickcal-sgp.bilibiligame.net
-+.l17-dev-all-sentry-ghost-sgp.bilibiligame.net
 +.line1-log.biligame.net
 +.line3-adscore-api.biligame.net
 +.bjmantis.net
@@ -8343,9 +8360,11 @@
 +.trustutn.org
 +.jmacs-m.lazada.com.ph
 +.msgacs-m.lazada.com.ph
++.blendstressgui.pro
 +.deliginess.pro
 +.adsdkapi.dxys.pro
 +.fumiad.dxys.pro
++.haldenorixa.pro
 +.httpdns.pro
 +.juremavolix.pro
 +.nivorakelu.pro
@@ -8431,6 +8450,7 @@
 +.nexgrids.site
 +.errortracking.snapp.site
 +.api.youngle.site
++.iqiyi.space
 +.api.bytegle.tech
 +.https-api.bytegle.tech
 +.vad-https-api.bytegle.tech
@@ -8539,5 +8559,4 @@
 +.qcloud-sg-datareceiver.kurogame.xyz
 +.sbird.xyz
 +.log.tititi.xyz
-+.xtxbemp.xyz
 +.sentry.reyee.yun
