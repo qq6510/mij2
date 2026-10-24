@@ -1345,6 +1345,7 @@
 +.compress.to
 +.connect.facebook.net
 +.conoha.jp
++.console.typesafe.ai
 +.constitutionalism.solutions
 +.contactmagazine.net
 +.content.office.net
@@ -2321,6 +2322,7 @@
 +.g.kfd.me
 +.g0v.social
 +.g6hentai.com
++.ga.jspm.io
 +.gab.com
 +.gabia.net
 +.gabocorp.com
