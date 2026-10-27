@@ -30,6 +30,9 @@
 +.apple-relay.mask.apple-dns.net
 +.apps.mzstatic.com
 +.appsdowonders.com
++.appsgenaiserver-pa.clients.google.com
++.appsgenaiserver-pa.clients6.google.com
++.appsgenaiserver-pa.googleapis.com
 +.arena.ai
 +.atom.io
 +.auth0.com
