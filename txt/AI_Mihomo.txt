@@ -34,6 +34,7 @@
 +.appsgenaiserver-pa.clients6.google.com
 +.appsgenaiserver-pa.googleapis.com
 +.arena.ai
++.artificialanalysis.ai
 +.atom.io
 +.auth0.com
 +.bard.google.com
@@ -68,6 +69,7 @@
 +.claudeusercontent.com
 +.clawhub.ai
 +.client-api.arkoselabs.com
++.cline.bot
 +.clipdrop.co
 +.cloud.microsoft
 +.cloudaicompanion.googleapis.com
@@ -81,7 +83,9 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.commandcode.ai
 +.config.edge.skype.com
++.context7.com
 +.copilot-stg.com
 +.copilot.com
 +.copilot.microsoft.com
@@ -206,6 +210,7 @@
 +.manuscdn.com
 +.marscode.com
 +.meta.ai
++.metaaiusercontent.com
 +.metaaivm.com
 +.midjourney.com
 +.minimax.io
@@ -223,6 +228,7 @@
 +.notebooklm.google.com
 +.notebooklm.googleapis.com
 +.notegpt.io
++.nousresearch.com
 +.novelai.net
 +.npm.community
 +.npmjs.com
