@@ -300,6 +300,7 @@
 +.servd-anthropic-website.b-cdn.net
 +.sharepointonline.com
 +.sider.ai
++.smartsheet.com
 +.smoot.apple.com
 +.sora.com
 +.spicywriter.com

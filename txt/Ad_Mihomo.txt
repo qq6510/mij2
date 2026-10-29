@@ -8608,7 +8608,6 @@
 +.brwhome.shop
 +.celadon-earrings.shop
 +.concessionsale.shop
-+.dajars.shop
 +.dseulm.shop
 +.gestrauss.shop
 +.gorituals.shop
@@ -8636,7 +8635,6 @@
 +.pitbullsportsi.shop
 +.pitbullsportso.shop
 +.pitbullsportsy.shop
-+.quiavo.shop
 +.ritualsbodys.shop
 +.ritualseur.shop
 +.scrimshaw-quillon.shop
