@@ -368,6 +368,7 @@
 +.answering-islam.org
 +.antd.org
 +.anthonycalzadilla.com
++.anthropic.auth0.com
 +.anthropic.com
 +.anti1984.com
 +.antichristendom.com
@@ -894,6 +895,7 @@
 +.brucewang.net
 +.brutaltgp.com
 +.bsky.app
++.bsky.chat
 +.bsky.network
 +.bsky.social
 +.bt2mag.com
@@ -1257,7 +1259,10 @@
 +.clashyun.com
 +.classicalguitarblog.net
 +.claude.ai
++.claude.app
 +.claude.com
++.claudemcpcontent.com
++.claudeusercontent.com
 +.clb.org.hk
 +.cleansite.biz
 +.cleansite.info
