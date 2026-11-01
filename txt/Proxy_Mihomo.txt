@@ -6232,6 +6232,7 @@
 +.torproject.org
 +.torrentgalaxy.to
 +.torrentkitty.tv
++.torrentleech.org
 +.torrentmac.net
 +.torrentprivacy.com
 +.torrentproject.se
@@ -7254,6 +7255,7 @@
 +.youtubegaming.com
 +.youtubekids.com
 +.youversion.com
++.youversionapi.com
 +.youwin.com
 +.youxu.info
 +.yoyo.org
