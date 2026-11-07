@@ -33,7 +33,6 @@ declare -A RULES=(
     "
     [AI]="sort-clash.py
         https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/meta/domain/ai.list
-        https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.list
         https://gist.githubusercontent.com/qq6510/c336dd2875fbf04fb50e1016783592d4/raw/Copilot.list
     "
     [zhi]="sort-clash.py
