@@ -146,6 +146,7 @@
 +.grazie.aws.intellij.net
 +.grok.com
 +.grok.x.com
++.grokbot.com
 +.grokipedia.com
 +.groq.com
 +.gspe1-ssl.ls.apple.com
@@ -153,6 +154,7 @@
 +.h2o.ai
 +.hf.co
 +.hf.space
++.http-intake.logs.us5.datadoghq.com
 +.huggingface.co
 +.identrust.com
 +.imagine.meta.com
@@ -241,6 +243,7 @@
 +.pplx-res.cloudinary.com
 +.pplx.ai
 +.proactivebackend-pa.googleapis.com
++.production-copilot-host-westus.webpubsub.azure.com
 +.production-openaicom-storage.azureedge.net
 +.qoder.com
 +.robinfrontend-pa.googleapis.com
