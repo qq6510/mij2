@@ -6658,7 +6658,6 @@
 +.tiexing.com
 +.ads.tiktok.com
 +.ads-api.tiktok.com
-+.ads-jp.tiktok.com
 +.ads-sg.tiktok.com
 +.analytics.tiktok.com
 +.business-api.tiktok.com
@@ -7645,7 +7644,6 @@
 +.y9oog9hyuo.com
 +.adserver.yaboo.com
 +.yah3ph65tc.com
-+.adspecs.yahoo.com
 +.advertising.yahoo.com
 +.ads.auctions.yahoo.com
 +.log.fc.yahoo.com
