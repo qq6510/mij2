@@ -1051,6 +1051,8 @@
 +.online.sh.cn
 +.api.shanghailingye.cn
 +.shanhutech.cn
++.shihuo.log.shihuocdn.cn
++.shihuo-new.log.shihuocdn.cn
 +.statichf.shihuocdn.cn
 +.shilian168.cn
 +.ad.shobo.cn
@@ -5510,6 +5512,7 @@
 +.obsworks.com
 +.obv3epx22d.com
 +.analytics.oceanengine.com
++.lf-event-manager.oceanengine.com
 +.ocvdi0rum.com
 +.od6992uotl.com
 +.odj3j8dsff.com
