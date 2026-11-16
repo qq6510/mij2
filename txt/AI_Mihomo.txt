@@ -104,6 +104,7 @@
 +.cursorapi.com
 +.cursorvm.com
 +.daily-cloudcode-pa.googleapis.com
++.daily-cloudcode-pa.sandbox.googleapis.com
 +.deepmind.com
 +.deepmind.google
 +.deepwiki.com

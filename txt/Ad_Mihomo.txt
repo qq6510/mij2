@@ -1050,6 +1050,7 @@
 +.sglyd.cn
 +.online.sh.cn
 +.api.shanghailingye.cn
++.bid.shanghailingye.cn
 +.shanhutech.cn
 +.shihuo.log.shihuocdn.cn
 +.shihuo-new.log.shihuocdn.cn
@@ -6445,6 +6446,8 @@
 +.datafinder-beacon.starii-rover.com
 +.web-beacon.starii-rover.com
 +.adx-strategy-api-cn.statisticslinks.com
++.da.statisticslinks.com
++.tk.statisticslinks.com
 +.api.statsig.com
 +.std72yw0s.com
 +.ste000u5mk.com
