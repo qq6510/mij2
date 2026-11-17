@@ -142,6 +142,7 @@
 +.generativeai.google
 +.generativelanguage.googleapis.com
 +.githubcopilot.com
++.graph.facebook.com
 +.graph.microsoft.com
 +.grazie.ai
 +.grazie.aws.intellij.net
